@@ -1,0 +1,660 @@
+{
+    "industries": {
+        
+       "Pulp and Paper Products":{
+  
+         "GHG emissions": { "topics": { "Greenhouse Gas Emissions": { "metric_codes":
+["RR0202-01", "RR0202-02"]
+ }}
+ },
+
+    "Air quality": { "topics": { "Air Quality": { "metric_codes":
+["RR0202-03"]
+ }}
+ },
+
+    "Energy management": { "topics": { "Energy Management": { "metric_codes":
+["RR0202-04"]
+ }}
+ },
+
+    "Water and wastewater management": { "topics": { "Water Management": { "metric_codes":
+["RR0202-05", "RR0202-06"]
+ }}
+ },
+
+    "Supply chain management": { "topics": { "Fiber Sourcing & Recovery": { "metric_codes":
+["RR0202-07"]
+ }}
+ },
+     "Materials sourcing": { "topics": { "Fiber Sourcing & Recovery": { "metric_codes":
+["RR0202-08"]
+ }}
+ }
+ },
+ 
+ "Forestry and Logging":{
+
+    "Biodiversity impacts": { "topics": { "Ecosystem Services & Impacts": { "metric_codes":
+["RR0201-01", "RR0201-02", "RR0201-03", "RR0201-04"]
+ }}
+ },
+
+    "Human rights and community relations": { "topics": { "Rights of Indigenous Peoples": { "metric_codes":
+["RR0201-05", "RR0201-06"]
+ }}
+ },
+
+    "Environmental, social impacts on assets & operations": { "topics": { "Climate Change Adaptation": { "metric_codes":
+["RR0201-07"]
+ }}
+ }
+ },
+ 
+ "Fuel Cells and Industrial Batteries":{
+
+    "Energy management": { "topics": { "Energy Management": { "metric_codes":
+["RR0104-01"]
+ }}
+ },
+
+    "Employee health, safety and wellbeing": { "topics": { "Workforce Health & Safety": { "metric_codes":
+["RR0104-02", "RR0104-03"]
+ }}
+ },
+
+    "Lifecycle impacts of products and services": { "topics": { "Product Efficiency": { "metric_codes":
+["RR0104-04", "RR0104-05", "RR0104-06", "RR0104-07", "RR0104-08"]
+ },
+
+    "Product End-of-life Management": { "metric_codes":
+["RR0104-09", "RR0104-10", "RR0104-11"]
+ }}
+ },
+
+    "Materials sourcing": { "topics": { "Materials Sourcing": { "metric_codes":
+["RR0104-12", "RR0104-13", "RR0104-14"]
+ }}
+ }
+ },
+
+"Wind Energy":{
+    "Employee health, safety and wellbeing": { "topics": { "Workforce Health & Safety": { "metric_codes":
+["RR0103-01"]
+ }}
+ },
+
+    "Lifecycle impacts of products and services": { "topics": { "Design to Mitigate Community & Ecological Impacts": { "metric_codes":
+["RR0103-02"]
+ },
+  "Materials Efficiency": { "metric_codes":
+["RR0103-05", "RR0103-06", "RR0103-07"]
+ }}
+ },
+
+    "Biodiversity impacts": { "topics": { "Design to Mitigate Community & Ecological Impacts": { "metric_codes":
+["RR0103-03", "RR0103-04"]
+ }}
+ },
+
+    "Materials sourcing": { "topics": { "Materials Sourcing": { "metric_codes":
+["RR0103-08", "RR0103-09", "RR0103-10"]
+ }}
+ },
+
+    "Human rights and community relations": { "topics": { "Design to Mitigate Community & Ecological Impacts": { "metric_codes":
+["RR0103-03", "RR0103-04"]
+ }}
+ }
+},
+
+"Solar Energy": {
+    "Energy management": { "topics": { "Energy Management in Manufacturing": { "metric_codes":
+["RR0102-01"]
+ }}
+ },
+
+    "Water and wastewater management": { "topics": { "Water Management in Manufacturing": { "metric_codes":
+["RR0102-02", "RR0102-03"]
+ }}
+ },
+
+    "Waste and hazardous materials management": { "topics": { "Hazardous Materials Management": { "metric_codes":
+["RR0102-04", "RR0102-05"]
+ }}
+ },
+
+    "Biodiversity impacts": { "topics": { "Community & Ecological Impacts of Project Development": { "metric_codes":
+["RR0102-06", "RR0102-07"]
+ }}
+ },
+
+    "Access and affordability": { "topics": { "Management of Energy Infrastructure Integration & Related Regulations": { "metric_codes":
+["RR0102-08", "RR0102-09", "RR0102-10"]
+ }}
+ },
+
+    "Lifecycle impacts of products and services": { "topics": { "Product Lifecycle Environmental Impacts": { "metric_codes":
+["RR0102-11", "RR0102-12", "RR0102-13"]
+ }}
+ },
+
+    "Materials sourcing": { "topics": { "Materials Sourcing": { "metric_codes":
+["RR0102-14", "RR0102-15", "RR0102-16"]
+ }}
+ },
+
+    "Human rights and community relations": { "topics": { "Community & Ecological Impacts of Project Development": { "metric_codes":
+["RR0102-06", "RR0102-07"]
+ }}
+ }
+},
+
+"Biofuels":{
+    "Air quality": { "topics": { "Air Quality": { "metric_codes":
+["RR0101-01", "RR0101-02"]
+ }}
+ },
+
+    "Water and wastewater management": { "topics": { "Water Management in Manufacturing": { "metric_codes":
+["RR0101-03", "RR0101-04", "RR0101-05"]
+ }}
+ },
+
+    "Lifecycle impacts of products and services": { "topics": { "Product Formulation & Impacts on Food Markets": { "metric_codes":
+["RR0101-06", "RR0101-07"]
+ }}
+ },
+
+    "GHG emissions": { "topics": { "Lifecycle Emissions Balance": { "metric_codes":
+["RR0101-08"]
+ }}
+ },
+
+    "Regulatory capture and political influence": { "topics": { "Management of the Legal & Regulatory Environment": { "metric_codes":
+["RR0101-09", "RR0101-10"]
+ }}
+ },
+
+    "Accident and safety management": { "topics": { "Operational Safety, Emergency Preparedness, and Response": { "metric_codes":
+["RR0101-11"]
+ }}
+ },
+
+    "Materials sourcing": { "topics": { "Sourcing & Environmental Impacts of Feedstock Production": { "metric_codes":
+["RR0101-12"]
+ }}
+ },
+ 
+   "Supply chain management": { "topics": { "Sourcing & Environmental Impacts of Feedstock Production": { "metric_codes":
+["RR0101-13"]
+ }}
+ },
+
+    "Lifecycle impacts of products and services": { "topics": { "Product Formulation & Impacts on Food Markets": { "metric_codes":
+["RR0101-06", "RR0101-07"]
+ },   "Lifecycle Emissions Balance": { "metric_codes":
+["RR0101-08"]
+ }}
+ }
+ 
+ }
+        
+    },
+    "metrics": {
+        "RR0202-01": "Gross global Scope 1 emissions ",
+        "RR0202-02": "Description of long-term and short-term strategy or plan to manage Scope 1 emissions, emission-reduction targets, and an analysis of performance against those targets",
+        "RR0202-03": "Air emissions for the following pollutants: NOx (excluding N2O), SOx, volatile organic compounds (VOCs), particulate matter (PM), and hazardous air pollutants (HAPs)",
+        "RR0202-04": "Total energy consumed, (1) percentage grid electricity, (2) percentage from biomass, and (3) percentage from other renewables",
+        "RR0202-05": "(1) Total water withdrawn and (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress",
+        "RR0202-06": "Discussion of water management risks and description of strategies and practices to mitigate those risks",
+        "RR0202-07": "Percentage of wood fiber sourced (1) from third-party certified forestlands and percentage to each standard and (2) meeting other fiber sourcing standards and percentage to each standard",
+        "RR0202-08": "Amount of recycled and recovered fiber procured",
+        "RR0201-01": "Area of forestland certified to a third-party forest management standard, percentage certified to each standard",
+        "RR0201-02": "Area of forestland with protected conservation status",
+        "RR0201-03": "Area of forestland in endangered species habitat",
+        "RR0201-04": "Discussion of approach to optimizing opportunities from ecosystem services provided by forestlands",
+        "RR0201-05": "Area of forestland in indigenous land",
+        "RR0201-06": "Discussion of engagement processes and due diligence practices with respect to human rights, indigenous rights, and the local community",
+        "RR0201-07": "Discussion of strategy to manage opportunities for and risks to forest management and timber production presented by climate change",
+        "RR0104-01": "Total energy consumed, percentage grid electricity, percentage renewable",
+        "RR0104-02": "(1) Total recordable injury rate (TRIR) and (2) fatality rate",
+        "RR0104-03": "Discussion of efforts to assess, monitor, and reduce exposure of workforce to human health hazards",
+        "RR0104-04": "Average storage capacity of batteries, by product application and technology type",
+        "RR0104-05": "Average energy efficiency of fuel cells as (1) electrical efficiency and (2) thermal efficiency, by product application and technology type",
+        "RR0104-06": "Average battery efficiency as coulombic efficiency, by product application and technology type",
+        "RR0104-07": "Average operating lifetime of fuel cells, by product application and technology type",
+        "RR0104-08": "Average operating lifetime of batteries, by product application and technology type",
+        "RR0104-09": "Percentage of products sold that are recyclable or reusable",
+        "RR0104-10": "Weight of end-of-life material recovered, percentage of recovered materials that are recycled",
+        "RR0104-11": "Discussion of approach to manage use, reclamation, and disposal of hazardous materials",
+        "RR0104-12": "Percentage of materials costs for items containing critical materials",
+        "RR0104-13": "Percentage of tungsten, tin, tantalum, and gold smelters within the supply chain that are verified conflict-free",
+        "RR0104-14": "Discussion of the management of risks associated with the use of critical materials and conflict minerals",
+        "RR0103-01": "(1) Total recordable injury rate (TRIR) and (2) fatality rate for (a) direct employees and (b) contract employees",
+        "RR0103-02": "Average A-weighted sound power level of wind turbines, by wind turbine class",
+        "RR0103-03": "Backlog cancellations associated with community or ecological impacts",
+        "RR0103-04": "Description of efforts to address ecological and community impacts of wind energy production through turbine design",
+        "RR0103-05": "Top five materials consumed, by weight",
+        "RR0103-06": "Average top head mass per turbine capacity, by wind turbine class",
+        "RR0103-07": "Discussion of approach to optimize materials efficiency of wind turbine design",
+        "RR0103-08": "Percentage of materials costs for items containing critical materials",
+        "RR0103-09": "Percentage of tungsten, tin, tantalum, and gold smelters within the supply chain that are verified conflict-free",
+        "RR0103-10": "Discussion of the management of risks associated with the use of critical materials and conflict minerals",
+        "RR0102-01": "Total energy consumed, percentage grid electricity, percentage renewable",
+        "RR0102-02": "(1) Total water withdrawn and (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress",
+        "RR0102-03": "Discussion of water management risks and description of strategies and practices to mitigate those risks",
+        "RR0102-04": "Amount of hazardous waste, percentage recycled",
+        "RR0102-05": "Number and aggregate quantity of reportable spills, quantity recovered",
+        "RR0102-06": "Project development asset impairments associated with community or ecological impacts",
+        "RR0102-07": "Description of efforts in solar energy system project development to address community and ecological impacts",
+        "RR0102-08": "Average price of solar energy (1) photovoltaic (PV) modules and (2) completed utility-scale systems",
+        "RR0102-09": "Description of risks associated with integration of solar energy into existing energy infrastructure and discussion of efforts to manage those risks",
+        "RR0102-10": "Discussion of risks and opportunities associated with energy policy and its impact on the integration of solar energy into existing energy infrastructure",
+        "RR0102-11": "Percentage of products sold that are recyclable or reusable",
+        "RR0102-12": "Weight of end-of-life material recovered, percentage of recovered materials that are recycled",
+        "RR0102-13": "Discussion of approach to manage use, reclamation, and disposal of hazardous materials",
+        "RR0102-14": "Percentage of tungsten, tin, tantalum, and gold smelters within the supply chain that are verified conflict-free",
+        "RR0102-15": "Discussion of the management of risks associated with the use of conflict minerals",
+        "RR0102-16": "Discussion of the management of environmental risks associated with the polysilicon supply chain",
+        "RR0101-01": "Air emissions for the following pollutants: NOx (excluding N2O), SOx, volatile organic compounds (VOCs), particulate matter (PM), and hazardous air pollutants (HAPs)",
+        "RR0101-02": "Number of incidents of non-compliance with air quality permits, standards, and regulations",
+        "RR0101-03": "(1) Total water withdrawn and (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress",
+        "RR0101-04": "Discussion of water management risks and description of strategies and practices to mitigate those risks",
+        "RR0101-05": "Number of incidents of non-compliance with water quality permits, standards, and regulations",
+        "RR0101-06": "Top five feedstocks used for biofuels production, by weight",
+        "RR0101-07": "Percentage of feedstock grown in food-insecure countries",
+        "RR0101-08": "Lifecycle greenhouse gas (GHG) emissions, by biofuel type",
+        "RR0101-09": "Amount of subsidies received through government programs",
+        "RR0101-10": "Discussion of positions on the regulatory and political environment related to environmental and social factors and description of efforts to manage risks and opportunities presented",
+        "RR0101-11": "Process Safety Incidents Count (PSIC), Process Safety Total Incident Rate (PSTIR), and Process Safety Incident Severity Rate (PSISR)",
+        "RR0101-12": "Description of strategy to manage risks associated with environmental impacts of feedstock production",
+        "RR0101-13": "Percentage of biofuel production third-party certified to an environmental sustainability standard"
+    },
+    "evidence": {
+        "Biofuels": {
+            "Air Quality": {
+                "hm_score": "75",
+                "iwg_score": "92%",
+                "ei": "High",
+                "rev_cost": true,
+                "asset_lib": true,
+                "cost_capital": false,
+                "efi": "Medium",
+                "prob_mag": true,
+                "extern": false,
+                "fli": "Yes"
+            },
+            "Water Management in Manufacturing": {
+                "hm_score": "58",
+                "iwg_score": "92%",
+                "ei": "High",
+                "rev_cost": true,
+                "asset_lib": true,
+                "cost_capital": false,
+                "efi": "High",
+                "prob_mag": true,
+                "extern": false,
+                "fli": "Yes"
+            },
+            "Product Formulation & Impacts on Food Markets": {
+                "hm_score": "78",
+                "iwg_score": "80%",
+                "ei": "High",
+                "rev_cost": true,
+                "asset_lib": false,
+                "cost_capital": true,
+                "efi": "Medium",
+                "prob_mag": true,
+                "extern": true,
+                "fli": "Yes"
+            },
+            "Lifecycle Emissions Balance": {
+                "hm_score": "75",
+                "iwg_score": "84%",
+                "ei": "High",
+                "rev_cost": true,
+                "asset_lib": true,
+                "cost_capital": true,
+                "efi": "High",
+                "prob_mag": true,
+                "extern": true,
+                "fli": "Yes"
+            },
+            "Management of the Legal & Regulatory Environment": {
+                "hm_score": "17",
+                "iwg_score": "56%",
+                "ei": "Medium",
+                "rev_cost": true,
+                "asset_lib": true,
+                "cost_capital": true,
+                "efi": "High",
+                "prob_mag": false,
+                "extern": true,
+                "fli": "Yes"
+            },
+            "Operational Safety, Emergency Preparedness, and Response": {
+                "hm_score": "67",
+                "iwg_score": "68%",
+                "ei": "Medium",
+                "rev_cost": true,
+                "asset_lib": true,
+                "cost_capital": true,
+                "efi": "Medium",
+                "prob_mag": false,
+                "extern": false,
+                "fli": "No"
+            },
+            "Sourcing & Environmental Impacts of Feedstock Production": {
+                "hm_score": "56",
+                "iwg_score": "84%",
+                "ei": "Medium",
+                "rev_cost": true,
+                "asset_lib": true,
+                "cost_capital": true,
+                "efi": "High",
+                "prob_mag": true,
+                "extern": true,
+                "fli": "Yes"
+            }
+        },
+        "Solar Energy": {
+            "Energy Management in Manufacturing": {
+                "hm_score": "75",
+                "iwg_score": "92%",
+                "ei": "High",
+                "rev_cost": true,
+                "asset_lib": false,
+                "cost_capital": false,
+                "efi": "Medium",
+                "prob_mag": true,
+                "extern": false,
+                "fli": "Yes"
+            },
+            "Water Management in Manufacturing": {
+                "hm_score": "50",
+                "iwg_score": " -%",
+                "ei": "High",
+                "rev_cost": true,
+                "asset_lib": false,
+                "cost_capital": true,
+                "efi": "Medium",
+                "prob_mag": true,
+                "extern": false,
+                "fli": "Yes"
+            },
+            "Hazardous Materials Management": {
+                "hm_score": "38",
+                "iwg_score": "100%",
+                "ei": "High",
+                "rev_cost": true,
+                "asset_lib": true,
+                "cost_capital": true,
+                "efi": "Medium",
+                "prob_mag": true,
+                "extern": false,
+                "fli": "Yes"
+            },
+            "Community & Ecological Impacts of Project Development": {
+                "hm_score": "29",
+                "iwg_score": " - %",
+                "ei": "Medium",
+                "rev_cost": true,
+                "asset_lib": true,
+                "cost_capital": true,
+                "efi": "High",
+                "prob_mag": false,
+                "extern": true,
+                "fli": "Yes"
+            },
+            "Management of Energy Infrastructure Integration & Related Regulations": {
+                "hm_score": "63",
+                "iwg_score": "77%",
+                "ei": "High",
+                "rev_cost": true,
+                "asset_lib": true,
+                "cost_capital": true,
+                "efi": "High",
+                "prob_mag": true,
+                "extern": true,
+                "fli": "Yes"
+            },
+            "Product Lifecycle Environmental Impacts": {
+                "hm_score": "44",
+                "iwg_score": " - %",
+                "ei": "Medium",
+                "rev_cost": true,
+                "asset_lib": true,
+                "cost_capital": true,
+                "efi": "Medium",
+                "prob_mag": true,
+                "extern": false,
+                "fli": "Yes"
+            },
+            "Materials Sourcing": {
+                "hm_score": "25",
+                "iwg_score": "77%",
+                "ei": "Medium",
+                "rev_cost": true,
+                "asset_lib": true,
+                "cost_capital": true,
+                "efi": "Medium",
+                "prob_mag": true,
+                "extern": false,
+                "fli": "Yes"
+            }
+        },
+        "Wind Energy": {
+            "Workforce Health & Safety": {
+                "hm_score": "58",
+                "iwg_score": " -%",
+                "ei": "Medium",
+                "rev_cost": true,
+                "asset_lib": true,
+                "cost_capital": false,
+                "efi": "Medium",
+                "prob_mag": true,
+                "extern": false,
+                "fli": "Yes"
+            },
+            "Design to Mitigate Community & Ecological Impacts": {
+                "hm_score": "56",
+                "iwg_score": "93%",
+                "ei": "High",
+                "rev_cost": true,
+                "asset_lib": true,
+                "cost_capital": true,
+                "efi": "High",
+                "prob_mag": true,
+                "extern": true,
+                "fli": "Yes"
+            },
+            "Materials Efficiency": {
+                "hm_score": "67",
+                "iwg_score": "87%",
+                "ei": "High",
+                "rev_cost": true,
+                "asset_lib": false,
+                "cost_capital": true,
+                "efi": "High",
+                "prob_mag": false,
+                "extern": false,
+                "fli": "No"
+            },
+            "Materials Sourcing": {
+                "hm_score": "33",
+                "iwg_score": "93%",
+                "ei": "Medium",
+                "rev_cost": true,
+                "asset_lib": true,
+                "cost_capital": true,
+                "efi": "Medium",
+                "prob_mag": true,
+                "extern": false,
+                "fli": "Yes"
+            }
+        },
+        "Fuel Cells and Industrial Batteries": {
+            "Energy Management": {
+                "hm_score": "75",
+                "iwg_score": "88%",
+                "ei": "High",
+                "rev_cost": true,
+                "asset_lib": false,
+                "cost_capital": true,
+                "efi": "Medium",
+                "prob_mag": true,
+                "extern": false,
+                "fli": "Yes"
+            },
+            "Workforce Health & Safety": {
+                "hm_score": "25",
+                "iwg_score": "82%",
+                "ei": "Medium",
+                "rev_cost": true,
+                "asset_lib": true,
+                "cost_capital": false,
+                "efi": "Medium",
+                "prob_mag": true,
+                "extern": false,
+                "fli": "Yes"
+            },
+            "Product Efficiency": {
+                "hm_score": "88",
+                "iwg_score": "100%",
+                "ei": "High",
+                "rev_cost": true,
+                "asset_lib": false,
+                "cost_capital": true,
+                "efi": "High",
+                "prob_mag": true,
+                "extern": true,
+                "fli": "Yes"
+            },
+            "Product End-of-life Management": {
+                "hm_score": "50",
+                "iwg_score": "94%",
+                "ei": "High",
+                "rev_cost": true,
+                "asset_lib": false,
+                "cost_capital": true,
+                "efi": "Medium",
+                "prob_mag": true,
+                "extern": false,
+                "fli": "Yes"
+            },
+            "Materials Sourcing": {
+                "hm_score": "38",
+                "iwg_score": "76%",
+                "ei": "Medium",
+                "rev_cost": true,
+                "asset_lib": true,
+                "cost_capital": true,
+                "efi": "High",
+                "prob_mag": true,
+                "extern": false,
+                "fli": "Yes"
+            }
+        },
+        "Forestry and Logging": {
+            "Ecosystem Services & Impacts": {
+                "hm_score": "94",
+                "iwg_score": "63%",
+                "ei": "High",
+                "rev_cost": true,
+                "asset_lib": true,
+                "cost_capital": true,
+                "efi": "High",
+                "prob_mag": false,
+                "extern": true,
+                "fli": "Yes"
+            },
+            "Rights of Indigenous Peoples": {
+                "hm_score": "67",
+                "iwg_score": "50%",
+                "ei": "Medium",
+                "rev_cost": true,
+                "asset_lib": true,
+                "cost_capital": true,
+                "efi": "Medium",
+                "prob_mag": false,
+                "extern": false,
+                "fli": "No"
+            },
+            "Climate Change Adaptation": {
+                "hm_score": "75",
+                "iwg_score": "58%",
+                "ei": "High",
+                "rev_cost": true,
+                "asset_lib": true,
+                "cost_capital": true,
+                "efi": "High",
+                "prob_mag": true,
+                "extern": false,
+                "fli": "Yes"
+            }
+        },
+        "Pulp and Paper Products": {
+            "Greenhouse Gas Emissions": {
+                "hm_score": "83",
+                "iwg_score": "76%",
+                "ei": "High",
+                "rev_cost": true,
+                "asset_lib": false,
+                "cost_capital": true,
+                "efi": "High",
+                "prob_mag": true,
+                "extern": true,
+                "fli": "Yes"
+            },
+            "Air Quality": {
+                "hm_score": "83",
+                "iwg_score": "71%",
+                "ei": "Medium",
+                "rev_cost": true,
+                "asset_lib": false,
+                "cost_capital": false,
+                "efi": "High",
+                "prob_mag": false,
+                "extern": false,
+                "fli": "No"
+            },
+            "Energy Management": {
+                "hm_score": "100",
+                "iwg_score": "76%",
+                "ei": "High",
+                "rev_cost": true,
+                "asset_lib": false,
+                "cost_capital": false,
+                "efi": "High",
+                "prob_mag": true,
+                "extern": false,
+                "fli": "Yes"
+            },
+            "Water Management": {
+                "hm_score": "75",
+                "iwg_score": "79%",
+                "ei": "High",
+                "rev_cost": true,
+                "asset_lib": false,
+                "cost_capital": true,
+                "efi": "High",
+                "prob_mag": true,
+                "extern": false,
+                "fli": "Yes"
+            },
+            "Fiber Sourcing & Recovery": {
+                "hm_score": "94",
+                "iwg_score": "87%",
+                "ei": "High",
+                "rev_cost": true,
+                "asset_lib": true,
+                "cost_capital": true,
+                "efi": "High",
+                "prob_mag": false,
+                "extern": true,
+                "fli": "Yes"
+            }
+        }
+    }
+}

@@ -1,0 +1,1292 @@
+{
+  "industries": {
+    "Health Care Distribution": {
+      "Business ethics and transparency of payments": {
+        "topics": {
+          "Corruption and Bribery": {
+            "metric_codes": [
+              "HC0302-10",
+              "HC0302-11"
+            ]
+          }
+        }
+      },
+      "Fuel management": {
+        "topics": {
+          "Fuel Efficiency": {
+            "metric_codes": [
+              "HC0302-06",
+              "HC0302-07"
+            ]
+          }
+        }
+      },
+      "Product quality and safety": {
+        "topics": {
+          "Counterfeit Drugs": {
+            "metric_codes": [
+              "HC0302-03",
+              "HC0302-04",
+              "HC0302-05"
+            ]
+          },
+          "Product Safety": {
+            "metric_codes": [
+              "HC0302-01",
+              "HC0302-02"
+            ]
+          }
+        }
+      },
+      "Product packaging": {
+        "topics": {
+          "Product Lifecycle Management": {
+            "metric_codes": [
+              "HC0302-08"
+            ]
+          }
+        }
+      },
+      "Lifecycle impacts of products and services": {
+        "topics": {
+          "Product Lifecycle Management": {
+            "metric_codes": [
+              "HC0302-09"
+            ]
+          }
+        }
+      }
+    },
+    "Medical Equipment and Supplies": {
+      "Materials sourcing": {
+        "topics": {
+          "Manufacturing and Supply Chain Quality Management": {
+            "metric_codes": [
+              "HC0201-18"
+            ]
+          }
+        }
+      },
+      "Lifecycle impacts of products and services": {
+        "topics": {
+          "Product Design and Lifecycle Management": {
+            "metric_codes": [
+              "HC0201-11",
+              "HC0201-12"
+            ]
+          }
+        }
+      },
+      "Access and affordability": {
+        "topics": {
+          "Affordability and Fair Pricing": {
+            "metric_codes": [
+              "HC0201-06",
+              "HC0201-07"
+            ]
+          }
+        }
+      },
+      "Fair marketing and advertising": {
+        "topics": {
+          "Ethical Marketing": {
+            "metric_codes": [
+              "HC0201-04",
+              "HC0201-05"
+            ]
+          }
+        }
+      },
+      "Energy management": {
+        "topics": {
+          "Energy, Water, and Waste Efficiency": {
+            "metric_codes": [
+              "HC0201-08"
+            ]
+          }
+        }
+      },
+      "Supply chain management": {
+        "topics": {
+          "Manufacturing and Supply Chain Quality Management": {
+            "metric_codes": [
+              "HC0201-15",
+              "HC0201-16",
+              "HC0201-17"
+            ]
+          }
+        }
+      },
+      "Business ethics and transparency of payments": {
+        "topics": {
+          "Corruption and Bribery": {
+            "metric_codes": [
+              "HC0201-13",
+              "HC0201-14"
+            ]
+          }
+        }
+      },
+      "Product quality and safety": {
+        "topics": {
+          "Product Safety": {
+            "metric_codes": [
+              "HC0201-01"
+            ]
+          }
+        }
+      },
+      "Waste and hazardous materials management": {
+        "topics": {
+          "Energy, Water, and Waste Efficiency": {
+            "metric_codes": [
+              "HC0201-10"
+            ]
+          }
+        }
+      },
+      "Customer welfare": {
+        "topics": {
+          "Product Safety": {
+            "metric_codes": [
+              "HC0201-02",
+              "HC0201-03"
+            ]
+          }
+        }
+      },
+      "Water and wastewater management": {
+        "topics": {
+          "Energy, Water, and Waste Efficiency": {
+            "metric_codes": [
+              "HC0201-09"
+            ]
+          }
+        }
+      }
+    },
+    "Pharmaceuticals": {
+      "Lifecycle impacts of products and services": {
+        "topics": {
+          "Drug Safety and Side Effects": {
+            "metric_codes": [
+              "HC0101-06"
+            ]
+          }
+        }
+      },
+      "Access and affordability": {
+        "topics": {
+          "Access to Medicines": {
+            "metric_codes": [
+              "HC0101-01",
+              "HC0101-02"
+            ]
+          },
+          "Affordability and Fair Pricing": {
+            "metric_codes": [
+              "HC0101-10",
+              "HC0101-11"
+            ]
+          }
+        }
+      },
+      "Energy management": {
+        "topics": {
+          "Energy, Water, and Waste Efficiency": {
+            "metric_codes": [
+              "HC0101-23"
+            ]
+          }
+        }
+      },
+      "Product quality and safety": {
+        "topics": {
+          "Counterfeit Drugs": {
+            "metric_codes": [
+              "HC0101-20",
+              "HC0101-21",
+              "HC0101-22"
+            ]
+          },
+          "Drug Safety and Side Effects": {
+            "metric_codes": [
+              "HC0101-05"
+            ]
+          }
+        }
+      },
+      "Employee health, safety and wellbeing": {
+        "topics": {
+          "Employee Health and Safety": {
+            "metric_codes": [
+              "HC0101-17",
+              "HC0101-18",
+              "HC0101-19"
+            ]
+          }
+        }
+      },
+      "Supply chain management": {
+        "topics": {
+          "Manufacturing and Supply Chain Quality Management": {
+            "metric_codes": [
+              "HC0101-29",
+              "HC0101-30"
+            ]
+          }
+        }
+      },
+      "Business ethics and transparency of payments": {
+        "topics": {
+          "Corruption and Bribery": {
+            "metric_codes": [
+              "HC0101-27",
+              "HC0101-28"
+            ]
+          }
+        }
+      },
+      "Recruitment, development and retention": {
+        "topics": {
+          "Employee Recruitment, Development, and Retention": {
+            "metric_codes": [
+              "HC0101-14",
+              "HC0101-15",
+              "HC0101-16"
+            ]
+          }
+        }
+      },
+      "Human rights and community relations": {
+        "topics": {
+          "Safety of Clinical Trial Participants": {
+            "metric_codes": [
+              "HC0101-07",
+              "HC0101-08",
+              "HC0101-09"
+            ]
+          }
+        }
+      },
+      "Waste and hazardous materials management": {
+        "topics": {
+          "Energy, Water, and Waste Efficiency": {
+            "metric_codes": [
+              "HC0101-25",
+              "HC0101-26"
+            ]
+          }
+        }
+      },
+      "Customer welfare": {
+        "topics": {
+          "Drug Safety and Side Effects": {
+            "metric_codes": [
+              "HC0101-03",
+              "HC0101-04"
+            ]
+          }
+        }
+      },
+      "Fair marketing and advertising": {
+        "topics": {
+          "Ethical Marketing": {
+            "metric_codes": [
+              "HC0101-12",
+              "HC0101-13"
+            ]
+          }
+        }
+      },
+      "Water and wastewater management": {
+        "topics": {
+          "Energy, Water, and Waste Efficiency": {
+            "metric_codes": [
+              "HC0101-24"
+            ]
+          }
+        }
+      }
+    },
+    "Managed Care": {
+      "Customer welfare": {
+        "topics": {
+          "Improved Outcomes": {
+            "metric_codes": [
+              "HC0303-04",
+              "HC0303-05",
+              "HC0303-06"
+            ]
+          },
+          "Plan Performance": {
+            "metric_codes": [
+              "HC0303-07",
+              "HC0303-08",
+              "HC0303-09",
+              "HC0303-10"
+            ]
+          }
+        }
+      },
+      "Data security and customer privacy": {
+        "topics": {
+          "Customer Privacy and Technology Standards": {
+            "metric_codes": [
+              "HC0303-13",
+              "HC0303-14"
+            ]
+          }
+        }
+      },
+      "Fair disclosure and labeling": {
+        "topics": {
+          "Pricing Transparency and Plan Literacy": {
+            "metric_codes": [
+              "HC0303-11",
+              "HC0303-12"
+            ]
+          }
+        }
+      },
+      "Access and affordability": {
+        "topics": {
+          "Access to Coverage": {
+            "metric_codes": [
+              "HC0303-01",
+              "HC0303-02",
+              "HC0303-03"
+            ]
+          }
+        }
+      },
+      "Environmental, social impacts on assets & operations": {
+        "topics": {
+          "Climate Change Impacts on Human Health": {
+            "metric_codes": [
+              "HC0303-15"
+            ]
+          }
+        }
+      }
+    },
+    "Health Care Delivery": {
+      "Access and affordability": {
+        "topics": {
+          "Access for Low-Income Patients": {
+            "metric_codes": [
+              "HC0301-05",
+              "HC0301-06"
+            ]
+          }
+        }
+      },
+      "Energy management": {
+        "topics": {
+          "Energy and Waste Efficiency": {
+            "metric_codes": [
+              "HC0301-11"
+            ]
+          }
+        }
+      },
+      "Business ethics and transparency of payments": {
+        "topics": {
+          "Fraud and Unnecessary Procedures": {
+            "metric_codes": [
+              "HC0301-15"
+            ]
+          }
+        }
+      },
+      "Recruitment, development and retention": {
+        "topics": {
+          "Employee Recruitment, Development, and Retention": {
+            "metric_codes": [
+              "HC0301-07",
+              "HC0301-08"
+            ]
+          }
+        }
+      },
+      "Fair disclosure and labeling": {
+        "topics": {
+          "Pricing and Billing Transparency": {
+            "metric_codes": [
+              "HC0301-09",
+              "HC0301-10"
+            ]
+          }
+        }
+      },
+      "Waste and hazardous materials management": {
+        "topics": {
+          "Energy and Waste Efficiency": {
+            "metric_codes": [
+              "HC0301-12",
+              "HC0301-13"
+            ]
+          }
+        }
+      },
+      "Customer welfare": {
+        "topics": {
+          "Quality of Care and Patient Satisfaction": {
+            "metric_codes": [
+              "HC0301-01",
+              "HC0301-02",
+              "HC0301-03",
+              "HC0301-04"
+            ]
+          }
+        }
+      },
+      "Data security and customer privacy": {
+        "topics": {
+          "Patient Privacy and Electronic Health Records": {
+            "metric_codes": [
+              "HC0301-16",
+              "HC0301-17"
+            ]
+          }
+        }
+      },
+      "Environmental, social impacts on assets & operations": {
+        "topics": {
+          "Climate Change Impacts on Human Health and Infrastructure": {
+            "metric_codes": [
+              "HC0301-14"
+            ]
+          }
+        }
+      }
+    },
+    "Biotechnology": {
+      "Lifecycle impacts of products and services": {
+        "topics": {
+          "Drug Safety and Side Effects": {
+            "metric_codes": [
+              "HC0101-06"
+            ]
+          }
+        }
+      },
+      "Access and affordability": {
+        "topics": {
+          "Access to Medicines": {
+            "metric_codes": [
+              "HC0101-01",
+              "HC0101-02"
+            ]
+          },
+          "Affordability and Fair Pricing": {
+            "metric_codes": [
+              "HC0101-10",
+              "HC0101-11"
+            ]
+          }
+        }
+      },
+      "Energy management": {
+        "topics": {
+          "Energy, Water, and Waste Efficiency": {
+            "metric_codes": [
+              "HC0101-23"
+            ]
+          }
+        }
+      },
+      "Product quality and safety": {
+        "topics": {
+          "Counterfeit Drugs": {
+            "metric_codes": [
+              "HC0101-20",
+              "HC0101-21",
+              "HC0101-22"
+            ]
+          },
+          "Drug Safety and Side Effects": {
+            "metric_codes": [
+              "HC0101-05"
+            ]
+          }
+        }
+      },
+      "Employee health, safety and wellbeing": {
+        "topics": {
+          "Employee Health and Safety": {
+            "metric_codes": [
+              "HC0101-17",
+              "HC0101-18",
+              "HC0101-19"
+            ]
+          }
+        }
+      },
+      "Supply chain management": {
+        "topics": {
+          "Manufacturing and Supply Chain Quality Management": {
+            "metric_codes": [
+              "HC0101-29",
+              "HC0101-30"
+            ]
+          }
+        }
+      },
+      "Business ethics and transparency of payments": {
+        "topics": {
+          "Corruption and Bribery": {
+            "metric_codes": [
+              "HC0101-27",
+              "HC0101-28"
+            ]
+          }
+        }
+      },
+      "Recruitment, development and retention": {
+        "topics": {
+          "Employee Recruitment, Development, and Retention": {
+            "metric_codes": [
+              "HC0101-14",
+              "HC0101-15",
+              "HC0101-16"
+            ]
+          }
+        }
+      },
+      "Human rights and community relations": {
+        "topics": {
+          "Safety of Clinical Trial Participants": {
+            "metric_codes": [
+              "HC0101-07",
+              "HC0101-08",
+              "HC0101-09"
+            ]
+          }
+        }
+      },
+      "Waste and hazardous materials management": {
+        "topics": {
+          "Energy, Water, and Waste Efficiency": {
+            "metric_codes": [
+              "HC0101-25",
+              "HC0101-26"
+            ]
+          }
+        }
+      },
+      "Customer welfare": {
+        "topics": {
+          "Drug Safety and Side Effects": {
+            "metric_codes": [
+              "HC0101-03",
+              "HC0101-04"
+            ]
+          }
+        }
+      },
+      "Fair marketing and advertising": {
+        "topics": {
+          "Ethical Marketing": {
+            "metric_codes": [
+              "HC0101-12",
+              "HC0101-13"
+            ]
+          }
+        }
+      },
+      "Water and wastewater management": {
+        "topics": {
+          "Energy, Water, and Waste Efficiency": {
+            "metric_codes": [
+              "HC0101-24"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "metrics": {
+    "HC0201-04": "Description of legal and regulatory fines and settlements associated with false marketing claims, including Federal Food, Drug, and Cosmetic Act violations for off-label marketing prosecuted under the False Claims Act. Dollar amount of fines and settlements and a description of corrective actions implemented in response to events.",
+    "HC0201-05": "Description of code of ethics governing promotion of off-label use of products, including mechanisms to ensure compliance.",
+    "HC0201-06": "Ratio of weighted average rate of net price increases (for all products) to the annual increase in the U.S. Consumer Price Index.",
+    "HC0201-07": "Description of how price information (such as average and median) for each product is disclosed to customers or their agents (e.g., group purchasing organizations or consultants).",
+    "HC0201-01": "List of products recalled.",
+    "HC0201-02": "List of products listed in the FDA\u2019s MedWatch Safety Alerts for Human Medical Products (Medical Devices) database.",
+    "HC0201-03": "Number of fatalities related to products as reported in the FDA Adverse Event Reporting System.",
+    "HC0101-09": "Description of legal and regulatory fines and settlements associated with clinical trials in World Bank Low-income and Lowermiddle-income Countries (LICs and LMICs) and UN HDI Medium-High Development Countries (MHDCs) that are not captured by the World Bank\u2019s LIC or LMIC rankings. Dollar amount of fines and settlements and a description of corrective actions implemented in response to events.",
+    "HC0101-08": "Number of FDA Clinical Investigator Inspections of investigators used for clinical trials during the past year that resulted in: (1) Voluntary Action Indicated (VAI) and (2) Official Action Indicated (OAI).",
+    "HC0101-05": "List of products recalled.",
+    "HC0101-04": "Number of fatalities associated with products as reported in the FDA Adverse Event Reporting System.",
+    "HC0101-07": "Discussion, by world region, of management process for ensuring quality and patient safety during clinical trials, including those conducted with third-party clinical research organizations (CROs). Description of processes for obtaining informed consent, of incentives offered to participants, and of any clinical trials terminated due to failure to follow good clinical practice standards.",
+    "HC0101-06": "Description of product stewardship initiatives to promote take-back and redistribution or safe permanent disposal of unused product at the end of its lifecycle. Where applicable: (1) amount of direct funding for such initiatives and (2) amount of product (by weight) accepted for take-back, reuse, or disposal.",
+    "HC0101-01": "Description of initiatives to promote access to health care products in priority countries as defined by the Access to Medicine Index.",
+    "HC0101-03": "List of products listed in the FDA\u2019s MedWatch Safety Alerts for Human Medical Products (Drugs and Therapeutic Biological Products) database, including those products with Potential Signals of Serious Risks or that have New Safety Information identified by the FDA Adverse Event Reporting System (FAERS).",
+    "HC0101-02": "List of products on the WHO List of Prequalified Medicinal Products as part of its Prequalification of Medicines Programme (PQP).",
+    "HC0201-15": "Number and type of FDA enforcement actions taken in response to violations of current good manufacturing practices (cGMP) including: product deemed adulterated, form 483s, suggested recall (Class I, II, III), Warning Letters, Border Alerts, license suspension or revocation, product seizure, Consent Decrees, criminal prosecution.",
+    "HC0201-14": "Description of code of ethics governing interactions with health care professionals including mechanisms to ensure employee compliance.",
+    "HC0201-13": "Description of legal and regulatory fines and settlements associated with bribery, corruption, or unethical business practices, including violations of the Foreign Corrupt Practices Act and those associated with providing kickbacks to physicians. Dollar amount of fines and settlements and a description of corrective actions implemented in response to events.",
+    "HC0201-12": "Description of Extended Producer Responsibility (EPR) initiatives to promote manufacturer take-back, reuse, or proper safe disposal at the end of the lifecycle. Amount (by weight) of products accepted for take-back and reused, recycled, or donated, broken down by: (1) devices and equipment and (2) supplies.",
+    "HC0201-11": "Description of environmental and human health considerations made at product lifecycle stages such as design, procurement, manufacturing, distribution, use, and end-of-life and the type and percentage of products to which efforts apply.",
+    "HC0201-10": "Amount of waste (metric tons); percentage that is recycled, incinerated, and landfilled.",
+    "HC0201-17": "Description of efforts to maintain traceability within the distribution chain, particularly with respect to wholesalers, re-packagers, and\/or contract distributors.",
+    "HC0201-16": "Percentage of facilities and Tier I suppliers participating in third-party audit programs for integrity of supply chain and products (e.g., materials, devices, packaging, etc.).",
+    "HC0101-18": "Days Away, Restricted, or Transferred (DART) rate \u2013 (Number of recordable injuries and illnesses resulting in days away from work, restricted work activity, or job transfers \/ Hours Worked)*200,000.",
+    "HC0101-19": "Laboratory-acquired infection (LAI) rate \u2013 LAIs per 1000 employees in human and animal diagnostic laboratories.",
+    "HC0101-16": "Employee turnover by voluntary and involuntary for: Executives\/Senior Managers, Mid-level Managers, Professionals, All others (EEO-1 categories: technicians, sales, admin support, service workers).",
+    "HC0101-17": "Total Injury Rate \u2013 (Number of recordable injuries and illnesses \/ Hours Worked)*200,000.",
+    "HC0101-14": "Description of talent recruitment and retention efforts for scientists and other research and development (R&D) personnel, such as mentorship and career development programs, leadership training, or unique incentive structures.",
+    "HC0101-15": "Training and development expenditures per full time employee by: (1) expenditures for industry or professional qualification and advanced industry education; (2) all other.",
+    "HC0101-12": "Description of legal and regulatory fines and settlements associated with false marketing claims, including Federal Food, Drug, and Cosmetic Act violations for off-label marketing prosecuted under the False Claims Act. Dollar amount of fines and settlements and a description of corrective actions implemented in response to events.",
+    "HC0101-13": "Description of code of ethics governing promotion of off-label use of products, including mechanisms to ensure compliance.",
+    "HC0101-10": "Number of settlements of Abbreviated New Drug Application (ANDA) litigation that involved payments and\/or provisions to delay bringing an authorized generic product to market for a defined time period.",
+    "HC0101-11": "Ratio of weighted average rate of net price increases (for all products) to the annual increase in the U.S. Consumer Price Index.",
+    "HC0201-18": "Discussion of any existing or projected risks or constraints with obtaining raw materials (or components) within the supply chain, including those related to restricted\/limited availability, political situations, local labor conditions, natural disasters, climate change, or regulations.",
+    "HC0302-11": "Description of legal and regulatory fines and settlements associated with corruption or bribery, including Foreign Corrupt Practices Act and False Claims Act violations. Dollar amount of fines and settlements and a description of corrective actions implemented in response to events.",
+    "HC0302-10": "Description of efforts to minimize conflicts of interest and unethical business practices, including mechanisms to ensure compliance.",
+    "HC0101-23": "Total annual energy consumed (gigajoules) and percentage renewable (e.g., wind, biomass, solar).",
+    "HC0101-22": "Number (and description) of actions that led to raids, seizure, arrests, and\/or filing of criminal charges related to counterfeit products.",
+    "HC0101-21": "Description of process for alerting end customers and business partners of potential or known risks associated with counterfeit products.",
+    "HC0101-20": "Description of methods and technologies used to maintain traceability of products throughout the supply chain and prevent counterfeiting.",
+    "HC0101-27": "Description of legal and regulatory fines and settlements associated with bribery, corruption, or other unethical business practices, including violations of the Foreign Corrupt Practices Act and those associated with providing kickbacks to physicians. Dollar amount of fines and settlements and a description of corrective actions implemented in response to events.",
+    "HC0101-26": "Amount of waste (metric tons); percentage that is recycled, incinerated (including for energy recovery), and landfilled.",
+    "HC0101-25": "Overall Process Mass Intensity (PMI) and PMI broken down for water and organic solvents, where PMI = quantity of raw materials input (kg) \/ quantity of active pharmaceutical product (API) output (kg).",
+    "HC0101-24": "Total water withdrawals and percentage in water-stressed regions \u2013 High or Extremely High Baseline Water Stress as defined by the WRI Water Risk Atlas; percentage of process water recycled.",
+    "HC0101-29": "Description of FDA enforcement actions taken in response to violations of current good manufacturing practices (cGMP), including: product deemed adulterated, form 483s, suggested recall (Class I, II, III), Warning Letters, Border Alerts, license suspension or revocation, product seizure, Consent Decrees, criminal prosecution. Description of corrective actions implemented in response to actions.",
+    "HC0101-28": "Description of code of ethics governing interactions with health care professionals, including mechanisms to ensure employee compliance.",
+    "HC0201-08": "Total annual energy consumed (gigajoules) and percentage renewable (e.g., wind, biomass, solar).",
+    "HC0201-09": "Total water withdrawals and percentage from water-stressed regions \u2013 High or Extremely High Baseline Water Stress as defined by the WRI Water Risk Atlas; percentage of process water recycled.",
+    "HC0302-08": "Description of initiatives to reduce the environmental impact of packaging, such as use of recycled materials, reductions in the amount of packaging material (i.e., dematerialization), packaging for consolidated shipping, and reduction in packaging waste (e.g., recycling and reuse of packaging, etc.).",
+    "HC0302-09": "Describe product stewardship initiatives to promote take-back (for reprocessing or recycling) of products at the end of their lifecycle. Amount (by weight) of products accepted for take-back.",
+    "HC0302-02": "Description of efforts to minimize health and safety risks of products sold, including those related to toxicity\/chemical safety (e.g., REACH substances of very high concern), high abuse potential (e.g., Schedule II controlled substances), or delivery (e.g., incorrect dispensing, mislabeling, transmission of disease through reuse of vials, etc.).",
+    "HC0302-03": "Description of methods and technologies used to maintain traceability of products throughout the distribution chain and prevent counterfeiting.",
+    "HC0302-01": "Description of legal and regulatory fines and settlements associated with product safety. Dollar amount of fines and settlements and a description of corrective actions implemented in response to events.",
+    "HC0302-06": "Payload fuel economy = gallons per ton-miles.",
+    "HC0302-07": "Description of involvement in efforts to reduce the environmental impact of logistics, including involvement in the EPA SmartWay program.",
+    "HC0302-04": "Description of due diligence process to qualify suppliers of drug products and medical equipment and devices.",
+    "HC0302-05": "Description of process for alerting customers and business partners of potential or known risks associated with counterfeit products.",
+    "HC0101-30": "Percentage of facilities and Tier I suppliers participating in the Rx-360 International Pharmaceutical Supply Chain Consortium audit program or equivalent third-party audit programs for integrity of supply chain and ingredients (e.g., APIs, chemical, raw material, excipients, etc.).",
+    "HC0301-07": "Employee turnover by voluntary and involuntary for: (1) physicians, (2) non-physician health care practitioners, and (3) all others.",
+    "HC0301-06": "Amount of Medicare Disproportionate Share Hospital (DSH) adjustment payments received.",
+    "HC0301-05": "Description of strategy to manage the mix of patient insurance status (i.e., private insurance, government insurance, and uninsured), including a description of alternative pricing mechanisms or programs for the uninsured.",
+    "HC0301-04": "Excess readmission ratio for pneumonia, acute myocardial infarction, and heart failure, as defined by the Centers for Medicare & Medicaid Services (CMS). Readmissions Payment Adjustment Amount as part of the Hospital Readmissions Reduction Program.",
+    "HC0301-03": "Health care-acquired infections, as defined by the CDC\u2019s National Healthcare Safety Network, for: (1) Central Line-associated Bloodstream Infections (CLABSIs); (2) Surgical Site Infections (SSIs); and, (3) Catheter-associated Urinary Tract Infections (CAUTIs).",
+    "HC0301-02": "Number of Serious Reportable Events (SREs) as defined by the National Quality Forum.",
+    "HC0301-01": "Hospital Values Based Purchasing Total Performance score, broken down by Clinical Process Domain score, Outcome Domain score, and Patient Experience Domain score.",
+    "HC0301-09": "Description of policies or initiatives to ensure that patients are adequately informed about price before undergoing a procedure.",
+    "HC0301-08": "Description of talent recruitment and retention efforts for health care practitioners, such as mentorship programs, flexible scheduling, and leadership development initiatives. Where applicable, participation or utilization rates for each type of effort.",
+    "HC0303-09": "Percentage of claims denied that were appealed by customers and ultimately reversed.",
+    "HC0303-08": "Enrollee retention rate by plan type, including HMO, local PPO, regional PPO, PFFS, and SNP.",
+    "HC0303-05": "Coverage of preventive services: (1) Total coverage ($) for preventive health services with no cost sharing for the enrollees including that which is required by the Patient Protection and Affordable Care Act; (2) Total coverage ($) for preventive health services requiring cost-sharing by the enrollee, including the percentage of the cost of services covered by the registrant; and (3) Percentage of enrollees receiving Initial Preventive Physical Examination (IPEE) or annual wellness visit (AWV).",
+    "HC0303-04": "Percentage of enrollees in wellness programs by type: diet & nutrition, exercise, stress management & mental health, smoking or alcohol cessation, or other.",
+    "HC0303-07": "Mean Medicare Advantage plan rating (1\u20135 stars) for each of the following plan types: HMO, local PPO, regional PPO, PFFS, and SNP.",
+    "HC0303-06": "Number of customers receiving care from Accountable Care Organizations or enrolled in Patient-Centered Medical Home programs.",
+    "HC0303-01": "Medical Loss Ratio (MLR) = medical costs as percentage of premium revenue.",
+    "HC0303-03": "Percentage of proposed rate increases receiving \u201cnot unreasonable\u201d designation from Health and Human Services (HHS) review or state review (where it is authorized to conduct the review).",
+    "HC0303-02": "Rebates accrued and rebates paid due to non-compliance with Section 2718 of the Patient Protection and Affordable Care Act for Medical Loss Ratio.",
+    "HC0301-10": "Description of how pricing information for services (including inpatient and outpatient) is made publicly available, including the number of the registrant\u2019s 25 most common services for which pricing information is publicly available, and the percentage of total services performed (by volume) that these represent.",
+    "HC0301-11": "Total annual energy consumed (gigajoules) and percentage renewable (e.g., wind, biomass, solar).",
+    "HC0301-12": "Total weight of regulated medical waste generation (as defined by the Medical Waste Tracking Act of 1988) and total weight by disposition (e.g., on-site incineration, landfill, treatment\/storage\/disposal facility, etc.).",
+    "HC0301-13": "Total weight of pharmaceutical waste generation and total weight by disposition (e.g., on-site incineration, landfill, Treatment\/Storage\/Disposal Facility, etc.). Break down by: (1) hazardous waste and (2) non- hazardous (solid) waste.",
+    "HC0301-14": "Description of the strategy to address the effects of climate change on business operations, physical infrastructure, and facility design. Discussion of specific risks (such as physical risks) presented by changes in the frequency and intensity of extreme weather events and changes to the morbidity and mortality of illnesses and diseases.",
+    "HC0301-15": "Description of legal and regulatory fines and settlements associated with Medicare and Medicaid Fraud under the False Claims Act. Dollar amount of fines and settlements and a description of corrective actions implemented in response to events.",
+    "HC0301-16": "Percentage of patient records that are electronic medical records (EMR) or electronic health records (EHR) meeting the Centers for Medicare and Medicaid Services (CMS) \u201cmeaningful use\u201d requirements.",
+    "HC0301-17": "Description of legal and regulatory fines and settlements associated with Health Insurance Portability and Accountability Act of 1996 (HIPAA) Privacy and Security Rules violations or The Health Information Technology for Economic and Clinical Health (HITECH) Act violations. Dollar amount of fines and settlements and a description of corrective actions implemented in response to events.",
+    "HC0303-14": "Discussion of implementation of technology and management standards to maintain security, privacy, and availability of customer data. Number of breaches of customer data security, including the number of HIPPA-mandated breach notifications.",
+    "HC0303-15": "Description of the strategy to address the effects of climate change on business operations and how climate change is incorporated into risk models. Discussion of specific risks presented by changes in the geographic incidence, morbidity, and mortality of illnesses and diseases.",
+    "HC0303-12": "Description of policies and practices related to clarity in pricing and coverage, including health care literacy programs.",
+    "HC0303-13": "Description of legal and regulatory fines and settlements related to Health Insurance Portability and Accountability Act of 1996 (HIPAA) Privacy and Security Rules violations or The Health Information Technology for Economic and Clinical Health (HITECH) Act violations. Dollar amount of fines and settlements and a description of corrective actions implemented in response to events.",
+    "HC0303-10": "Grievance rate per 10,000 enrollees.",
+    "HC0303-11": "JD Power & Associates members\u2019 rating on \u201cInformation and Communication.\u201d"
+  },
+  "evidence": {
+    "Health Care Distribution": {
+      "Fuel Efficiency": {
+        "iwg_score": "88%",
+        "ei": "Low",
+        "cost_capital": false,
+        "fli": "Yes",
+        "efi": "Low",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": true,
+        "hm_score": "30",
+        "asset_lib": false
+      },
+      "Counterfeit Drugs": {
+        "iwg_score": "N\/A",
+        "ei": "Medium",
+        "cost_capital": false,
+        "fli": "Yes",
+        "efi": "Medium",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": true,
+        "hm_score": "70",
+        "asset_lib": true
+      },
+      "Product Safety": {
+        "iwg_score": "100%",
+        "ei": "High",
+        "cost_capital": false,
+        "fli": "No",
+        "efi": "Medium",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": false,
+        "hm_score": "70",
+        "asset_lib": true
+      },
+      "Product Lifecycle Management": {
+        "iwg_score": "88%",
+        "ei": "Low",
+        "cost_capital": false,
+        "fli": "Yes",
+        "efi": "Low",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": true,
+        "hm_score": "35",
+        "asset_lib": false
+      },
+      "Corruption and Bribery": {
+        "iwg_score": "88%",
+        "ei": "High",
+        "cost_capital": false,
+        "fli": "No",
+        "efi": "High",
+        "rev_cost": false,
+        "extern": false,
+        "prob_mag": false,
+        "hm_score": "85",
+        "asset_lib": true
+      }
+    },
+    "Medical Equipment and Supplies": {
+      "Product Safety": {
+        "iwg_score": "100%",
+        "ei": "High",
+        "cost_capital": false,
+        "fli": "No",
+        "efi": "High",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": false,
+        "hm_score": "95",
+        "asset_lib": true
+      },
+      "Product Design and Lifecycle Management": {
+        "iwg_score": "100%",
+        "ei": "Medium",
+        "cost_capital": false,
+        "fli": "Yes",
+        "efi": "Low",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": true,
+        "hm_score": "60",
+        "asset_lib": false
+      },
+      "Manufacturing and Supply Chain Quality Management": {
+        "iwg_score": "N\/A",
+        "ei": "Low",
+        "cost_capital": true,
+        "fli": "No",
+        "efi": "High",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": false,
+        "hm_score": "35",
+        "asset_lib": true
+      },
+      "Corruption and Bribery": {
+        "iwg_score": "100%",
+        "ei": "High",
+        "cost_capital": false,
+        "fli": "No",
+        "efi": "Low",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": false,
+        "hm_score": "85",
+        "asset_lib": true
+      },
+      "Ethical Marketing": {
+        "iwg_score": "100%",
+        "ei": "Medium",
+        "cost_capital": false,
+        "fli": "No",
+        "efi": "High",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": false,
+        "hm_score": "60",
+        "asset_lib": true
+      },
+      "Affordability and Fair Pricing": {
+        "iwg_score": "N\/A",
+        "ei": "Medium",
+        "cost_capital": true,
+        "fli": "Yes",
+        "efi": "Medium",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": true,
+        "hm_score": "75",
+        "asset_lib": false
+      },
+      "Energy, Water, and Waste Efficiency": {
+        "iwg_score": "93%",
+        "ei": "Low",
+        "cost_capital": false,
+        "fli": "Yes",
+        "efi": "Medium",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": true,
+        "hm_score": "58",
+        "asset_lib": false
+      }
+    },
+    "Pharmaceuticals": {
+      "Safety of Clinical Trial Participants": {
+        "iwg_score": "92%",
+        "ei": "High",
+        "cost_capital": true,
+        "fli": "No",
+        "efi": "High",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": false,
+        "hm_score": "55",
+        "asset_lib": true
+      },
+      "Corruption and Bribery": {
+        "iwg_score": "96%",
+        "ei": "High",
+        "cost_capital": false,
+        "fli": "No",
+        "efi": "Medium",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": false,
+        "hm_score": "90",
+        "asset_lib": true
+      },
+      "Manufacturing and Supply Chain Quality Management": {
+        "iwg_score": "N\/A",
+        "ei": "Medium",
+        "cost_capital": true,
+        "fli": "No",
+        "efi": "High",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": false,
+        "hm_score": "33",
+        "asset_lib": true
+      },
+      "Employee Health and Safety": {
+        "iwg_score": "N\/A",
+        "ei": "Low",
+        "cost_capital": false,
+        "fli": "No",
+        "efi": "Low",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": false,
+        "hm_score": "80",
+        "asset_lib": true
+      },
+      "Ethical Marketing": {
+        "iwg_score": "88%",
+        "ei": "Medium",
+        "cost_capital": false,
+        "fli": "No",
+        "efi": "High",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": false,
+        "hm_score": "60",
+        "asset_lib": true
+      },
+      "Access to Medicines": {
+        "iwg_score": "83%",
+        "ei": "Medium",
+        "cost_capital": false,
+        "fli": "Yes",
+        "efi": "Low",
+        "rev_cost": true,
+        "extern": true,
+        "prob_mag": true,
+        "hm_score": "50",
+        "asset_lib": false
+      },
+      "Affordability and Fair Pricing": {
+        "iwg_score": "92%",
+        "ei": "High",
+        "cost_capital": true,
+        "fli": "Yes",
+        "efi": "Medium",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": true,
+        "hm_score": "80",
+        "asset_lib": false
+      },
+      "Energy, Water, and Waste Efficiency": {
+        "iwg_score": "88%",
+        "ei": "Low",
+        "cost_capital": false,
+        "fli": "Yes",
+        "efi": "Low",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": true,
+        "hm_score": "40",
+        "asset_lib": false
+      },
+      "Employee Recruitment, Development, and Retention": {
+        "iwg_score": "71%",
+        "ei": "Low",
+        "cost_capital": false,
+        "fli": "No",
+        "efi": "Low",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": false,
+        "hm_score": "38",
+        "asset_lib": false
+      },
+      "Counterfeit Drugs": {
+        "iwg_score": "N\/A",
+        "ei": "Medium",
+        "cost_capital": false,
+        "fli": "Yes",
+        "efi": "Medium",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": true,
+        "hm_score": "100",
+        "asset_lib": true
+      },
+      "Drug Safety and Side Effects": {
+        "iwg_score": "96%",
+        "ei": "High",
+        "cost_capital": true,
+        "fli": "No",
+        "efi": "High",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": false,
+        "hm_score": "100",
+        "asset_lib": true
+      }
+    },
+    "Managed Care": {
+      "Customer Privacy and Technology Standards": {
+        "iwg_score": "90%",
+        "ei": "Medium",
+        "cost_capital": false,
+        "fli": "Yes",
+        "efi": "Low",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": true,
+        "hm_score": "35",
+        "asset_lib": true
+      },
+      "Access to Coverage": {
+        "iwg_score": "90%",
+        "ei": "High",
+        "cost_capital": false,
+        "fli": "No",
+        "efi": "Medium",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": false,
+        "hm_score": "55",
+        "asset_lib": false
+      },
+      "Improved Outcomes": {
+        "iwg_score": "80%",
+        "ei": "High",
+        "cost_capital": false,
+        "fli": "Yes",
+        "efi": "High",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": true,
+        "hm_score": "80",
+        "asset_lib": true
+      },
+      "Climate Change Impacts on Human Health": {
+        "iwg_score": "N\/A",
+        "ei": "Low",
+        "cost_capital": true,
+        "fli": "Yes",
+        "efi": "Low",
+        "rev_cost": true,
+        "extern": true,
+        "prob_mag": true,
+        "hm_score": "20",
+        "asset_lib": true
+      },
+      "Plan Performance": {
+        "iwg_score": "100%",
+        "ei": "Medium",
+        "cost_capital": false,
+        "fli": "Yes",
+        "efi": "High",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": true,
+        "hm_score": "53",
+        "asset_lib": true
+      },
+      "Pricing Transparency and Plan Literacy": {
+        "iwg_score": "90%",
+        "ei": "Medium",
+        "cost_capital": false,
+        "fli": "No",
+        "efi": "Low",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": false,
+        "hm_score": "95",
+        "asset_lib": true
+      }
+    },
+    "Health Care Delivery": {
+      "Energy and Waste Efficiency": {
+        "iwg_score": "94%",
+        "ei": "Medium",
+        "cost_capital": false,
+        "fli": "Yes",
+        "efi": "Medium",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": true,
+        "hm_score": "38",
+        "asset_lib": true
+      },
+      "Climate Change Impacts on Human Health and Infrastructure": {
+        "iwg_score": "N\/A",
+        "ei": "Low",
+        "cost_capital": true,
+        "fli": "Yes",
+        "efi": "Medium",
+        "rev_cost": true,
+        "extern": true,
+        "prob_mag": true,
+        "hm_score": "10",
+        "asset_lib": true
+      },
+      "Patient Privacy and Electronic Health Records": {
+        "iwg_score": "78%",
+        "ei": "Medium",
+        "cost_capital": false,
+        "fli": "Yes",
+        "efi": "Low",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": true,
+        "hm_score": "25",
+        "asset_lib": true
+      },
+      "Pricing and Billing Transparency": {
+        "iwg_score": "72%",
+        "ei": "Low",
+        "cost_capital": false,
+        "fli": "Yes",
+        "efi": "Medium",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": true,
+        "hm_score": "50",
+        "asset_lib": false
+      },
+      "Fraud and Unnecessary Procedures": {
+        "iwg_score": "94%",
+        "ei": "Medium",
+        "cost_capital": false,
+        "fli": "No",
+        "efi": "Medium",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": false,
+        "hm_score": "55",
+        "asset_lib": true
+      },
+      "Employee Recruitment, Development, and Retention": {
+        "iwg_score": "89%",
+        "ei": "Medium",
+        "cost_capital": false,
+        "fli": "Yes",
+        "efi": "Medium",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": true,
+        "hm_score": "48",
+        "asset_lib": false
+      },
+      "Quality of Care and Patient Satisfaction": {
+        "iwg_score": "94%",
+        "ei": "High",
+        "cost_capital": true,
+        "fli": "Yes",
+        "efi": "High",
+        "rev_cost": true,
+        "extern": true,
+        "prob_mag": true,
+        "hm_score": "60",
+        "asset_lib": true
+      },
+      "Access for Low-Income Patients": {
+        "iwg_score": "83%",
+        "ei": "High",
+        "cost_capital": false,
+        "fli": "No",
+        "efi": "Low",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": false,
+        "hm_score": "65",
+        "asset_lib": false
+      }
+    },
+    "Biotechnology": {
+      "Safety of Clinical Trial Participants": {
+        "iwg_score": "78%",
+        "ei": "Medium",
+        "cost_capital": true,
+        "fli": "No",
+        "efi": "High",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": false,
+        "hm_score": "50",
+        "asset_lib": true
+      },
+      "Corruption and Bribery": {
+        "iwg_score": "100%",
+        "ei": "High",
+        "cost_capital": false,
+        "fli": "No",
+        "efi": "Medium",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": false,
+        "hm_score": "75",
+        "asset_lib": true
+      },
+      "Manufacturing and Supply Chain Quality Management": {
+        "iwg_score": "N\/A",
+        "ei": "Medium",
+        "cost_capital": true,
+        "fli": "No",
+        "efi": "High",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": false,
+        "hm_score": "35",
+        "asset_lib": true
+      },
+      "Employee Health and Safety": {
+        "iwg_score": "N\/A",
+        "ei": "Low",
+        "cost_capital": false,
+        "fli": "No",
+        "efi": "Low",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": false,
+        "hm_score": "70",
+        "asset_lib": true
+      },
+      "Ethical Marketing": {
+        "iwg_score": "100%",
+        "ei": "High",
+        "cost_capital": false,
+        "fli": "No",
+        "efi": "High",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": false,
+        "hm_score": "60",
+        "asset_lib": true
+      },
+      "Access to Medicines": {
+        "iwg_score": "89%",
+        "ei": "Medium",
+        "cost_capital": false,
+        "fli": "Yes",
+        "efi": "Low",
+        "rev_cost": true,
+        "extern": true,
+        "prob_mag": true,
+        "hm_score": "35",
+        "asset_lib": false
+      },
+      "Affordability and Fair Pricing": {
+        "iwg_score": "78%",
+        "ei": "Low",
+        "cost_capital": true,
+        "fli": "Yes",
+        "efi": "Medium",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": true,
+        "hm_score": "60",
+        "asset_lib": false
+      },
+      "Energy, Water, and Waste Efficiency": {
+        "iwg_score": "78%",
+        "ei": "Low",
+        "cost_capital": false,
+        "fli": "Yes",
+        "efi": "Low",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": true,
+        "hm_score": "40",
+        "asset_lib": false
+      },
+      "Employee Recruitment, Development, and Retention": {
+        "iwg_score": "56%",
+        "ei": "Low",
+        "cost_capital": false,
+        "fli": "No",
+        "efi": "Low",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": false,
+        "hm_score": "35",
+        "asset_lib": false
+      },
+      "Counterfeit Drugs": {
+        "iwg_score": "N\/A",
+        "ei": "High",
+        "cost_capital": false,
+        "fli": "Yes",
+        "efi": "Medium",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": true,
+        "hm_score": "100",
+        "asset_lib": true
+      },
+      "Drug Safety and Side Effects": {
+        "iwg_score": "89%",
+        "ei": "High",
+        "cost_capital": true,
+        "fli": "No",
+        "efi": "High",
+        "rev_cost": true,
+        "extern": false,
+        "prob_mag": false,
+        "hm_score": "100",
+        "asset_lib": true
+      }
+    }
+  }
+}

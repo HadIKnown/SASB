@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>SASB Materiality Map</title>
+  <style>
+    .yes {background-color: rgb(105,105,105);}
+    
+    .industry {background-color: rgb(105,105,105);}
+    
+    .sector {background-color: red;
+             text-align: center;
+             /*white-space: pre-wrap;*/
+             height: 40px}
+
+    .summary {display: inline-block;} /*doesn't do anything*/
+
+    .sectorContainer {display: inline-block; 
+                      border-style: solid; 
+                      margin: 2px;
+                      width: 150px}
+
+    .industryContainer {display: none;
+                        /*width: 100px*/}
+
+    #issuesContainer {display: inline-block}
+
+    #allContainer {overflow-x:auto; 
+                   white-space:nowrap; 
+                   width:device-width}
+
+    #popContainer {display: none; 
+                   position:absolute; 
+                   z-index:1000; 
+                   width:700px; 
+                   top:100px; 
+                   left:100px;
+                   border-style:solid}
+    
+    #popIndustry {background-color: black;
+                  color: white;
+                  margin: 0px}
+
+    #popIssue {background-color: rgb(105,105,105);
+               color: white;
+               margin: 0px}
+ 
+    #popTopic {margin:0px;
+               display: flex;
+               flex-wrap: wrap;
+               background: white;
+               padding: 0px;
+               }
+   
+    #popMetric {background-color: white;
+                margin: 0px;
+                padding: 0px;}
+
+  </style>
+  <script src="jquery.min.js"></script>
+  <script src = "jquery-ui.js"></script>
+
+</head>
+<body>
+    <div id = 'popContainer'>
+     <div style='background-color: black'>
+      <h1 id = 'popIndustry' style = 'display: inline-block'></h1>
+      <button type='button' id = 'popClose' style = 'float: right'>Close</button>
+     </div>
+     <h1 id = 'popIssue'></h1>
+     <div id = 'popTopic'></div>
+     <div id = 'popMetric'></div>
+    </div>
+    <div id = 'allContainer'>
+     <div id = 'issuesContainer'>
+      <div style="height: 40px; text-align: center">Issues</div>
+      <table>
+       <table>
+        <tbody id = 'issues'>
+         <tr><th style='color: white'>Empty</th></tr>
+        </tbody>
+       </table>
+      </table>
+     </div>
+    </div>
+<script>
+  //Ideally, all this listed info would sit in a Holy JSON file
+  //that I would extract from.
+  var sectors = ['Health Care', 'Financials', 'Technology and Communications', 
+'Non-Renewable Resources', 'Transportation', 'Services', 
+'Resource Transformation', 'Consumption', 
+'Renewable Resources & Alternative Energy', 'Infrastructure'];
+  var sectorCodes = ['HC', 'FN', 'TC', 'NR', 'TR', 'SV', 'RT', 'CN', 'RR', 'IF']
+  var allIssues = ['GHG emissions', 'Air quality', 'Energy management', 
+'Fuel management', 'Water and wastewater management', 
+'Waste and hazardous materials management', 
+'Biodiversity impacts', 'Human rights and community relations', 
+'Access and affordability', 'Customer welfare', 
+'Data security and customer privacy', 'Fair disclosure and labeling', 
+'Fair marketing and advertising', 'Labor relations', 
+'Fair labor practices', 'Employee health, safety and wellbeing', 
+'Diversity and inclusion', 'Compensation and benefits', 
+'Recruitment, development and retention', 
+'Lifecycle impacts of products and services', 
+'Environmental, social impacts on assets & operations', 
+'Product packaging', 'Product quality and safety', 
+'Systemic risk management', 'Accident and safety management', 
+'Business ethics and transparency of payments', 
+'Competitive behavior', 'Regulatory capture and political influence', 
+'Materials sourcing', 'Supply chain management'];
+    
+    for (var h = 0; h < allIssues.length; h++) {
+        $('#issues').append($('<tr>').append($('<th>').text(allIssues[h])));
+    }    
+
+    for (var k = 0; k < sectors.length; k++) {
+      var sector = sectors[k];
+      var formatSector = sector.replace(/ /g, '').replace(/&/g, 'and');
+      var path = 'data/sector_' + formatSector + '.json';
+      $.getJSON(path, function(data) {
+        var sectorWidth = 0;
+        var sectorCode = Object.keys(data['metrics'])[0].slice(0,2);
+        var sectorFull = sectors[sectorCodes.indexOf(sectorCode)];
+        var newData = data['industries'];
+        var industries = Object.keys(newData);
+        var sectorContainer = $('<div class = "sectorContainer">')
+        var industriesContainer = $('<table class = "industriesContainer">');
+        var issueSummary = new Array(allIssues.length).fill(0);
+        for (var j = 0; j < industries.length; j++) {
+            var tbody = $('<tbody>');
+            var tr = $('<tr class="industry">');
+            tr.append($('<th>').text(industries[j]));
+            tbody.append(tr);    
+            for (var i = 0; i < allIssues.length; i++) {
+                var tr = $('<tr>');
+                var issues = Object.keys(newData[industries[j]]);
+                if (issues.indexOf(allIssues[i]) === -1) { 
+                  tr.append($('<td>').text('No'));
+                }  
+                else {
+                  tr.addClass(allIssues[i].replace(/ /g, '')).append($('<td class = "yes">').text(allIssues[i]));
+                  tr.click(function() {
+                      $('#popIndustry').text($(this).siblings('.industry').children().text());
+                      $('#popIssue').text($(this).children().text());
+                      popPath = 'data/sector_' + 
+                                sectorFull.replace(/ /g, '').replace(/&/g, 'and') +
+                                '.json';
+                      $.getJSON(popPath, function(popData) {
+                          var topicPath = popData['industries'][$('#popIndustry').text()][$('#popIssue').text()]['topics']; 
+                          $('#popTopic div').remove();
+                          $('ul').remove(); //DANGER: removes ALL lists.
+                          Object.keys(topicPath).forEach(function(topic, index) {
+                              var topicDiv = $('<div style="background-color:white; flex: 1 1 auto; text-align:center; padding:0px">');
+                              $('#popTopic').append(topicDiv.text(topic)); 
+                              topicDiv.click(function() {                                                                
+                                    console.log('Hi ' + $(this).text())
+                                    topicDiv.parent().next().children().each(function() {
+                                        $(this).css('display', 'none');   
+                                    });
+                                    console.log(topicDiv.index())
+                                    topicDiv.parent().next().children().eq(topicDiv.index()).css('display','block');
+                                });
+                              var popUL = $('<ul style="padding:0px; margin:0px">');
+                              var notFirst = (index !== 0);
+                              if (notFirst) {
+                                  popUL.css('display', 'none');
+                              }
+                              var codesArray = Object.values(topicPath[topic])[0]
+                              codesArray.forEach(function(metricCode) {
+                                  var metricText = popData['metrics'][metricCode]
+                                  var metricListEle = $('<li>');
+                                  popUL.append(metricListEle.text(metricCode + ': ' + metricText));
+                              });
+                              $('#popMetric').append(popUL);
+                          });
+                          $('#popContainer').css('display', 'block');
+                          
+                      });
+                  });
+                  issueSummary[i] = issueSummary[i] + 1/industries.length;     
+                }   
+                tbody.append(tr);
+              }
+            var table = $('<table class = "industryContainer">');
+            table.append(tbody);
+            industriesContainer.append(table);
+        sectorContainer.append(industriesContainer);
+        sectorWidth += parseFloat(table.width());
+        }
+      var summaryTable = $('<table class = "summary">'); //should start hidden
+      var summaryBody = $('<tbody>');
+      var summaryColHead = $('<tr class="industry" id = "click2expand">');
+      summaryBody.append(summaryColHead.append($('<th>').text('Click to expand')));
+      for (var i = 0; i < allIssues.length; i++) {
+          if (issueSummary[i] >= 0.5) {
+              var summaryColor = $('<tr style = "background-color: rgb(109, 109, 112)">');
+              } else if (issueSummary[i] === 0) {
+              var summaryColor = $('<tr>');
+              } else {
+              var summaryColor = $('<tr style = "background-color: rgb(174, 174, 179)">');
+              }
+           summaryBody.append(summaryColor.append($('<td>').text(issueSummary[i].toFixed(2))));
+        }
+        summaryTable.append(summaryBody);
+        industriesContainer.append(summaryTable);
+      
+      var titlediv = $('<div class=sector>').text(sectorFull); //adding paragraph text didnt fix problem
+      titlediv.add(summaryColHead).click(function() {
+        if ($(this).prop('tagName') === 'TR') {
+            var clicked = $(this).parent().parent().parent().prev();
+        } else {
+            var clicked = $(this);
+        } 
+        if (clicked.next().children().first().css('display') === 'none') {
+            clicked.next().children().css('display', 'inline-block');
+            clicked.next().children('.summary').css('display', 'none');
+            titlediv.parent().css('width', 'auto');
+            
+        } else {
+            clicked.next().children().css('display', 'none');
+            clicked.next().children('.summary').css('display', 'inline-block');
+            titlediv.parent().css('width', '150px'); //this change can be done more intelligently I think
+        }
+        console.log('You good');
+      });
+      sectorContainer.prepend(titlediv);
+      $('#allContainer').append(sectorContainer);
+      /* 
+      //borrowed from https://stackoverflow.com/questions/6060992/element-with-the-max-height-from-a-set-of-elements                                      
+      var heights = $('.sector').map(function ()
+        {
+          console.log($(this).height())
+          return $(this).height();
+        }).get(),
+      maxHeight = Math.max.apply(null, heights);
+      $('.sector').css('height', (maxHeight + 'px')); 
+      */
+      //titlediv.width(sectorContainer.width());
+      });
+      //var sectorth = $('<th>').text(sector).width(sectorWidth);
+      //$('body').prepend(container);
+    };
+    //technically, if the first getJSON doesn't complete in time, the body
+    // would have nothing to attach!
+    $('#popContainer').draggable();
+    $('#popClose').click(function() {
+        $('#popContainer').css('display', 'none');
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,934 @@
+{
+	"industries": {
+		"Automobiles": {
+			"Waste and hazardous materials management": {
+				"topics": {
+					"Materials Efficiency & Recycling": {
+						"metric_codes": [
+							"TR0101-01"
+						]
+					}
+				}
+			},
+			"Lifecycle impacts of products and services": {
+				"topics": {
+					"Fuel Economy & Use-phase Emissions": {
+						"metric_codes": [
+							"TR0101-09",
+							"TR0101-10"
+						]
+					}
+				}
+			},
+			"Product quality and safety": {
+				"topics": {
+					"Product Safety": {
+						"metric_codes": [
+							"TR0101-04",
+							"TR0101-05",
+							"TR0101-06"
+						]
+					}
+				}
+			},
+			"Labor relations": {
+				"topics": {
+					"Labor Relations": {
+						"metric_codes": [
+							"TR0101-07",
+							"TR0101-08"
+						]
+					}
+				}
+			},
+			"Materials sourcing": {
+				"topics": {
+					"Materials Sourcing": {
+						"metric_codes": [
+							"TR0101-11",
+							"TR0101-12",
+							"TR0101-13"
+						]
+					}
+				}
+			}
+		},
+		"Auto Parts": {
+			"Energy management": {
+				"topics": {
+					"Energy Management": {
+						"metric_codes": [
+							"TR0102-01"
+						]
+					}
+				}
+			},
+			"Waste and hazardous materials management": {
+				"topics": {
+					"Materials Efficiency & Waste Management": {
+						"metric_codes": [
+							"TR0102-02"
+						]
+					}
+				}
+			},
+			"Product quality and safety": {
+				"topics": {
+					"Product Safety": {
+						"metric_codes": [
+							"TR0102-03"
+						]
+					}
+				}
+			},
+			"Lifecycle impacts of products and services": {
+				"topics": {
+					"Product Lifecycle Management": {
+						"metric_codes": [
+							"TR0102-04",
+							"TR0102-05",
+							"TR0102-06"
+						]
+					}
+				}
+			},
+			"Competitive behavior": {
+				"topics": {
+					"Competitive Behavior": {
+						"metric_codes": [
+							"TR0102-07"
+						]
+					}
+				}
+			},
+			"Materials sourcing": {
+				"topics": {
+					"Materials Sourcing": {
+						"metric_codes": [
+							"TR0102-08",
+							"TR0102-09",
+							"TR0102-10"
+						]
+					}
+				}
+			}
+		},
+		"Car Rentals & Leasing": {
+			"Customer welfare": {
+				"topics": {
+					"Customer Safety": {
+						"metric_codes": [
+							"TR0103-01",
+							"TR0103-02"
+						]
+					}
+				}
+			},
+			"Lifecycle impacts of products and services": {
+				"topics": {
+					"Fleet Fuel Economy & Utilization": {
+						"metric_codes": [
+							"TR0103-03",
+							"TR0103-04"
+						]
+					}
+				}
+			}
+		},
+		"Airlines": {
+			"GHG emissions": {
+				"topics": {
+					"Environmental Footprint of Fuel Use": {
+						"metric_codes": [
+							"TR0201-01",
+							"TR0201-02"
+						]
+					}
+				}
+			},
+			"Fuel management": {
+				"topics": {
+					"Environmental Footprint of Fuel Use": {
+						"metric_codes": [
+							"TR0201-03",
+							"TR0201-04"
+						]
+					}
+				}
+			},
+			"Labor relations": {
+				"topics": {
+					"Labor Relations": {
+						"metric_codes": [
+							"TR0201-05",
+							"TR0201-06"
+						]
+					}
+				}
+			},
+			"Competitive behavior": {
+				"topics": {
+					"Competitive Behavior": {
+						"metric_codes": [
+							"TR0201-07"
+						]
+					}
+				}
+			},
+			"Accident and safety management": {
+				"topics": {
+					"Accidents & Safety Management": {
+						"metric_codes": [
+							"TR0201-08",
+							"TR0201-09",
+							"TR0201-10"
+						]
+					}
+				}
+			}
+		},
+		"Air Freight & Logistics": {
+			"GHG emissions": {
+				"topics": {
+					"Environmental Footprint of Fuel Use": {
+						"metric_codes": [
+							"TR0202-01",
+							"TR0202-02"
+						]
+					}
+				}
+			},
+			"Fuel management": {
+				"topics": {
+					"Environmental Footprint of Fuel Use": {
+						"metric_codes": [
+							"TR0202-03"
+						]
+					}
+				}
+			},
+			"Air quality": {
+				"topics": {
+					"Environmental Footprint of Fuel Use": {
+						"metric_codes": [
+							"TR0202-04"
+						]
+					}
+				}
+			},
+			"Fair labor practices": {
+				"topics": {
+					"Fair Labor Practices": {
+						"metric_codes": [
+							"TR0202-05",
+							"TR0202-06"
+						]
+					}
+				}
+			},
+			"Accident and safety management": {
+				"topics": {
+					"Accidents & Safety Management": {
+						"metric_codes": [
+							"TR0202-11"
+						]
+					}
+				}
+			},
+			"Employee health, safety and wellbeing": {
+				"topics": {
+					"Accidents & Safety Management": {
+						"metric_codes": [
+							"TR0202-10"
+						]
+					}
+				}
+			},
+			"Supply chain management": {
+				"topics": {
+					"Supply Chain Management": {
+						"metric_codes": [
+							"TR0202-12",
+							"TR0202-13"
+						]
+					}
+				}
+			}
+		},
+		"Marine Transportation": {
+			"GHG emissions": {
+				"topics": {
+					"Environmental Footprint of Fuel Use": {
+						"metric_codes": [
+							"TR0301-01",
+							"TR0301-02"
+						]
+					}
+				}
+			},
+			"Fuel management": {
+				"topics": {
+					"Environmental Footprint of Fuel Use": {
+						"metric_codes": [
+							"TR0301-05"
+						]
+					}
+				}
+			},
+			"Air quality": {
+				"topics": {
+					"Environmental Footprint of Fuel Use": {
+						"metric_codes": [
+							"TR0301-04"
+						]
+					}
+				}
+			},
+			"Biodiversity impacts": {
+				"topics": {
+					"Ecological Impacts": {
+						"metric_codes": [
+							"TR0301-08"
+						]
+					}
+				}
+			},
+			"Waste and hazardous materials management": {
+				"topics": {
+					"Ecological Impacts": {
+						"metric_codes": [
+							"TR0301-07"
+						]
+					}
+				}
+			},
+			"Business ethics and transparency of payments": {
+				"topics": {
+					"Business Ethics": {
+						"metric_codes": [
+							"TR0301-09",
+							"TR0301-10"
+						]
+					}
+				}
+			},
+			"Accident and safety management": {
+				"topics": {
+					"Accidents & Safety Management": {
+						"metric_codes": [
+							"TR0301-13",
+							"TR0301-14"
+						]
+					}
+				}
+			},
+			"Employee health, safety and wellbeing": {
+				"topics": {
+					"Accidents & Safety Management": {
+						"metric_codes": [
+							"TR0301-12"
+						]
+					}
+				}
+			}
+		},
+		"Rail Transportation": {
+			"GHG emissions": {
+				"topics": {
+					"Environmental Footprint of Fuel Use": {
+						"metric_codes": [
+							"TR0401-01",
+							"TR0401-02"
+						]
+					}
+				}
+			},
+			"Fuel management": {
+				"topics": {
+					"Environmental Footprint of Fuel Use": {
+						"metric_codes": [
+							"TR0401-03"
+						]
+					}
+				}
+			},
+			"Air quality": {
+				"topics": {
+					"Environmental Footprint of Fuel Use": {
+						"metric_codes": [
+							"TR0401-04"
+						]
+					}
+				}
+			},
+			"Competitive behavior": {
+				"topics": {
+					"Competitive Behavior": {
+						"metric_codes": [
+							"TR0401-05"
+						]
+					}
+				}
+			},
+			"Accident and safety management": {
+				"topics": {
+					"Accidents & Safety Management": {
+						"metric_codes": [
+							"TR0401-08",
+							"TR0401-09",
+							"TR0401-10"
+						]
+					}
+				}
+			},
+			"Employee health, safety and wellbeing": {
+				"topics": {
+					"Accidents & Safety Management": {
+						"metric_codes": [
+							"TR0401-07"
+						]
+					}
+				}
+			}
+		},
+		"Road Transportation": {
+			"GHG emissions": {
+				"topics": {
+					"Environmental Footprint of Fuel Use": {
+						"metric_codes": [
+							"TR0402-01",
+							"TR0402-02"
+						]
+					}
+				}
+			},
+			"Fuel management": {
+				"topics": {
+					"Environmental Footprint of Fuel Use": {
+						"metric_codes": [
+							"TR0402-03"
+						]
+					}
+				}
+			},
+			"Air quality": {
+				"topics": {
+					"Environmental Footprint of Fuel Use": {
+						"metric_codes": [
+							"TR0402-04"
+						]
+					}
+				}
+			},
+			"Recruitment, development and retention": {
+				"topics": {
+					"Driver Working Conditions": {
+						"metric_codes": [
+							"TR0402-05"
+						]
+					}
+				}
+			},
+			"Employee health, safety and wellbeing": {
+				"topics": {
+					"Accidents & Safety Management": {
+						"metric_codes": [
+							"TR0402-08"
+						]
+					},
+					"Driver Working Conditions": {
+						"metric_codes": [
+							"TR0402-06"
+						]
+					}
+				}
+			},
+			"Accident and safety management": {
+				"topics": {
+					"Accidents & Safety Management": {
+						"metric_codes": [
+							"TR0402-09",
+							"TR0402-10"
+						]
+					}
+				}
+			}
+		}
+	},
+	"metrics": {
+		"TR0101-01": "Amount of total waste from manufacturing, percentage recycled",
+		"TR0101-02": "Weight of end-of-life material recovered, percentage recycled",
+		"TR0101-03": "Average recyclability of vehicles sold, by weight",
+		"TR0101-04": "Percentage of models rated by NCAP programs with overall 5-star\u00a0safety rating, by region",
+		"TR0101-05": "Number of safety-related defect complaints, percentage investigated",
+		"TR0101-06": "Number of vehicles recalled",
+		"TR0101-07": "Percentage of active workforce covered under collective-bargaining agreements, broken down by U.S. and foreign employees",
+		"TR0101-08": "Number and duration of strikes and lockouts",
+		"TR0101-09": "Sales-weighted average passenger fleet fuel economy, consumption, or emissions, by region",
+		"TR0101-10": "Number of (1) zero emission vehicles (ZEV) sold, (2) hybrid vehicles sold, and (3) plug-in hybrid vehicles sold",
+		"TR0101-11": "Percentage of materials costs for items containing critical materials",
+		"TR0101-12": "Percentage of tungsten, tin, tantalum, and gold smelters and refiners within the supply chain that are verified conflict-free",
+		"TR0101-13": "Discussion of the management of risks associated with the use of critical materials and conflict minerals\u00a0",
+		"TR0102-01": "Total energy consumed, percentage grid electricity, percentage renewable",
+		"TR0102-02": "Amount of total waste from manufacturing, percentage hazardous, percentage recycled",
+		"TR0102-03": "Number of recalls and total units recalled",
+		"TR0102-04": "Total\u00a0addressable market and share of market for products aimed at improved fuel efficiency and\/or reduced emissions",
+		"TR0102-05": "Percentage of products sold that are recyclable or reusable",
+		"TR0102-06": "Weight of products and materials recycled or remanufactured",
+		"TR0102-07": "Amount of legal and regulatory fines and settlements associated with anti-competitive practices",
+		"TR0102-08": "Percentage of products, by revenue, that contain critical materials",
+		"TR0102-09": "Percentage of tungsten, tin, tantalum, and gold smelters and refiners within the supply chain that are verified conflict-free ",
+		"TR0102-10": "Discussion of the management of risks associated with the use of critical materials and conflict minerals",
+		"TR0103-01": "Percentage of rental fleet vehicles with overall 5-star safety rating",
+		"TR0103-02": "Number of vehicles recalled",
+		"TR0103-03": "Weighted average rental fleet fuel economy   ",
+		"TR0103-04": "Fleet utilization rate",
+		"TR0201-01": "Gross global Scope 1 emissions",
+		"TR0201-02": "Description of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets  ",
+		"TR0201-03": "Total fuel consumed, percentage renewable",
+		"TR0201-04": "Notional amount of fuel hedged, by maturity date",
+		"TR0201-05": "Percentage of active workforce covered under collective-bargaining agreements, broken down by U.S. and foreign employees",
+		"TR0201-06": "Number and duration of strikes and lockouts",
+		"TR0201-07": "Amount of legal and regulatory fines and settlements associated with anti-competitive practices",
+		"TR0201-08": "Description of implementation and outcomes of Safety Management System",
+		"TR0201-09": "Number of accidents",
+		"TR0201-10": "Number of governmental enforcement actions of aviation safety regulations ",
+		"TR0202-01": "Gross global Scope 1 emissions",
+		"TR0202-02": "Description of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets",
+		"TR0202-03": "Total fuel consumed, percentage renewable for (1) road Transportation transport and (2) air transport",
+		"TR0202-04": "Air emissions for the following pollutants: NOx, SOx, and particulate matter (PM) ",
+		"TR0202-05": "Percentage of drivers who are classified as independent contractors   ",
+		"TR0202-06": "Amount of legal and regulatory fines and settlements associated with labor law violations",
+		"TR0202-07": "Description of implementation and outcomes of Safety Management System",
+		"TR0202-08": "Number of aviation accidents",
+		"TR0202-09": "Number of road Transportation accidents and incidents ",
+		"TR0202-10": "(1) Total recordable injury rate and (2) fatality rate for (a) full-time employees and (b) contract employees",
+		"TR0202-11": "Safety Measurement System BASIC percentiles for: (1) Unsafe Driving, (2) Hours-of-Service Compliance, (3) Driver Fitness, (4) Controlled Substances\/Alcohol, (5) Vehicle Maintenance, and (6) Hazardous Materials Compliance",
+		"TR0202-12": "Percentage of carriers with BASIC percentiles above the FMCSA intervention threshold",
+		"TR0202-13": "Complete greenhouse gas footprint across transport modes",
+		"TR0301-01": "Gross global Scope 1 emissions",
+		"TR0301-02": "Description of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets",
+		"TR0301-03": "Total energy consumed, percentage from heavy fuel oil, percentage from renewables ",
+		"TR0301-04": "Air emissions for the following pollutants: NOX, SOX, and particulate matter (PM)",
+		"TR0301-05": "Energy Efficiency Design Index (EEDI) for new ships ",
+		"TR0301-06": "Shipping duration in Marine Transportation protected areas and areas of protected conservation status",
+		"TR0301-07": "Percentage of fleet implementing (1) ballast water exchange and (2) ballast water treatment",
+		"TR0301-08": "Number and aggregate volume of spills and releases to the environment",
+		"TR0301-09": "Number of calls at ports in countries that have the 20 lowest rankings in Transparency International\u2019s Corruption Perception Index",
+		"TR0301-10": "Amount of legal and regulatory fines and settlements associated with bribery or corruption",
+		"TR0301-11": "Number of serious Marine Transportation incidents",
+		"TR0301-12": "Lost time injury rate",
+		"TR0301-13": "Number of Conditions of Class or Recommendations",
+		"TR0301-14": "Number of port state control (1) deficiencies and (2) detentions",
+		"TR0401-01": "Gross global Scope 1 emissions",
+		"TR0401-02": "Description of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets",
+		"TR0401-03": "Total fuel consumed, percentage renewable",
+		"TR0401-04": "Air emissions for the following pollutants: NOX and particulate matter (PM) ",
+		"TR0401-05": "Amount of legal and regulatory fines and settlements associated with anti-competitive practices",
+		"TR0401-06": "Number of accidents and incidents",
+		"TR0401-07": "(1) Total recordable injury rate, (2) fatality rate, and (3) near miss frequency rate ",
+		"TR0401-08": "Number of (1) accident releases and (2) non-accident releases (NARs)",
+		"TR0401-09": "Number of Federal Rail Transportation Administration (FRA) Recommended Violation Defects",
+		"TR0401-10": "Frequency of internal rail Transportationway integrity inspections",
+		"TR0402-01": "Gross global Scope 1 emissions",
+		"TR0402-02": "Description of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets",
+		"TR0402-03": "Total fuel consumed, percentage renewable ",
+		"TR0402-04": "Air emissions for the following pollutants: NOx, SOx, and particulate matter (PM)",
+		"TR0402-05": "Employee turnover by (1) voluntary and (2) involuntary for all employees",
+		"TR0402-06": "Description of approach to managing short-term and long-term driver health risks",
+		"TR0402-07": "Number of accidents and incidents    ",
+		"TR0402-08": "(1) Total recordable injury rate and (2) fatality rate for (a) full-time employees and (b) contract employees",
+		"TR0402-09": "Safety Measurement System BASIC percentiles for: (1) Unsafe Driving, (2) Hours-of-Service Compliance, (3) Driver Fitness, (4) Controlled Substances\/Alcohol, (5) Vehicle Maintenance, and (6) Hazardous Materials Compliance   ",
+		"TR0402-10": "Number and aggregate volume of spills and releases to the environment"
+	},
+	"evidence": {
+		"Automobiles": {
+			"Materials Efficiency & Recycling": {
+				"iwg_score": "83%",
+				"ei": "High",
+				"cost_capital": false,
+				"fli": "No",
+				"efi": "High",
+				"rev_cost": true,
+				"extern": false,
+				"prob_mag": false,
+				"hm_score": "73",
+				"asset_lib": false
+			},
+			"Product Safety": {
+				"iwg_score": "93%",
+				"ei": "High",
+				"cost_capital": true,
+				"fli": "No",
+				"efi": "High",
+				"rev_cost": true,
+				"extern": false,
+				"prob_mag": false,
+				"hm_score": "76",
+				"asset_lib": true
+			},
+			"Labor Relations": {
+				"iwg_score": "81%",
+				"ei": "Medium",
+				"cost_capital": false,
+				"fli": "No",
+				"efi": "Medium",
+				"rev_cost": true,
+				"extern": false,
+				"prob_mag": false,
+				"hm_score": "55",
+				"asset_lib": true
+			},
+			"Fuel Economy & Use-phase Emissions": {
+				"iwg_score": "89%",
+				"ei": "High",
+				"cost_capital": false,
+				"fli": "Yes",
+				"efi": "High",
+				"rev_cost": true,
+				"extern": true,
+				"prob_mag": true,
+				"hm_score": "98",
+				"asset_lib": true
+			},
+			"Materials Sourcing": {
+				"iwg_score": "89%",
+				"ei": "Medium",
+				"cost_capital": true,
+				"fli": "Yes",
+				"efi": "High",
+				"rev_cost": true,
+				"extern": false,
+				"prob_mag": true,
+				"hm_score": "50",
+				"asset_lib": true
+			}
+		},
+		"Auto Parts": {
+			"Energy Management": {
+				"iwg_score": "73%",
+				"ei": "Medium",
+				"cost_capital": true,
+				"fli": "Yes",
+				"efi": "Medium",
+				"rev_cost": true,
+				"extern": false,
+				"prob_mag": true,
+				"hm_score": "50",
+				"asset_lib": false
+			},
+			"Materials Efficiency & Waste Management": {
+				"iwg_score": "91%",
+				"ei": "High",
+				"cost_capital": false,
+				"fli": "No",
+				"efi": "Medium",
+				"rev_cost": true,
+				"extern": false,
+				"prob_mag": false,
+				"hm_score": "50",
+				"asset_lib": false
+			},
+			"Product Safety": {
+				"iwg_score": "100%",
+				"ei": "High",
+				"cost_capital": true,
+				"fli": "No",
+				"efi": "High",
+				"rev_cost": true,
+				"extern": false,
+				"prob_mag": false,
+				"hm_score": "63",
+				"asset_lib": true
+			},
+			"Product Lifecycle Management": {
+				"iwg_score": "95.5%",
+				"ei": "High",
+				"cost_capital": false,
+				"fli": "Yes",
+				"efi": "High",
+				"rev_cost": true,
+				"extern": false,
+				"prob_mag": true,
+				"hm_score": "70",
+				"asset_lib": false
+			},
+			"Competitive Behavior": {
+				"iwg_score": "64%",
+				"ei": "Medium",
+				"cost_capital": true,
+				"fli": "No",
+				"efi": "High",
+				"rev_cost": true,
+				"extern": false,
+				"prob_mag": false,
+				"hm_score": "60",
+				"asset_lib": true
+			},
+			"Materials Sourcing": {
+				"iwg_score": "82%",
+				"ei": "High",
+				"cost_capital": true,
+				"fli": "Yes",
+				"efi": "High",
+				"rev_cost": true,
+				"extern": false,
+				"prob_mag": true,
+				"hm_score": "33",
+				"asset_lib": false
+			}
+		},
+		"Car Rentals & Leasing": {
+			"Customer Safety": {
+				"iwg_score": "40%",
+				"ei": "High",
+				"cost_capital": false,
+				"fli": "No",
+				"efi": "High",
+				"rev_cost": true,
+				"extern": false,
+				"prob_mag": false,
+				"hm_score": "41",
+				"asset_lib": true
+			},
+			"Fleet Fuel Economy & Utilization": {
+				"iwg_score": "60%",
+				"ei": "High",
+				"cost_capital": false,
+				"fli": "Yes",
+				"efi": "High",
+				"rev_cost": true,
+				"extern": false,
+				"prob_mag": true,
+				"hm_score": "83",
+				"asset_lib": true
+			}
+		},
+		"Airlines": {
+			"Environmental Footprint of Fuel Use": {
+				"iwg_score": "100%",
+				"ei": "High",
+				"cost_capital": true,
+				"fli": "Yes",
+				"efi": "High",
+				"rev_cost": true,
+				"extern": true,
+				"prob_mag": true,
+				"hm_score": "96",
+				"asset_lib": false
+			},
+			"Labor Relations": {
+				"iwg_score": "86%",
+				"ei": "High",
+				"cost_capital": false,
+				"fli": "No",
+				"efi": "Medium",
+				"rev_cost": true,
+				"extern": false,
+				"prob_mag": false,
+				"hm_score": "60",
+				"asset_lib": true
+			},
+			"Competitive Behavior": {
+				"iwg_score": "91%",
+				"ei": "High",
+				"cost_capital": true,
+				"fli": "No",
+				"efi": "High",
+				"rev_cost": true,
+				"extern": false,
+				"prob_mag": false,
+				"hm_score": "80",
+				"asset_lib": true
+			},
+			"Accidents & Safety Management": {
+				"iwg_score": "73%",
+				"ei": "Medium",
+				"cost_capital": true,
+				"fli": "No",
+				"efi": "High",
+				"rev_cost": true,
+				"extern": false,
+				"prob_mag": false,
+				"hm_score": "50",
+				"asset_lib": true
+			}
+		},
+		"Air Freight & Logistics": {
+			"Environmental Footprint of Fuel Use": {
+				"iwg_score": "85%",
+				"ei": "High",
+				"cost_capital": true,
+				"fli": "Yes",
+				"efi": "High",
+				"rev_cost": true,
+				"extern": true,
+				"prob_mag": true,
+				"hm_score": "66",
+				"asset_lib": true
+			},
+			"Fair Labor Practices": {
+				"iwg_score": "81%",
+				"ei": "High",
+				"cost_capital": false,
+				"fli": "No",
+				"efi": "Medium",
+				"rev_cost": true,
+				"extern": false,
+				"prob_mag": false,
+				"hm_score": "30",
+				"asset_lib": true
+			},
+			"Accidents & Safety Management": {
+				"iwg_score": "83%",
+				"ei": "High",
+				"cost_capital": true,
+				"fli": "Yes",
+				"efi": "High",
+				"rev_cost": true,
+				"extern": false,
+				"prob_mag": true,
+				"hm_score": "43",
+				"asset_lib": true
+			},
+			"Supply Chain Management": {
+				"iwg_score": "-%",
+				"ei": "Medium",
+				"cost_capital": false,
+				"fli": "No",
+				"efi": "Medium",
+				"rev_cost": true,
+				"extern": false,
+				"prob_mag": false,
+				"hm_score": "46",
+				"asset_lib": true
+			}
+		},
+		"Marine Transportation": {
+			"Environmental Footprint of Fuel Use": {
+				"iwg_score": "67%",
+				"ei": "Medium",
+				"cost_capital": true,
+				"fli": "Yes",
+				"efi": "High",
+				"rev_cost": true,
+				"extern": true,
+				"prob_mag": true,
+				"hm_score": "50",
+				"asset_lib": true
+			},
+			"Ecological Impacts": {
+				"iwg_score": "83%",
+				"ei": "Medium",
+				"cost_capital": false,
+				"fli": "Yes",
+				"efi": "Medium",
+				"rev_cost": true,
+				"extern": true,
+				"prob_mag": false,
+				"hm_score": "63",
+				"asset_lib": false
+			},
+			"Business Ethics": {
+				"iwg_score": "100%",
+				"ei": "High",
+				"cost_capital": true,
+				"fli": "No",
+				"efi": "High",
+				"rev_cost": true,
+				"extern": false,
+				"prob_mag": false,
+				"hm_score": "45",
+				"asset_lib": true
+			},
+			"Accidents & Safety Management": {
+				"iwg_score": "100%",
+				"ei": "High",
+				"cost_capital": true,
+				"fli": "Yes",
+				"efi": "High",
+				"rev_cost": true,
+				"extern": true,
+				"prob_mag": false,
+				"hm_score": "50",
+				"asset_lib": true
+			}
+		},
+		"Rail Transportation": {
+			"Environmental Footprint of Fuel Use": {
+				"iwg_score": "91%",
+				"ei": "High",
+				"cost_capital": true,
+				"fli": "Yes",
+				"efi": "High",
+				"rev_cost": true,
+				"extern": true,
+				"prob_mag": true,
+				"hm_score": "60",
+				"asset_lib": false
+			},
+			"Competitive Behavior": {
+				"iwg_score": "77%",
+				"ei": "Medium",
+				"cost_capital": true,
+				"fli": "No",
+				"efi": "High",
+				"rev_cost": true,
+				"extern": false,
+				"prob_mag": false,
+				"hm_score": "25",
+				"asset_lib": true
+			},
+			"Accidents & Safety Management": {
+				"iwg_score": "100%",
+				"ei": "High",
+				"cost_capital": true,
+				"fli": "Yes",
+				"efi": "High",
+				"rev_cost": true,
+				"extern": true,
+				"prob_mag": false,
+				"hm_score": "83",
+				"asset_lib": true
+			}
+		},
+		"Road Transportation": {
+			"Environmental Footprint of Fuel Use": {
+				"iwg_score": "96%",
+				"ei": "High",
+				"cost_capital": true,
+				"fli": "Yes",
+				"efi": "High",
+				"rev_cost": true,
+				"extern": true,
+				"prob_mag": true,
+				"hm_score": "76",
+				"asset_lib": true
+			},
+			"Driver Working Conditions": {
+				"iwg_score": "77%",
+				"ei": "Medium",
+				"cost_capital": false,
+				"fli": "Yes",
+				"efi": "Medium",
+				"rev_cost": true,
+				"extern": false,
+				"prob_mag": true,
+				"hm_score": "50",
+				"asset_lib": true
+			},
+			"Accidents & Safety Management": {
+				"iwg_score": "88%",
+				"ei": "High",
+				"cost_capital": true,
+				"fli": "No",
+				"efi": "High",
+				"rev_cost": true,
+				"extern": false,
+				"prob_mag": false,
+				"hm_score": "40",
+				"asset_lib": true
+			}
+		}
+	}
+}

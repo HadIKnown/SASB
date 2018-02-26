@@ -1,0 +1,2296 @@
+{
+	"industries": {
+		"Agricultural Products": {
+			"Biodiversity impacts": {
+				"topics": {
+					"Land Use & Ecological Impacts": {
+						"metric_codes": [
+							"CN0101-08",
+							"CN0101-12",
+							"CN0101-11"
+						]
+					}
+				}
+			},
+			"Customer welfare": {
+				"topics": {
+					"Food Safety & Health Concerns": {
+						"metric_codes": [
+							"CN0101-16"
+						]
+					}
+				}
+			},
+			"Employee health, safety and wellbeing": {
+				"topics": {
+					"Fair Labor Practices & Workforce Health & Safety": {
+						"metric_codes": [
+							"CN0101-18",
+							"CN0101-19"
+						]
+					}
+				}
+			},
+			"Energy management": {
+				"topics": {
+					"Energy & Fleet Fuel Management": {
+						"metric_codes": [
+							"CN0101-04"
+						]
+					}
+				}
+			},
+			"Environmental, social impacts on assets & operations": {
+				"topics": {
+					"Climate Change Impacts on Crop Yields": {
+						"metric_codes": [
+							"CN0101-20",
+							"CN0101-21",
+							"CN0101-22"
+						]
+					}
+				}
+			},
+			"Fair labor practices": {
+				"topics": {
+					"Fair Labor Practices & Workforce Health & Safety": {
+						"metric_codes": [
+							"CN0101-17"
+						]
+					}
+				}
+			},
+			"Fuel management": {
+				"topics": {
+					"Energy & Fleet Fuel Management": {
+						"metric_codes": [
+							"CN0101-05"
+						]
+					}
+				}
+			},
+			"GHG emissions": {
+				"topics": {
+					"Greenhouse Gas Emissions": {
+						"metric_codes": [
+							"CN0101-01",
+							"CN0101-02",
+							"CN0101-03"
+						]
+					}
+				}
+			},
+			"Materials sourcing": {
+				"topics": {
+					"Environmental & Social Impacts of Ingredient Supply Chains": {
+						"metric_codes": [
+							"CN0101-23"
+						]
+					}
+				}
+			},
+			"Product quality and safety": {
+				"topics": {
+					"Food Safety & Health Concerns": {
+						"metric_codes": [
+							"CN0101-13",
+							"CN0101-14",
+							"CN0101-15"
+						]
+					}
+				}
+			},
+			"Regulatory capture and political influence": {
+				"topics": {
+					"Management of the Legal & Regulatory Environment": {
+						"metric_codes": [
+							"CN0101-26"
+						]
+					}
+				}
+			},
+			"Supply chain management": {
+				"topics": {
+					"Environmental & Social Impacts of Ingredient Supply Chains": {
+						"metric_codes": [
+							"CN0101-24",
+							"CN0101-25"
+						]
+					}
+				}
+			},
+			"Water and wastewater management": {
+				"topics": {
+					"Water Withdrawal": {
+						"metric_codes": [
+							"CN0101-06",
+							"CN0101-07"
+						]
+					},
+					"Land Use & Ecological Impacts": {
+						"metric_codes": [
+							"CN0101-09",
+							"CN0101-10"
+						]
+					}
+				}
+			}
+		},
+		"Meat, Poultry and Dairy": {
+			"Biodiversity impacts": {
+				"topics": {
+					"Land Use & Ecological Impacts": {
+						"metric_codes": [
+							"CN0102-09"
+						]
+					}
+				}
+			},
+			"Customer welfare": {
+				"topics": {
+					"Antibiotic Use in Animal Production": {
+						"metric_codes": [
+							"CN0102-17"
+						]
+					}
+				}
+			},
+			"Employee health, safety and wellbeing": {
+				"topics": {
+					"Workforce Health & Safety": {
+						"metric_codes": [
+							"CN0102-15",
+							"CN0102-16"
+						]
+					}
+				}
+			},
+			"Energy management": {
+				"topics": {
+					"Energy Management": {
+						"metric_codes": [
+							"CN0102-03"
+						]
+					}
+				}
+			},
+			"Environmental, social impacts on assets & operations": {
+				"topics": {
+					"Animal Care & Welfare": {
+						"metric_codes": [
+							"CN0102-18",
+							"CN0102-19",
+							"CN0102-20"
+						]
+					}
+				}
+			},
+			"GHG emissions": {
+				"topics": {
+					"Greenhouse Gas Emissions": {
+						"metric_codes": [
+							"CN0102-01",
+							"CN0102-02"
+						]
+					}
+				}
+			},
+			"Materials sourcing": {
+				"topics": {
+					"Environmental Risks in Animal Feed Supply Chains": {
+						"metric_codes": [
+							"CN0102-25",
+							"CN0102-26"
+						]
+					},
+					"Environmental & Social Impacts of Animal Supply Chains": {
+						"metric_codes": [
+							"CN0102-22",
+							"CN0102-24"
+						]
+					}
+				}
+			},
+			"Product quality and safety": {
+				"topics": {
+					"Food Safety": {
+						"metric_codes": [
+							"CN0102-11",
+							"CN0102-12",
+							"CN0102-13",
+							"CN0102-14"
+						]
+					}
+				}
+			},
+			"Supply chain management": {
+				"topics": {
+					"Environmental & Social Impacts of Animal Supply Chains": {
+						"metric_codes": [
+							"CN0102-21",
+							"CN0102-23"
+						]
+					}
+				}
+			},
+			"Waste and hazardous materials management": {
+				"topics": {
+					"Land Use & Ecological Impacts": {
+						"metric_codes": [
+							"CN0102-08",
+							"CN0102-10"
+						]
+					}
+				}
+			},
+			"Water and wastewater management": {
+				"topics": {
+					"Water Withdrawal": {
+						"metric_codes": [
+							"CN0102-04",
+							"CN0102-05"
+						]
+					},
+					"Land Use & Ecological Impacts": {
+						"metric_codes": [
+							"CN0102-06",
+							"CN0102-07"
+						]
+					}
+				}
+			}
+		},
+		"Processed Foods": {
+			"Customer welfare": {
+				"topics": {
+					"Health & Nutrition": {
+						"metric_codes": [
+							"CN0103-10",
+							"CN0103-11",
+							"CN0103-12"
+						]
+					}
+				}
+			},
+			"Energy management": {
+				"topics": {
+					"Energy & Fleet Fuel Management": {
+						"metric_codes": [
+							"CN0103-01"
+						]
+					}
+				}
+			},
+			"Fair disclosure and labeling": {
+				"topics": {
+					"Product Labeling & Marketing": {
+						"metric_codes": [
+							"CN0103-14"
+						]
+					}
+				}
+			},
+			"Fair marketing and advertising": {
+				"topics": {
+					"Product Labeling & Marketing": {
+						"metric_codes": [
+							"CN0103-13",
+							"CN0103-15",
+							"CN0103-16"
+						]
+					}
+				}
+			},
+			"Fuel management": {
+				"topics": {
+					"Energy & Fleet Fuel Management": {
+						"metric_codes": [
+							"CN0103-02"
+						]
+					}
+				}
+			},
+			"Materials sourcing": {
+				"topics": {
+					"Environmental & Social Impacts of Ingredient Supply Chains": {
+						"metric_codes": [
+							"CN0103-19",
+							"CN0103-22"
+						]
+					}
+				}
+			},
+			"Product packaging": {
+				"topics": {
+					"Packaging Lifecycle Management": {
+						"metric_codes": [
+							"CN0103-17",
+							"CN0103-18"
+						]
+					}
+				}
+			},
+			"Product quality and safety": {
+				"topics": {
+					"Food Safety": {
+						"metric_codes": [
+							"CN0103-06",
+							"CN0103-07",
+							"CN0103-08",
+							"CN0103-09"
+						]
+					}
+				}
+			},
+			"Supply chain management": {
+				"topics": {
+					"Environmental & Social Impacts of Ingredient Supply Chains": {
+						"metric_codes": [
+							"CN0103-20",
+							"CN0103-21"
+						]
+					}
+				}
+			},
+			"Water and wastewater management": {
+				"topics": {
+					"Water Management": {
+						"metric_codes": [
+							"CN0103-03",
+							"CN0103-04",
+							"CN0103-05"
+						]
+					}
+				}
+			}
+		},
+		"Non-Alcoholic Beverages": {
+			"Customer welfare": {
+				"topics": {
+					"Health & Nutrition": {
+						"metric_codes": [
+							"CN0201-05",
+							"CN0201-06"
+						]
+					}
+				}
+			},
+			"Energy management": {
+				"topics": {
+					"Energy & Fleet Fuel Management": {
+						"metric_codes": [
+							"CN0201-01"
+						]
+					}
+				}
+			},
+			"Fair disclosure and labeling": {
+				"topics": {
+					"Product Labeling & Marketing": {
+						"metric_codes": [
+							"CN0201-08"
+						]
+					}
+				}
+			},
+			"Fair marketing and advertising": {
+				"topics": {
+					"Product Labeling & Marketing": {
+						"metric_codes": [
+							"CN0201-07",
+							"CN0201-09",
+							"CN0201-10"
+						]
+					}
+				}
+			},
+			"Fuel management": {
+				"topics": {
+					"Energy & Fleet Fuel Management": {
+						"metric_codes": [
+							"CN0201-02"
+						]
+					}
+				}
+			},
+			"Materials sourcing": {
+				"topics": {
+					"Environmental & Social Impacts of Ingredient Supply Chains": {
+						"metric_codes": [
+							"CN0201-13",
+							"CN0201-15"
+						]
+					}
+				}
+			},
+			"Product packaging": {
+				"topics": {
+					"Packaging Lifecycle Management": {
+						"metric_codes": [
+							"CN0201-11",
+							"CN0201-12"
+						]
+					}
+				}
+			},
+			"Supply chain management": {
+				"topics": {
+					"Environmental & Social Impacts of Ingredient Supply Chains": {
+						"metric_codes": [
+							"CN0201-14"
+						]
+					}
+				}
+			},
+			"Water and wastewater management": {
+				"topics": {
+					"Water Management": {
+						"metric_codes": [
+							"CN0201-03",
+							"CN0201-04"
+						]
+					}
+				}
+			}
+		},
+		"Alcoholic Beverages": {
+			"Customer welfare": {
+				"topics": {
+					"Responsible Drinking & Marketing": {
+						"metric_codes": [
+							"CN0202-07"
+						]
+					}
+				}
+			},
+			"Energy management": {
+				"topics": {
+					"Energy Management": {
+						"metric_codes": [
+							"CN0202-01"
+						]
+					}
+				}
+			},
+			"Fair disclosure and labeling": {
+				"topics": {
+					"Responsible Drinking & Marketing": {
+						"metric_codes": [
+							"CN0202-05",
+							"CN0202-06"
+						]
+					}
+				}
+			},
+			"Fair marketing and advertising": {
+				"topics": {
+					"Responsible Drinking & Marketing": {
+						"metric_codes": [
+							"CN0202-04",
+							"CN0202-05",
+							"CN0202-06"
+						]
+					}
+				}
+			},
+			"Materials sourcing": {
+				"topics": {
+					"Environmental & Social Impacts of Ingredient Supply Chains": {
+						"metric_codes": [
+							"CN0202-10",
+							"CN0202-12"
+						]
+					}
+				}
+			},
+			"Product packaging": {
+				"topics": {
+					"Packaging Lifecycle Management": {
+						"metric_codes": [
+							"CN0202-08",
+							"CN0202-09"
+						]
+					}
+				}
+			},
+			"Supply chain management": {
+				"topics": {
+					"Environmental & Social Impacts of Ingredient Supply Chains": {
+						"metric_codes": [
+							"CN0202-11"
+						]
+					}
+				}
+			},
+			"Water and wastewater management": {
+				"topics": {
+					"Water Management": {
+						"metric_codes": [
+							"CN0202-02",
+							"CN0202-03"
+						]
+					}
+				}
+			}
+		},
+		"Apparel Accessories and Footwear": {
+			"Materials sourcing": {
+				"topics": {
+					"Raw Material Sourcing & Innovation": {
+						"metric_codes": [
+							"CN0501-03",
+							"CN0501-04"
+						]
+					}
+				}
+			},
+			"Product quality and safety": {
+				"topics": {
+					"Management of Chemicals in Products": {
+						"metric_codes": [
+							"CN0501-01",
+							"CN0501-02"
+						]
+					}
+				}
+			},
+			"Supply chain management": {
+				"topics": {
+					"Environmental Impacts in the Supply Chain": {
+						"metric_codes": [
+							"CN0501-08",
+							"CN0501-09"
+						]
+					},
+					"Labor Conditions in the Supply Chain": {
+						"metric_codes": [
+							"CN0501-05",
+							"CN0501-06",
+							"CN0501-07"
+						]
+					}
+				}
+			}
+		},
+		"Appliance Manufacturing": {
+			"Lifecycle impacts of products and services": {
+				"topics": {
+					"Product Lifecycle Environmental Impacts": {
+						"metric_codes": [
+							"CN0601-03",
+							"CN0601-04",
+							"CN0601-05"
+						]
+					}
+				}
+			},
+			"Product quality and safety": {
+				"topics": {
+					"Product Safety": {
+						"metric_codes": [
+							"CN0601-01",
+							"CN0601-02"
+						]
+					}
+				}
+			}
+		},
+		"Building Products and Furnishings": {
+			"Energy management": {
+				"topics": {
+					"Energy Management in Manufacturing": {
+						"metric_codes": [
+							"CN0603-01"
+						]
+					}
+				}
+			},
+			"Lifecycle impacts of products and services": {
+				"topics": {
+					"Product Lifecycle Environmental Impacts": {
+						"metric_codes": [
+							"CN0603-04",
+							"CN0603-05"
+						]
+					}
+				}
+			},
+			"Product quality and safety": {
+				"topics": {
+					"Management of Chemicals in Products": {
+						"metric_codes": [
+							"CN0603-02",
+							"CN0603-03"
+						]
+					}
+				}
+			},
+			"Supply chain management": {
+				"topics": {
+					"Wood Sourcing": {
+						"metric_codes": [
+							"CN0603-06"
+						]
+					}
+				}
+			}
+		},
+		"Drug Retailers and Convenience Stores": {
+			"Customer welfare": {
+				"topics": {
+					"Patient Health Outcomes": {
+						"metric_codes": [
+							"CN0402-07",
+							"CN0402-08",
+							"CN0402-09"
+						]
+					}
+				}
+			},
+			"Data security and customer privacy": {
+				"topics": {
+					"Data Security & Privacy": {
+						"metric_codes": [
+							"CN0402-02",
+							"CN0402-03",
+							"CN0402-04"
+						]
+					}
+				}
+			},
+			"Diversity and inclusion": {
+				"topics": {
+					"Patient Health Outcomes": {
+						"metric_codes": [
+							"CN0402-10"
+						]
+					}
+				}
+			},
+			"Energy management": {
+				"topics": {
+					"Energy Management in Retail": {
+						"metric_codes": [
+							"CN0402-01"
+						]
+					}
+				}
+			},
+			"Product quality and safety": {
+				"topics": {
+					"Drug Supply Chain Integrity": {
+						"metric_codes": [
+							"CN0402-12"
+						]
+					},
+					"Management of Controlled Substances": {
+						"metric_codes": [
+							"CN0402-05",
+							"CN0402-06"
+						]
+					}
+				}
+			},
+			"Supply chain management": {
+				"topics": {
+					"Drug Supply Chain Integrity": {
+						"metric_codes": [
+							"CN0402-11"
+						]
+					}
+				}
+			}
+		},
+		"E-commerce": {
+			"Data security and customer privacy": {
+				"topics": {
+					"Data Privacy": {
+						"metric_codes": [
+							"CN0404-08",
+							"CN0404-09"
+						]
+					},
+					"Data Security & Fraud Protection": {
+						"metric_codes": [
+							"CN0404-06",
+							"CN0404-07"
+						]
+					}
+				}
+			},
+			"Diversity and inclusion": {
+				"topics": {
+					"Employee Recruitment, Inclusion, and Performance": {
+						"metric_codes": [
+							"CN0404-12"
+						]
+					}
+				}
+			},
+			"Energy management": {
+				"topics": {
+					"Energy & Water Footprint of Hardware Infrastructure": {
+						"metric_codes": [
+							"CN0404-01",
+							"CN0404-03"
+						]
+					}
+				}
+			},
+			"Lifecycle impacts of products and services": {
+				"topics": {
+					"Logistics & Packaging Efficiency": {
+						"metric_codes": [
+							"CN0404-04",
+							"CN0404-05"
+						]
+					}
+				}
+			},
+			"Product packaging": {
+				"topics": {
+					"Logistics & Packaging Efficiency": {
+						"metric_codes": [
+							"CN0404-05"
+						]
+					}
+				}
+			},
+			"Recruitment, development and retention": {
+				"topics": {
+					"Employee Recruitment, Inclusion, and Performance": {
+						"metric_codes": [
+							"CN0404-10",
+							"CN0404-11",
+							"CN0404-13",
+							"CN0404-14"
+						]
+					}
+				}
+			},
+			"Water and wastewater management": {
+				"topics": {
+					"Energy & Water Footprint of Hardware Infrastructure": {
+						"metric_codes": [
+							"CN0404-02",
+							"CN0404-03"
+						]
+					}
+				}
+			}
+		},
+		"Food Retailers and Distributors": {
+			"Compensation and benefits": {
+				"topics": {
+					"Fair Labor Practices": {
+						"metric_codes": [
+							"CN0401-16"
+						]
+					}
+				}
+			},
+			"Customer welfare": {
+				"topics": {
+					"Product Health & Nutrition": {
+						"metric_codes": [
+							"CN0401-11",
+							"CN0401-12"
+						]
+					}
+				}
+			},
+			"Data security and customer privacy": {
+				"topics": {
+					"Data Security": {
+						"metric_codes": [
+							"CN0401-07",
+							"CN0401-08"
+						]
+					}
+				}
+			},
+			"Energy management": {
+				"topics": {
+					"Energy & Fleet Fuel Management": {
+						"metric_codes": [
+							"CN0401-04"
+						]
+					}
+				}
+			},
+			"Fair disclosure and labeling": {
+				"topics": {
+					"Product Labeling & Marketing": {
+						"metric_codes": [
+							"CN0401-13",
+							"CN0401-14",
+							"CN0401-15"
+						]
+					}
+				}
+			},
+			"Fair labor practices": {
+				"topics": {
+					"Fair Labor Practices": {
+						"metric_codes": [
+							"CN0401-19"
+						]
+					}
+				}
+			},
+			"Fair marketing and advertising": {
+				"topics": {
+					"Product Labeling & Marketing": {
+						"metric_codes": [
+							"CN0401-13",
+							"CN0401-14"
+						]
+					}
+				}
+			},
+			"Fuel management": {
+				"topics": {
+					"Energy & Fleet Fuel Management": {
+						"metric_codes": [
+							"CN0401-05"
+						]
+					}
+				}
+			},
+			"GHG emissions": {
+				"topics": {
+					"Air Emissions from Refrigeration": {
+						"metric_codes": [
+							"CN0401-01",
+							"CN0401-02",
+							"CN0401-03"
+						]
+					}
+				}
+			},
+			"Labor relations": {
+				"topics": {
+					"Fair Labor Practices": {
+						"metric_codes": [
+							"CN0401-17",
+							"CN0401-18"
+						]
+					}
+				}
+			},
+			"Materials sourcing": {
+				"topics": {
+					"Management of Environmental & Social Impacts in the Supply Chain": {
+						"metric_codes": [
+							"CN0401-20"
+						]
+					}
+				}
+			},
+			"Product packaging": {
+				"topics": {
+					"Management of Environmental & Social Impacts in the Supply Chain": {
+						"metric_codes": [
+							"CN0401-23"
+						]
+					}
+				}
+			},
+			"Product quality and safety": {
+				"topics": {
+					"Food Safety": {
+						"metric_codes": [
+							"CN0401-09",
+							"CN0401-10"
+						]
+					}
+				}
+			},
+			"Supply chain management": {
+				"topics": {
+					"Management of Environmental & Social Impacts in the Supply Chain": {
+						"metric_codes": [
+							"CN0401-21",
+							"CN0401-22"
+						]
+					}
+				}
+			},
+			"Waste and hazardous materials management": {
+				"topics": {
+					"Food Waste Management": {
+						"metric_codes": [
+							"CN0401-06"
+						]
+					}
+				}
+			}
+		},
+		"Multiline and Specialty Retailers and Distributors": {
+			"Compensation and benefits": {
+				"topics": {
+					"Fair Labor Practices": {
+						"metric_codes": [
+							"CN0403-06"
+						]
+					}
+				}
+			},
+			"Data security and customer privacy": {
+				"topics": {
+					"Data Security": {
+						"metric_codes": [
+							"CN0403-02",
+							"CN0403-03"
+						]
+					}
+				}
+			},
+			"Diversity and inclusion": {
+				"topics": {
+					"Workforce Diversity & Inclusion": {
+						"metric_codes": [
+							"CN0403-04",
+							"CN0403-05"
+						]
+					}
+				}
+			},
+			"Energy management": {
+				"topics": {
+					"Energy Management in Retail & Distribution": {
+						"metric_codes": [
+							"CN0403-01"
+						]
+					}
+				}
+			},
+			"Fair labor practices": {
+				"topics": {
+					"Fair Labor Practices": {
+						"metric_codes": [
+							"CN0403-08"
+						]
+					}
+				}
+			},
+			"Product packaging": {
+				"topics": {
+					"Product Sourcing, Packaging, and Marketing": {
+						"metric_codes": [
+							"CN0403-11"
+						]
+					}
+				}
+			},
+			"Recruitment, development and retention": {
+				"topics": {
+					"Fair Labor Practices": {
+						"metric_codes": [
+							"CN0403-07"
+						]
+					}
+				}
+			},
+			"Supply chain management": {
+				"topics": {
+					"Product Sourcing, Packaging, and Marketing": {
+						"metric_codes": [
+							"CN0403-09",
+							"CN0403-10"
+						]
+					}
+				}
+			}
+		},
+		"Toys and Sporting Goods": {
+			"Product quality and safety": {
+				"topics": {
+					"Chemical & Safety Hazards of Products": {
+						"metric_codes": [
+							"CN0604-01",
+							"CN0604-02",
+							"CN0604-03",
+							"CN0604-04"
+						]
+					}
+				}
+			},
+			"Supply chain management": {
+				"topics": {
+					"Labor Conditions in the Supply Chain": {
+						"metric_codes": [
+							"CN0604-05",
+							"CN0604-06"
+						]
+					}
+				}
+			}
+		},
+		"Tobacco": {
+			"Customer welfare": {
+				"topics": {
+					"Public Health": {
+						"metric_codes": [
+							"CN0302-01",
+							"CN0302-02"
+						]
+					}
+				}
+			},
+			"Fair marketing and advertising": {
+				"topics": {
+					"Marketing Practices": {
+						"metric_codes": [
+							"CN0302-03",
+							"CN0302-04"
+						]
+					}
+				}
+			},
+			"Fair disclosure and labeling": {
+				"topics": {
+					"Marketing Practices": {
+						"metric_codes": [
+							"CN0302-05"
+						]
+					}
+				}
+			}
+		},
+		"Household and Personal Products": {
+			"Lifecycle impacts of products and services": {
+				"topics": {
+					"Product Environmental, Health, and Safety Performance": {
+						"metric_codes": [
+							"CN0602-08"
+						]
+					}
+				}
+			},
+			"Product packaging": {
+				"topics": {
+					"Packaging Lifecycle Management": {
+						"metric_codes": [
+							"CN0602-03",
+							"CN0602-04"
+						]
+					}
+				}
+			},
+			"Product quality and safety": {
+				"topics": {
+					"Product Environmental, Health, and Safety Performance": {
+						"metric_codes": [
+							"CN0602-05",
+							"CN0602-06",
+							"CN0602-07"
+						]
+					}
+				}
+			},
+			"Supply chain management": {
+				"topics": {
+					"Environmental & Social Impacts of Palm Oil Supply Chain": {
+						"metric_codes": [
+							"CN0602-09"
+						]
+					}
+				}
+			},
+			"Water and wastewater management": {
+				"topics": {
+					"Water Management": {
+						"metric_codes": [
+							"CN0602-01",
+							"CN0602-02"
+						]
+					}
+				}
+			}
+		}
+	},
+	"metrics": {
+		"CN0101-01": "Gross global Scope 1 emissions",
+		"CN0101-02": "Biogenic carbon dioxide (CO2) emissions1",
+		"CN0101-03": "Description of long-term and short-term strategy or plan to manage Scope 1 emissions, emission-reduction targets, and an analysis of performance against those targets",
+		"CN0101-04": "Operational energy consumed, percentage grid electricity, percentage renewable",
+		"CN0101-05": "Fleet fuel consumed, percentage renewable",
+		"CN0101-06": "(1) Total water withdrawn and (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress",
+		"CN0101-07": "Discussion of water withdrawal risks and description of management strategies and practices to mitigate those risks",
+		"CN0101-08": "Description of strategies to manage land use and ecological impacts",
+		"CN0101-09": "(1) Volume of wastewater reused and (2) volume of wastewater discharged to the environment",
+		"CN0101-10": "Number of incidents of non-compliance with water-quality permits, standards, and regulations",
+		"CN0101-11": "Amount of fertilizer consumption by: (1) nitrogen-based, (2) phosphate-based, and (3) potassium-based fertilizers",
+		"CN0101-12": "Amount of pesticide consumption by hazard level",
+		"CN0101-13": "Global Food Safety Initiative (GFSI) audit conformance: (1) major non-conformance rate and associated corrective action rate and (2) minor non-conformance rate and associated corrective action rate",
+		"CN0101-14": "Percentage of agricultural products sourced from suppliers certified to a Global Food Safety Initiative (GFSI) scheme",
+		"CN0101-15": "Number of recalls issued, total amount of food product recalled",
+		"CN0101-16": "Description of strategies to manage the use of genetically modified organisms (GMOs)",
+		"CN0101-17": "Percentage of farms and facilities certified for fair labor practices",
+		"CN0101-18": "(1) Total recordable injury rate (TRIR), (2) fatality rate, and (3) near miss frequency rate (NMFR) for (a) direct employees and (b) seasonal and migrant employees",
+		"CN0101-19": "Description of efforts to assess, monitor, and reduce exposure of direct, seasonal, and migrant employees to pesticides",
+		"CN0101-20": "Amount of crop losses, percentage offset through financial mechanisms",
+		"CN0101-21": "Average crop yield and five-year standard deviation per major crop type by major operating region",
+		"CN0101-22": "Identification of principal crops and discussion of risks and opportunities presented by climate change",
+		"CN0101-23": "Percentage of agricultural raw materials sourced from regions with High or Extremely High Baseline Water Stress",
+		"CN0101-24": "Description of management strategy for environmental and social risks arising from contract growing and commodity sourcing",
+		"CN0101-25": "Percentage of agricultural raw materials that are certified to a third-party environmental and/or social standard",
+		"CN0101-26": "Discussion of positions on the regulatory and political environment related to environmental and social factors and description of efforts to manage risks and opportunities presented  ",
+		"CN0102-01": "Gross global Scope 1 emissions",
+		"CN0102-02": "Description of long-term and short-term strategy or plan to manage Scope 1 emissions, emission-reduction targets, and an analysis of performance against those targets",
+		"CN0102-03": "Total energy consumed, percentage grid electricity, percentage renewable",
+		"CN0102-04": "(1) Total water withdrawn and (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress",
+		"CN0102-05": "Discussion of risks associated with water withdrawal and description of strategies and practices to mitigate those risks",
+		"CN0102-06": "Number of incidents of non-compliance with water-quality permits, standards, and regulations",
+		"CN0102-07": "Discussion of risks associated with water discharges and description of strategies and practices to mitigate those risks",
+		"CN0102-08": "Amount of animal litter and manure generated, percentage managed according to a nutrient management plan",
+		"CN0102-09": "Percentage of pasture and grazing land managed to NRCS Conservation Plan criteria",
+		"CN0102-10": "Animal protein production from concentrated animal feeding operations (CAFO)",
+		"CN0102-11": "Number of recalls issued, total weight of products recalled",
+		"CN0102-12": "Global Food Safety Initiative (GFSI) audit conformance: (1) major non-conformance rate and associated corrective action rate and (2) minor non-conformance rate and associated corrective action rate",
+		"CN0102-13": "Percentage of supplier facilities that meet the Global Food Safety Initiative (GFSI) requirements",
+		"CN0102-14": "Discussion of markets that ban imports of the registrant's products",
+		"CN0102-15": "(1) Total recordable injury rate (TRIR) and (2) fatality rate",
+		"CN0102-16": "Description of practices to monitor for and mitigate chronic and acute health conditions",
+		"CN0102-17": "Percentage of animal production that receives (1) medically important antibiotics and (2) nontherapeutic antibiotics",
+		"CN0102-18": "Percentage of pork produced without the use of gestation crates",
+		"CN0102-19": "Percentage of cage-free shell egg sales",
+		"CN0102-20": "Percentage of production certified to a third-party animal welfare standard",
+		"CN0102-21": "Percentage of livestock from suppliers implementing NRCS Conservation Plans or the equivalent",
+		"CN0102-22": "Percentage of contract producers in regions with High or Extremely High Baseline Water Stress",
+		"CN0102-23": "Percentage of supplier and contract production facilities verified to meet animal welfare standards",
+		"CN0102-24": "Discussion of strategy to manage opportunities and risks to livestock supply presented by climate change",
+		"CN0102-25": "Percentage of feed sourced from regions with High or Extremely High Baseline Water Stress ",
+		"CN0102-26": "Discussion of strategy to manage opportunities and risks to feed sourcing presented by climate change",
+		"CN0103-01": "Operational energy consumed, percentage grid electricity, percentage renewable ",
+		"CN0103-02": "Fleet fuel consumed, percentage renewable",
+		"CN0103-03": "(1) Total water withdrawn and (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress",
+		"CN0103-04": "Number of incidents of non-compliance with water quality and/or quantity permits, standards, and regulations",
+		"CN0103-05": "Discussion of water management risks and description of strategies and practices to mitigate those risks",
+		"CN0103-06": "Global Food Safety Initiative (GFSI) audit conformance: (1) major non-conformance rate and associated corrective action rate and (2) minor non-conformance rate and associated corrective action rate",
+		"CN0103-07": "Percentage of ingredients sourced from supplier facilities certified to a Global Food Safety Initiative (GFSI) scheme",
+		"CN0103-08": "Notice of food safety violations received, percentage corrected",
+		"CN0103-09": "Number of recalls issued, total amount of food product recalled1]",
+		"CN0103-10": "Revenue from products labeled and/or marketed to promote health and nutrition attributes",
+		"CN0103-11": "Revenue from products that meet Smart Snacks in School criteria or foreign equivalent",
+		"CN0103-12": "Description of the process to identify and manage products and ingredients of concern and emerging dietary preferences",
+		"CN0103-13": "Number of child advertising impressions made, percentage promoting products meeting the Children’s Food and Beverage Initiative (CFBAI) Uniform Nutrition Criteria",
+		"CN0103-14": "Revenue from products labeled as (1) containing genetically modified organisms (GMOs) and (2) non-GMO",
+		"CN0103-15": "Notices of violations received for non-conformance with regulatory labeling and/or marketing codes ",
+		"CN0103-16": "Amount of legal and regulatory fines and settlements associated with marketing and/or labeling practices",
+		"CN0103-17": "(1) Total weight of packaging sourced, (2) percentage made from recycled or renewable materials, and (3) percentage that is recyclable or compostable",
+		"CN0103-18": "Description of strategies to reduce the environmental impact of packaging throughout its lifecycle",
+		"CN0103-19": "Percentage of food ingredients sourced from regions with High or Extremely High Baseline Water Stress",
+		"CN0103-20": "Percentage of food ingredients sourced that are certified to third-party environmental and/or social standards, by certification scheme",
+		"CN0103-21": "Suppliers’ social and environmental responsibility audit conformance: (1) major non-conformance rate and associated corrective action rate and (2) minor non-conformance rate and associated corrective action rate",
+		"CN0103-22": "List of priority food ingredients and discussion of sourcing risks due to environmental and social considerations",
+		"CN0201-01": "Operational energy consumed, percentage grid electricity, percentage renewable",
+		"CN0201-02": "Fleet fuel consumed, percentage renewable",
+		"CN0201-03": "(1) Total water withdrawn and (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress",
+		"CN0201-04": "Discussion of water management risks and description of management strategies and practices to mitigate those risks",
+		"CN0201-05": "Revenue from (1) zero- and low-calorie, (2) no-added-sugar, and (3) artificially sweetened beverages",
+		"CN0201-06": "Description of the process to identify and manage products and ingredients of concern and emerging dietary preferences",
+		"CN0201-07": "Number of child advertising impressions made, percentage promoting products meeting the Children’s Food and Beverage Initiative (CFBAI) Uniform Nutrition Criteria",
+		"CN0201-08": "Revenue from products labeled as (1) containing genetically modified organisms (GMOs) and (2) non-GMO",
+		"CN0201-09": "Notices of violations received for non-conformance with regulatory labeling and/or marketing codes ",
+		"CN0201-10": "Amount of legal and regulatory fines and settlements associated with labeling and/or marketing practices",
+		"CN0201-11": "(1) Total weight of packaging, (2) percentage made from recycled or renewable materials, and (3) percentage that is recyclable or compostable",
+		"CN0201-12": "Description of strategies to reduce the environmental impact of packaging throughout its lifecycle",
+		"CN0201-13": "Percentage of beverage ingredients sourced from regions with High or Extremely High Baseline Water Stress",
+		"CN0201-14": "Suppliers’ social and environmental responsibility audit conformance: (1) major non-conformance rate and associated corrective action rate and (2) minor non-conformance rate and associated corrective action rate",
+		"CN0201-15": "List of priority beverage ingredients and discussion of sourcing risks due to environmental and social considerations",
+		"CN0202-01": "Total energy consumed, percentage grid electricity, percentage renewable",
+		"CN0202-02": "(1) Total water withdrawn and (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress",
+		"CN0202-03": "Discussion of water management risks and description of management strategies and practices to mitigate those risks",
+		"CN0202-04": "Number of advertising impressions, percentage made on individuals above the legal drinking age",
+		"CN0202-05": "Notices of violations received for non-conformance with industry and regulatory marketing and/or labeling codes",
+		"CN0202-06": "Amount of legal and regulatory fines and settlements associated with labeling and/or marketing practices",
+		"CN0202-07": "Description of efforts to promote responsible consumption of alcohol",
+		"CN0202-08": "(1) Total weight of packaging, (2) percentage made from recycled or renewable materials, and (3) percentage that is recyclable or compostable",
+		"CN0202-09": "Description of strategies to reduce the environmental impact of packaging throughout its lifecycle",
+		"CN0202-10": "Percentage of beverage ingredients sourced from regions with High or Extremely High Baseline Water Stress",
+		"CN0202-11": "Suppliers’ social and environmental responsibility audit conformance: (1) major non-conformance rate and associated corrective action rate and (2) minor non-conformance rate and associated corrective action rate",
+		"CN0202-12": "List of priority beverage ingredients and discussion of sourcing risks due to environmental and social considerations",
+		"CN0302-01": "Revenue from (1) smokeless tobacco products, (2) non-tobacco nicotine-delivery products, and (3) other \"tobacco harm-reduction\" products",
+		"CN0302-02": "Description of the process to assess risks and opportunities associated with \"tobacco harm-reduction\" products",
+		"CN0302-03": "Amount of legal and regulatory fines, settlements, and enforcement actions associated with marketing, labeling, and advertising",
+		"CN0302-04": "Description of alignment of tobacco advertising, promotion, and sponsorship (TAPS) activities with Article 13 of the World Health Organization Framework Convention on Tobacco Control (WHO FCTC)",
+		"CN0302-05": "Description of alignment of tobacco labeling and packaging practices with Article 11 of the World Health Organization Framework Convention on Tobacco Control (WHO FCTC)",
+		"CN0602-01": "(1) Total water withdrawn and (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress ",
+		"CN0602-02": "Discussion of water management risks and description of strategies and practices to mitigate those risks",
+		"CN0602-03": "(1) Total weight of packaging, (2) percentage made from recycled or renewable materials, and (3) percentage that is recyclable or compostable",
+		"CN0602-04": "Description of strategies to reduce the environmental impact of packaging throughout its lifecycle",
+		"CN0602-05": "Revenue from products that contain REACH substances of very high concern (SVHC)",
+		"CN0602-06": "Revenue from products that contain substances on the California DTSC Candidate Chemicals List ",
+		"CN0602-07": "Discussion of process to identify and manage emerging materials and chemicals of concern",
+		"CN0602-08": "Revenue from products designed with green chemistry principles",
+		"CN0401-01": "Gross global Scope 1 emissions from refrigerants",
+		"CN0401-02": "Percentage of refrigerants consumed with zero ozone-depleting potential",
+		"CN0401-03": "Average refrigerant emissions rate ",
+		"CN0401-04": "Operational energy consumed, percentage grid electricity, percentage renewable energy",
+		"CN0401-05": "Fleet fuel consumed, percentage renewable",
+		"CN0401-06": "Amount of food waste generated, percentage diverted from the waste stream",
+		"CN0401-07": "Discussion of management approach to identifying and addressing data security risks ",
+		"CN0401-08": "Number of data security breaches, percentage involving customers’ personally identifiable information (PII), number of customers affected",
+		"CN0401-09": "High-risk food safety violation rate ",
+		"CN0401-10": "Number of food-safety-related recalls, number of units recalled, percentage for private-label products",
+		"CN0401-11": "Revenue from products labeled and marketed to promote health and nutrition attributes",
+		"CN0401-12": "Description of the process to identify and manage products and ingredients of concern and emerging dietary preferences",
+		"CN0401-13": "Notices of violations received for non-conformance with regulatory labeling and/or marketing codes",
+		"CN0401-14": "Amount of legal and regulatory fines and settlements associated with food marketing and/or labeling",
+		"CN0401-15": "Revenue from products labeled as (1) containing genetically modified organisms (GMOs) and (2) non-GMO",
+		"CN0401-16": "Average hourly wage and percentage of in-store employees earning minimum wage",
+		"CN0401-17": "Percentage of active workforce covered under collective bargaining agreements",
+		"CN0401-18": "Number and total duration of work stoppages",
+		"CN0401-19": "Amount of legal and regulatory fines and settlements associated with (1) labor law violations and (2) employment discrimination",
+		"CN0401-20": "Discussion of strategy to manage environmental and social risks within the supply chain ",
+		"CN0401-21": "Revenue from products third-party certified to an environmental and/or social sustainability sourcing standard",
+		"CN0401-22": "(1) Percentage of eggs sold from cage-free sources and (2) percentage of pork sold from gestation-crate-free sources",
+		"CN0401-23": "Description of strategies to reduce the environmental impact of packaging ",
+		"CN0402-01": "Total energy consumed, percentage grid electricity, percentage renewable energy",
+		"CN0402-02": "Discussion of policies and practices to secure customers’ protected health information (PHI) records and other personally identifiable information (PII)",
+		"CN0402-03": "Number of data security breaches, percentage involving (1) only customers’ PII and (2) customers’ PHI, number of customers affected in each category",
+		"CN0402-04": "Amount of legal and regulatory fines and settlements associated with data security and privacy",
+		"CN0402-05": "Percentage of controlled substance prescriptions dispensed for which a prescription drug monitoring program (PDMP) database was queried ",
+		"CN0402-06": "Amount of legal and regulatory fines and settlements associated with controlled substances",
+		"CN0402-07": "First fill adherence rate",
+		"CN0402-08": "Description of policies and practices to prevent prescription dispensing errors",
+		"CN0402-09": "Amount of legal and regulatory fines and settlements associated with prescription dispensing errors",
+		"CN0402-10": "Percentage of gender and racial/ethnic group representation for pharmacists ",
+		"CN0402-11": "Discussion of efforts to reduce the occurrence of compromised drugs within the supply chain",
+		"CN0402-12": "Number of drug recalls, total units recalled, percentage for private-label products",
+		"CN0403-01": "Total energy consumed, percentage grid electricity, percentage renewable energy",
+		"CN0403-02": "Discussion of management approach to identifying and addressing data security risks",
+		"CN0403-03": "Number of data security breaches, percentage involving customers’ personally identifiable information (PII), number of customers affected ",
+		"CN0403-04": "Percentage of gender and racial/ethnic group representation for (1) management and (2) all other employees",
+		"CN0403-05": "Amount of legal and regulatory fines and settlements associated with employment discrimination",
+		"CN0403-06": "Average hourly wage and percentage of in-store employees earning minimum wage, by region",
+		"CN0403-07": "(1) Voluntary and (2) involuntary employee turnover rate for in-store employees",
+		"CN0403-08": "Amount of legal and regulatory fines and settlements associated with labor law violations   ",
+		"CN0403-09": "Revenue from products third-party certified to environmental and/or social sustainability standards",
+		"CN0403-10": "Description of processes to assess and manage risks and/or hazards associated with chemicals in products",
+		"CN0403-11": "Description of strategies to reduce the environmental impact of packaging",
+		"CN0404-01": "Total energy consumed, percentage grid electricity, percentage renewable energy ",
+		"CN0404-02": "(1) Total water withdrawn and (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress",
+		"CN0404-03": "Description of the integration of environmental considerations into strategic planning for data center needs",
+		"CN0404-04": "Total greenhouse gas (GHG) footprint of product shipments",
+		"CN0404-05": "Description of strategies to reduce the environmental impact of product delivery",
+		"CN0404-06": "Discussion of management approach to identifying and addressing data security risks",
+		"CN0404-07": "Number of data security breaches, percentage involving customers’ personally identifiable information (PII), number of customers affected",
+		"CN0404-08": "Percentage of users whose customer information is collected for secondary purposes, percentage who have opted in",
+		"CN0404-09": "Discussion of policies and practices relating to behavioral advertising and customer privacy",
+		"CN0404-10": "Employee engagement as a percentage",
+		"CN0404-11": "(1) Voluntary and (2) involuntary employee turnover rate",
+		"CN0404-12": "Percentage of gender and racial/ethnic group representation for (1) executives, (2) technical staff, and (3) all others",
+		"CN0404-13": "Percentage of technical employees who are H-1B visa holders",
+		"CN0404-14": "Percentage of successful H-1B visa applications",
+		"CN0501-01": "Description of processes to maintain compliance with restricted substances regulations",
+		"CN0501-02": "Description of processes to assess and manage risks associated with chemicals in products",
+		"CN0501-03": "Top five raw materials used in products, by weight",
+		"CN0501-04": "Percentage of raw materials third-party certified to an environmental or social sustainability standard, by standard",
+		"CN0501-05": "Percentage of (1) tier 1 suppliers and (2) suppliers beyond tier 1 that have been audited to a labor code of conduct, percentage conducted by a third-party auditor",
+		"CN0501-06": "Priority non-conformance rate and associated corrective action rate for suppliers’ labor code of conduct audits",
+		"CN0501-07": "Discussion of greatest (1) labor and (2) environmental, health, and safety risks in the supply chain ",
+		"CN0501-08": "Percentage of (1) tier 1 supplier facilities (2) supplier facilities beyond tier 1 with wastewater discharge meeting or exceeding legal requirements",
+		"CN0501-09": "Percentage of (1) tier 1 suppliers and (2) suppliers beyond tier 1 who have completed the Sustainable Apparel Coalition’s Higg Index Facility Module assessment or equivalent environmental data collection",
+		"CN0601-01": "Number of recalls and total units recalled",
+		"CN0601-02": "Amount of legal and regulatory fines and settlements associated with product safety",
+		"CN0601-03": "Percentage of eligible products certified to a U.S. EPA ENERGY STAR® standard",
+		"CN0601-04": "Percentage of eligible products certified to an Association of Home Appliance Manufacturers (AHAM) sustainability standard",
+		"CN0601-05": "Description of efforts to manage products' end-of-life impacts  ",
+		"CN0603-01": "Total energy consumed, percentage grid electricity, percentage renewable energy",
+		"CN0603-02": "Description of processes to assess and manage risks and/or hazards associated with chemicals in products",
+		"CN0603-03": "Percentage of applicable products meeting volatile organic compound (VOC) emissions and content standards",
+		"CN0603-04": "Discussion of efforts to manage product lifecycle impacts and meet demand for sustainable products",
+		"CN0603-05": "Weight of end-of-life material recovered, percentage of recovered materials that are recycled",
+		"CN0603-06": "Total wood fiber purchased, (1) percentage from third-party certified forestlands, by standard, and (2) percentage meeting other fiber sourcing standards, by standard",
+		"CN0604-01": "Number of recalls and total units recalled",
+		"CN0604-02": "Number of Letters of Advice (LOA) received",
+		"CN0604-03": "Amount of legal and regulatory fines and settlements associated with product safety",
+		"CN0604-04": "Description of processes to assess and manage risks and/or hazards associated with chemicals in products",
+		"CN0604-05": "Number of facilities audited to a social responsibility code of conduct",
+		"CN0604-06": "Direct suppliers’ social responsibility audit compliance: (1) priority non-conformance rate and associated corrective action rate and (2) other non-conformances rate and associated corrective action rate",
+		"CN0602-09": "Amount of palm oil sourced, percentage certified through (1) Roundtable on Sustainable Palm Oil (RSPO) Book & Claim and Mass Balance systems and (2) RSPO Identity Preserved and Segregated systems"
+	},
+	"evidence": {
+		"Agricultural Products": {
+			"Greenhouse Gas Emissions": {
+				"hm_score": 50,
+				"iwg_score": "82%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": false,
+				"cost_capital": true,
+				"efi": "Medium",
+				"prob_mag": true,
+				"extern": true,
+				"fli": "Yes"
+			},
+			"Energy & Fleet Fuel Management": {
+				"hm_score": 33,
+				"iwg_score": "-",
+				"ei": "Medium",
+				"rev_cost": true,
+				"asset_lib": false,
+				"cost_capital": true,
+				"efi": "Medium",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			},
+			"Water Withdrawal": {
+				"hm_score": 88,
+				"iwg_score": "96%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			},
+			"Land Use & Ecological Impacts": {
+				"hm_score": 46,
+				"iwg_score": "93%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": true,
+				"extern": true,
+				"fli": "Yes"
+			},
+			"Food Safety & Health Concerns": {
+				"hm_score": 71,
+				"iwg_score": "100%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": true,
+				"extern": true,
+				"fli": "Yes"
+			},
+			"Fair Labor Practices & Workforce Health & Safety": {
+				"hm_score": 38,
+				"iwg_score": "89%",
+				"ei": "Medium",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": false,
+				"efi": "Medium",
+				"prob_mag": false,
+				"extern": false,
+				"fli": "No"
+			},
+			"Climate Change Impacts on Crop Yields": {
+				"hm_score": 75,
+				"iwg_score": "85%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": false,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": true,
+				"extern": true,
+				"fli": "Yes"
+			},
+			"Environmental & Social Impacts of Ingredient Supply Chains": {
+				"hm_score": 29,
+				"iwg_score": "85%",
+				"ei": "Medium",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": true,
+				"extern": true,
+				"fli": "Yes"
+			},
+			"Management of the Legal & Regulatory Environment": {
+				"hm_score": 0,
+				"iwg_score": "89%",
+				"ei": "Medium",
+				"rev_cost": false,
+				"asset_lib": false,
+				"cost_capital": true,
+				"efi": "Medium",
+				"prob_mag": false,
+				"extern": false,
+				"fli": "No"
+			}
+		},
+		"Meat, Poultry and Dairy": {
+			"Greenhouse Gas Emissions": {
+				"hm_score": 25,
+				"iwg_score": "100%",
+				"ei": "Medium",
+				"rev_cost": true,
+				"asset_lib": false,
+				"cost_capital": true,
+				"efi": "Medium",
+				"prob_mag": true,
+				"extern": true,
+				"fli": "Yes"
+			},
+			"Energy Management": {
+				"hm_score": 69,
+				"iwg_score": "-",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": false,
+				"cost_capital": true,
+				"efi": "Medium",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			},
+			"Water Withdrawal": {
+				"hm_score": 56,
+				"iwg_score": "100%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": false,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			},
+			"Land Use & Ecological Impacts": {
+				"hm_score": 100,
+				"iwg_score": "96%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": false,
+				"extern": true,
+				"fli": "Yes"
+			},
+			"Food Safety": {
+				"hm_score": 83,
+				"iwg_score": "100%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": false,
+				"extern": true,
+				"fli": "Yes"
+			},
+			"Workforce Health & Safety": {
+				"hm_score": 44,
+				"iwg_score": "96%",
+				"ei": "Medium",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": false,
+				"efi": "Medium",
+				"prob_mag": false,
+				"extern": true,
+				"fli": "Yes"
+			},
+			"Antibiotic Use in Animal Production": {
+				"hm_score": 54,
+				"iwg_score": "85%",
+				"ei": "Medium",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": false,
+				"efi": "Medium",
+				"prob_mag": true,
+				"extern": true,
+				"fli": "Yes"
+			},
+			"Animal Care & Welfare": {
+				"hm_score": 54,
+				"iwg_score": "85%",
+				"ei": "Medium",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": false,
+				"efi": "Medium",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			},
+			"Environmental & Social Impacts of Animal Supply Chains": {
+				"hm_score": 67,
+				"iwg_score": "98%",
+				"ei": "Medium",
+				"rev_cost": true,
+				"asset_lib": false,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			},
+			"Environmental Risks in Animal Feed Supply Chains": {
+				"hm_score": 67,
+				"iwg_score": "98%",
+				"ei": "Medium",
+				"rev_cost": true,
+				"asset_lib": false,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			}
+		},
+		"Processed Foods": {
+			"Energy & Fleet Fuel Management": {
+				"hm_score": 53,
+				"iwg_score": "83%",
+				"ei": "Medium",
+				"rev_cost": true,
+				"asset_lib": false,
+				"cost_capital": true,
+				"efi": "Medium",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			},
+			"Water Management": {
+				"hm_score": 70,
+				"iwg_score": "86%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": false,
+				"cost_capital": true,
+				"efi": "Medium",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			},
+			"Food Safety": {
+				"hm_score": 67,
+				"iwg_score": "100%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": false,
+				"extern": true,
+				"fli": "Yes"
+			},
+			"Health & Nutrition": {
+				"hm_score": 73,
+				"iwg_score": "86%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": true,
+				"extern": true,
+				"fli": "Yes"
+			},
+			"Product Labeling & Marketing": {
+				"hm_score": 57,
+				"iwg_score": "93%",
+				"ei": "Medium",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": false,
+				"efi": "High",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			},
+			"Packaging Lifecycle Management": {
+				"hm_score": 20,
+				"iwg_score": "83%",
+				"ei": "Medium",
+				"rev_cost": true,
+				"asset_lib": false,
+				"cost_capital": false,
+				"efi": "Medium",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			},
+			"Environmental & Social Impacts of Ingredient Supply Chains": {
+				"hm_score": 53,
+				"iwg_score": "93%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": true,
+				"extern": true,
+				"fli": "Yes"
+			}
+		},
+		"Non-Alcoholic Beverages": {
+			"Energy & Fleet Fuel Management": {
+				"hm_score": 46,
+				"iwg_score": "67%",
+				"ei": "Medium",
+				"rev_cost": true,
+				"asset_lib": false,
+				"cost_capital": true,
+				"efi": "Medium",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			},
+			"Water Management": {
+				"hm_score": 79,
+				"iwg_score": "89%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			},
+			"Health & Nutrition": {
+				"hm_score": 92,
+				"iwg_score": "83%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": true,
+				"extern": true,
+				"fli": "Yes"
+			},
+			"Product Labeling & Marketing": {
+				"hm_score": 92,
+				"iwg_score": "78%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": false,
+				"efi": "Medium",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			},
+			"Packaging Lifecycle Management": {
+				"hm_score": 19,
+				"iwg_score": "61%",
+				"ei": "Medium",
+				"rev_cost": true,
+				"asset_lib": false,
+				"cost_capital": true,
+				"efi": "Medium",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			},
+			"Environmental & Social Impacts of Ingredient Supply Chains": {
+				"hm_score": 50,
+				"iwg_score": "83%",
+				"ei": "Medium",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			}
+		},
+		"Alcoholic Beverages": {
+			"Energy Management": {
+				"hm_score": 33,
+				"iwg_score": "75%",
+				"ei": "Medium",
+				"rev_cost": true,
+				"asset_lib": false,
+				"cost_capital": true,
+				"efi": "Medium",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			},
+			"Water Management": {
+				"hm_score": 75,
+				"iwg_score": "94%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			},
+			"Responsible Drinking & Marketing": {
+				"hm_score": 89,
+				"iwg_score": "81%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": false,
+				"extern": true,
+				"fli": "Yes"
+			},
+			"Packaging Lifecycle Management": {
+				"hm_score": 58,
+				"iwg_score": "69%",
+				"ei": "Medium",
+				"rev_cost": true,
+				"asset_lib": false,
+				"cost_capital": true,
+				"efi": "Medium",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			},
+			"Environmental & Social Impacts of Ingredient Supply Chains": {
+				"hm_score": 67,
+				"iwg_score": "88%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": true,
+				"extern": true,
+				"fli": "Yes"
+			}
+		},
+		"Tobacco": {
+			"Public Health": {
+				"hm_score": 83,
+				"iwg_score": "86%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": true,
+				"extern": true,
+				"fli": "Yes"
+			},
+			"Marketing Practices": {
+				"hm_score": 55,
+				"iwg_score": "71%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": false,
+				"efi": "High",
+				"prob_mag": false,
+				"extern": true,
+				"fli": "Yes"
+			}
+		},
+		"Food Retailers and Distributors": {
+			"Air Emissions from Refrigeration": {
+				"hm_score": 70,
+				"iwg_score": "94%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": false,
+				"cost_capital": false,
+				"efi": "Medium",
+				"prob_mag": true,
+				"extern": true,
+				"fli": "Yes"
+			},
+			"Energy & Fleet Fuel Management": {
+				"hm_score": 97,
+				"iwg_score": "94%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": true,
+				"efi": "Medium",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			},
+			"Food Waste Management": {
+				"hm_score": 70,
+				"iwg_score": "100%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": false,
+				"efi": "High",
+				"prob_mag": false,
+				"extern": true,
+				"fli": "Yes"
+			},
+			"Data Security": {
+				"hm_score": 55,
+				"iwg_score": "82%",
+				"ei": "Medium",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			},
+			"Food Safety": {
+				"hm_score": 90,
+				"iwg_score": "94%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": false,
+				"extern": false,
+				"fli": "No"
+			},
+			"Product Health & Nutrition": {
+				"hm_score": 97,
+				"iwg_score": "94%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": false,
+				"efi": "High",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			},
+			"Product Labeling & Marketing": {
+				"hm_score": 43,
+				"iwg_score": "94%",
+				"ei": "Medium",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": false,
+				"efi": "Medium",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			},
+			"Fair Labor Practices": {
+				"hm_score": 95,
+				"iwg_score": "85%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": false,
+				"extern": false,
+				"fli": "No"
+			},
+			"Management of Environmental & Social Impacts in the Supply Chain": {
+				"hm_score": 80,
+				"iwg_score": "94%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": true,
+				"extern": true,
+				"fli": "Yes"
+			}
+		},
+		"Drug Retailers and Convenience Stores": {
+			"Energy Management in Retail": {
+				"hm_score": 50,
+				"iwg_score": "90%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": false,
+				"cost_capital": false,
+				"efi": "Medium",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			},
+			"Data Security & Privacy": {
+				"hm_score": 63,
+				"iwg_score": "100%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			},
+			"Management of Controlled Substances": {
+				"hm_score": 100,
+				"iwg_score": "90%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": false,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": false,
+				"extern": false,
+				"fli": "No"
+			},
+			"Patient Health Outcomes": {
+				"hm_score": 100,
+				"iwg_score": "-",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": false,
+				"extern": true,
+				"fli": "Yes"
+			},
+			"Drug Supply Chain Integrity": {
+				"hm_score": 46,
+				"iwg_score": "80%",
+				"ei": "Medium",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": false,
+				"efi": "Medium",
+				"prob_mag": false,
+				"extern": false,
+				"fli": "No"
+			}
+		},
+		"Multiline and Specialty Retailers and Distributors": {
+			"Energy Management in Retail & Distribution": {
+				"hm_score": 85,
+				"iwg_score": "80%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": false,
+				"cost_capital": true,
+				"efi": "Medium",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			},
+			"Data Security": {
+				"hm_score": 70,
+				"iwg_score": "90%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			},
+			"Workforce Diversity & Inclusion": {
+				"hm_score": 65,
+				"iwg_score": "90%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": false,
+				"efi": "Medium",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			},
+			"Fair Labor Practices": {
+				"hm_score": 73,
+				"iwg_score": "100%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": false,
+				"extern": false,
+				"fli": "No"
+			},
+			"Product Sourcing, Packaging, and Marketing": {
+				"hm_score": 68,
+				"iwg_score": "90%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": false,
+				"efi": "High",
+				"prob_mag": false,
+				"extern": false,
+				"fli": "No"
+			}
+		},
+		"E-commerce": {
+			"Energy & Water Footprint of Hardware Infrastructure": {
+				"hm_score": 21,
+				"iwg_score": "94%",
+				"ei": "Medium",
+				"rev_cost": true,
+				"asset_lib": false,
+				"cost_capital": true,
+				"efi": "Medium",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			},
+			"Logistics & Packaging Efficiency": {
+				"hm_score": 17,
+				"iwg_score": "94%",
+				"ei": "Medium",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": true,
+				"efi": "Medium",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			},
+			"Data Security & Fraud Protection": {
+				"hm_score": 63,
+				"iwg_score": "94%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			},
+			"Data Privacy": {
+				"hm_score": 63,
+				"iwg_score": "94%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": false,
+				"efi": "High",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			},
+			"Employee Recruitment, Inclusion, and Performance": {
+				"hm_score": 33,
+				"iwg_score": "65%",
+				"ei": "Medium",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": false,
+				"efi": "High",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			}
+		},
+		"Apparel Accessories and Footwear": {
+			"Management of Chemicals in Products": {
+				"hm_score": 63,
+				"iwg_score": "96%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": false,
+				"efi": "Medium",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			},
+			"Raw Material Sourcing & Innovation": {
+				"hm_score": 27,
+				"iwg_score": "96%",
+				"ei": "Medium",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			},
+			"Labor Conditions in the Supply Chain": {
+				"hm_score": 48,
+				"iwg_score": "100%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": false,
+				"extern": false,
+				"fli": "No"
+			},
+			"Environmental Impacts in the Supply Chain": {
+				"hm_score": 43,
+				"iwg_score": "100%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": false,
+				"efi": "Medium",
+				"prob_mag": true,
+				"extern": true,
+				"fli": "Yes"
+			}
+		},
+		"Appliance Manufacturing": {
+			"Product Safety": {
+				"hm_score": 20,
+				"iwg_score": "100%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": false,
+				"efi": "High",
+				"prob_mag": false,
+				"extern": false,
+				"fli": "No"
+			},
+			"Product Lifecycle Environmental Impacts": {
+				"hm_score": 65,
+				"iwg_score": "93%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": false,
+				"efi": "High",
+				"prob_mag": true,
+				"extern": true,
+				"fli": "Yes"
+			}
+		},
+		"Building Products and Furnishings": {
+			"Energy Management in Manufacturing": {
+				"hm_score": 56,
+				"iwg_score": "76%",
+				"ei": "Medium",
+				"rev_cost": true,
+				"asset_lib": false,
+				"cost_capital": true,
+				"efi": "Medium",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			},
+			"Management of Chemicals in Products": {
+				"hm_score": 56,
+				"iwg_score": "86%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": true,
+				"extern": true,
+				"fli": "Yes"
+			},
+			"Product Lifecycle Environmental Impacts": {
+				"hm_score": 50,
+				"iwg_score": "71%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": false,
+				"efi": "High",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			},
+			"Wood Sourcing": {
+				"hm_score": 25,
+				"iwg_score": "71%",
+				"ei": "Medium",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": true,
+				"extern": true,
+				"fli": "Yes"
+			}
+		},
+		"Toys and Sporting Goods": {
+			"Chemical & Safety Hazards of Products": {
+				"hm_score": 56,
+				"iwg_score": "100%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": false,
+				"extern": false,
+				"fli": "No"
+			},
+			"Labor Conditions in the Supply Chain": {
+				"hm_score": 33,
+				"iwg_score": "100%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": true,
+				"efi": "Medium",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			}
+		},
+		"Household and Personal Products": {
+			"Water Management": {
+				"hm_score": 33,
+				"iwg_score": "86%",
+				"ei": "Medium",
+				"rev_cost": true,
+				"asset_lib": false,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			},
+			"Packaging Lifecycle Management": {
+				"hm_score": 33,
+				"iwg_score": "79%",
+				"ei": "Medium",
+				"rev_cost": true,
+				"asset_lib": false,
+				"cost_capital": false,
+				"efi": "Medium",
+				"prob_mag": true,
+				"extern": false,
+				"fli": "Yes"
+			},
+			"Product Environmental, Health, and Safety Performance": {
+				"hm_score": 100,
+				"iwg_score": "75%",
+				"ei": "High",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": false,
+				"efi": "High",
+				"prob_mag": false,
+				"extern": true,
+				"fli": "Yes"
+			},
+			"Environmental & Social Impacts of Palm Oil Supply Chain": {
+				"hm_score": 56,
+				"iwg_score": "86%",
+				"ei": "Medium",
+				"rev_cost": true,
+				"asset_lib": true,
+				"cost_capital": true,
+				"efi": "High",
+				"prob_mag": false,
+				"extern": true,
+				"fli": "Yes"
+			}
+		}
+	}
+}

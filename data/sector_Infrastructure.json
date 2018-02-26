@@ -1,0 +1,1051 @@
+
+
+
+
+{
+    "industries": {
+
+        "Real Estate Services": {   
+ "Lifecycle impacts of products and services": {"topics": { "Sustainability Services":{   
+"metric_codes":  ["IF0403-01", "IF0403-02","IF0403-03"]
+}
+}},
+
+ "Business ethics and transparency of payments": {"topics": {   "Transparent Information & Management of Conflict of Interest":{   
+"metric_codes":  ["IF0403-04", "IF0403-05", "IF0403-06"]
+}
+}}
+
+},
+
+    "Real Estate Owners, Developers and Investment Trusts": {  
+
+ "Lifecycle impacts of products and services": {"topics": { "Management of Tenant Sustainability Impacts":{   
+"metric_codes":  ["IF0402-10", "IF0402-11", "IF0402-12"]
+}
+}
+},
+ "Energy management": {"topics": {  "Energy Management":{   
+"metric_codes":  ["IF0402-01", "IF0402-02", "IF0402-03", "IF0402-04", "IF0402-05"]
+},
+"Management of Tenant Sustainability Impacts":{   
+"metric_codes":  ["IF0402-10", "IF0402-11", "IF0402-12"]
+}
+}
+},
+
+ "Water and wastewater management": {"topics": { "Water Management":{   
+"metric_codes":  ["IF0402-06", "IF0402-07", "IF0402-08", "IF0402-09"]
+},
+  "Management of Tenant Sustainability Impacts":{   
+"metric_codes":  ["IF0402-10", "IF0402-11", "IF0402-12"]
+}
+}
+},
+
+ "Environmental, social impacts on assets & operations": {"topics": {    "Climate Change Adaptation":{   
+"metric_codes":  ["IF0402-13", "IF0402-13"]
+}
+}
+}
+},
+
+  
+     "Home Builders": { 
+ "Biodiversity impacts": {"topics": {   "Land Use & Ecological Impacts":{   
+"metric_codes":  ["IF0401-01", "IF0401-02", "IF0401-03", "IF0401-04"]
+}
+}
+},
+ "Employee health, safety and wellbeing": {"topics": {  "Workforce Health & Safety":{   
+"metric_codes":  ["IF0401-05"]
+}
+}
+},
+"Water and wastewater management": {"topics": {  "Land Use & Ecological Impacts":{   
+"metric_codes":  ["IF0401-02"]
+}
+}
+},
+ "Lifecycle impacts of products and services": {"topics": { "Design for Resource Efficiency":{   
+"metric_codes":  ["IF0401-06", "IF0401-07", "IF0401-08", "IF0401-09"]
+}, "Community Impacts of New Developments":{   
+"metric_codes":  ["IF0401-10", "IF0401-11", "IF0401-12"]
+}
+}
+},
+
+ "Environmental, social impacts on assets & operations": {"topics": {    "Climate Change Adaptation":{   
+"metric_codes":  ["IF0401-13", "IF0401-14"]
+}
+}
+}                  
+},
+ 
+  
+     "Engineering and Construction Services": { 
+
+
+"Biodiversity impacts": {"topics": {    "Environmental Impacts of Project Development":{   
+"metric_codes":  ["IF0301-01", "IF0301-02"]
+}
+}
+},
+ "Customer welfare": {"topics": {   "Structural Integrity & Safety":{   
+"metric_codes":  ["IF0301-03", "IF0301-04"]
+}
+}
+},
+ "Employee health, safety and wellbeing": {"topics": {  "Workforce Health & Safety":{   
+"metric_codes":  ["IF0301-05"]
+}
+}
+},
+ "Environmental, social impacts on assets & operations": {"topics": {    "Climate Impacts of Business Mix":{   
+"metric_codes":  ["IF0301-06", "IF0301-07", "IF0301-08"]
+}
+}
+},
+ "Lifecycle impacts of products and services": {"topics": { "Lifecycle Impacts of Buildings & Infrastructure":{   
+"metric_codes":  ["IF0301-09", "IF0301-10"]
+}
+}
+},
+ "Business ethics and transparency of payments": {"topics": {   "Business Ethics & Bidding Integrity":{   
+"metric_codes":  ["IF0301-11", "IF0301-12", "IF0301-13"]
+}
+}
+},
+ "Competitive behavior": {"topics": {   "Business Ethics & Bidding Integrity":{   
+"metric_codes":  ["IF0301-11", "IF0301-12", "IF0301-13"]
+}
+}
+                  
+}},
+  
+  
+     "Waste Management": { 
+
+
+ "GHG emissions": {"topics": {  "Greenhouse Gas Emissions":{   
+"metric_codes":  ["IF0201-01", "IF0201-02", "IF0201-03"]
+}
+}
+},
+ "Air quality": {"topics": {    "Air Quality":{   
+"metric_codes":  ["IF0201-04", "IF0201-05", "IF0201-06"]
+}
+}
+},
+ "Fuel management": {"topics": {    "Fleet Fuel Management":{   
+"metric_codes":  ["IF0201-07", "IF0201-08"]
+}
+}
+},
+ "Waste and hazardous materials management": {"topics": {   "Management of Leachate & Hazardous Waste":{   
+"metric_codes":  ["IF0201-09", "IF0201-10", "IF0201-11"]
+}
+}
+},
+ "Employee health, safety and wellbeing": {"topics": {  "Workforce Health & Safety":{   
+"metric_codes":  ["IF0201-12", "IF0201-13", "IF0201-14"]
+}
+}
+},
+ "Labor relations": {"topics": {    "Labor Relations":{   
+"metric_codes":  ["IF0201-15", "IF0201-16"]
+}
+}
+},
+ "Lifecycle impacts of products and services": {"topics": { "Recycling & Resource Recovery":{   
+"metric_codes":  ["IF0201-17", "IF0201-18", "IF0201-19", "IF0201-20"]
+}
+}
+}                  
+},
+  
+     "Water Utilities": {   
+
+
+ "Energy management": {"topics": {  "Energy Management":{   
+"metric_codes":  ["IF0103-01"]
+}
+}
+},
+ 
+ "Water and wastewater management": {"topics": {    "Effluent Quality Management":{   
+"metric_codes":  ["IF0103-02", "IF0103-03"]
+},  "Water Scarcity":{   
+"metric_codes":  ["IF0103-04", "IF0103-05", "IF0103-06"]
+}
+}
+},
+
+ "Customer welfare": {"topics": {   "Drinking Water Quality":{   
+"metric_codes":  ["IF0103-07", "IF0103-08"]
+}
+}
+},
+ "Access and affordability": {"topics": {   "Fair Pricing & Access":{   
+"metric_codes":  ["IF0103-09", "IF0103-10"]
+}
+}
+},
+ "Lifecycle impacts of products and services": {"topics": { "End-Use Efficiency":{   
+"metric_codes":  ["IF0103-11"]
+},
+ "Distribution Network Efficiency":{   
+"metric_codes":  ["IF0103-12", "IF0103-13"]
+}
+}
+},
+ "Environmental, social impacts on assets & operations": {"topics": {    "Network Resiliency & Impacts of Climate Change":{   
+"metric_codes":  ["IF0103-14", "IF0103-15", "IF0103-16", "IF0103-17"]
+}
+}                 
+}
+},
+  
+  
+     "Gas Utilities": { 
+      
+"Lifecycle impacts of products and services": {"topics": {  "End-Use Efficiency":{   
+"metric_codes":  ["IF0102-01"]
+}
+}
+},
+ "Accident and safety management": {"topics": { "Operational Safety, Emergency Preparedness, and Response":{   
+"metric_codes":  ["IF0102-02", "IF0102-03", "IF0102-04", "IF0102-05"]
+}
+}
+
+}
+},
+ 
+  
+  
+     "Electric Utilities": { 
+
+
+     "GHG emissions": {"topics": {  "Greenhouse Gas Emissions & Energy Resource Planning":{   
+"metric_codes":  ["IF0101-01", "IF0101-02", "IF0101-03"]
+}
+}
+},
+ "Air quality": {"topics": {    "Air Quality":{   
+"metric_codes":  ["IF0101-04"]
+}
+}
+},
+ "Water and wastewater management": {"topics": {    "Water Management":{   
+"metric_codes":  ["IF0101-05","IF0101-06", "IF0101-07"]
+}
+}
+},
+ "Waste and hazardous materials management": {"topics": {   "Coal Ash Management":{   
+"metric_codes":  ["IF0101-08", "IF0101-09"]
+}
+}
+},
+ "Human rights and community relations": {"topics": {   "Community Impacts of Project Siting":{   
+"metric_codes":  ["IF0101-10", "IF0101-11"]
+}
+}
+},
+ "Employee health, safety and wellbeing": {"topics": {  "Workforce Health & Safety":{   
+"metric_codes":  ["IF0101-12"]
+}
+}
+},
+ "Lifecycle impacts of products and services": {"topics": { "End-Use Efficiency & Demand":{   
+"metric_codes":  ["IF0101-13", "IF0101-14"]
+}
+}
+},
+ "Accident and safety management": {"topics": { "Nuclear Safety & Emergency Management":{   
+"metric_codes":  ["IF0101-15", "IF0101-16"]
+}
+}
+},
+ "Systemic risk management": {"topics": {   "Grid Resiliency":{   
+"metric_codes":  ["IF0101-17", "IF0101-18"]
+}
+}
+},
+ "Regulatory capture and political influence": {"topics": { "Management of the Legal & Regulatory Environment":{   
+"metric_codes":  ["IF0101-19", "IF0101-20", "IF0101-21"]
+}
+}   
+                  
+}
+} 
+
+},
+    
+    "metrics": {
+
+    "IF0101-01": "(1) Gross global Scope 1 emissions, (2) percentage covered under emissions-limiting regulations, and (3) percentage covered under emissions-reporting regulations",
+    "IF0101-02": "Description of long-term and short-term strategy or plan to manage Scope 1 emissions, emission-reduction targets, and an analysis of performance against those targets",
+    "IF0101-03": "(1) Number of customers served in markets subject to renewable portfolio standards (RPS) and (2) percentage fulfillment of RPS target by market",
+    "IF0101-04": "Air emissions of the following pollutants: NOx (excluding N2O), SOx, particulate matter (PM10), Pb, and Hg; percentage of each in or near areas of dense population",
+    "IF0101-05": "(1) Total water withdrawn and (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress",
+    "IF0101-06": "Number of incidents of non-compliance with water quality and/or quantity permits, standards, and regulations",
+    "IF0101-07": "Discussion of water management risks and description of strategies and practices to mitigate those risks",
+    "IF0101-08": "Amount of coal combustion residuals (CCR) generated, percentage recycled",
+    "IF0101-09": "Total number of coal combustion residual (CCR) impoundments and number by EPA Hazard Potential Classification, broken down by EPA structural integrity assessment",
+    "IF0101-10": "Number of projects requiring environmental or social modification, percentage of modifications resulting from formal public interventions or protests",
+    "IF0101-11": "Discussion of community engagement processes to identify and mitigate concerns regarding project environmental and community impacts",
+    "IF0101-12": "(1) Total recordable injury rate (TRIR), (2) fatality rate, and (3) near miss frequency rate (NMFR)",
+    "IF0101-13": "Percentage of electric load served by smart grid technology",
+    "IF0101-14": "Customer electricity savings from efficiency measures by market",
+    "IF0101-15": "Total number of nuclear power units, broken down by Nuclear Regulatory Commission (NRC) Action Matrix Column",
+    "IF0101-16": "Discussion of efforts to manage nuclear safety and emergency preparedness",
+    "IF0101-17": "Number of incidents of non-compliance with North American Electric Reliability Corporation (NERC) Critical Infrastructure Protection standards",
+    "IF0101-18": "(1) System Average Interruption Duration Index (SAIDI), (2) System Average Interruption Frequency Index (SAIFI), and (3) Customer Average Interruption Duration Index (CAIDI), inclusive of major event days",
+    "IF0101-19": "Discussion of policies and processes to identify and manage potential ethical violations resulting from interactions with utility commissions",
+    "IF0101-20": "Amount of legal and regulatory fines and settlements associated with allegations of violations resulting from interactions with utility commissions",
+    "IF0101-21": "Discussion of positions on the regulatory and political environment related to environmental and social factors and description of efforts to manage risks and opportunities presented",
+    "IF0102-01": "Customer gas savings from efficiency measures by market",
+    "IF0102-02": "Number of (1) reportable pipeline incidents, (2) Corrective Action Orders (CAO), and (3) Notices of Probable Violation (NOPV)",
+    "IF0102-03": "Average response time for gas emergencies",
+    "IF0102-04": "Percentage of distribution pipeline that is (1) cast and/or wrought iron and (2) unprotected steel",
+    "IF0102-05": "Discussion of management systems used to integrate a culture of safety and emergency preparedness throughout project lifecycles",
+    "IF0103-01": "Total energy consumed, percentage grid electricity, percentage renewable",
+    "IF0103-02": "Number of incidents of non-compliance with water effluent quality permits, standards, and regulations",
+    "IF0103-03": "Discussion of strategies to manage effluents of emerging concern",
+    "IF0103-04": "Total fresh water sourced from regions with High or Extremely High Baseline Water Stress and percentage purchased from a third party",
+    "IF0103-05": "Volume of recycled water delivered",
+    "IF0103-06": "Discussion of strategies to manage risks associated with the quality and availability of water resources",
+    "IF0103-07": "Number of (1) acute health-based, (2) non-acute health-based, and (3) non-health-based drinking water violations",
+    "IF0103-08": "Discussion of strategies to manage drinking water contaminants of emerging concern",
+    "IF0103-09": "Number of formal customer complaints regarding pricing of and/or access to water received, percentage withdrawn",
+    "IF0103-10": "Discussion of how considerations of fair pricing and access are integrated into determinations of rate structures",
+    "IF0103-11": "Customer water savings from efficiency measures by market",
+    "IF0103-12": "Water pipe replacement rate",
+    "IF0103-13": "Volume of non-revenue real water losses",
+    "IF0103-14": "Water treatment capacity located in FEMA Special Flood Hazard Areas or foreign equivalent",
+    "IF0103-15": "Volume of sanitary sewer overflows (SSO), percentage recovered",
+    "IF0103-16": "(1) Number of service disruptions, (2) population affected, and (3) average duration",
+    "IF0103-17": "Discussion of efforts to identify and manage risks and opportunities related to the impact of climate change on the distribution network",
+    "IF0201-01": "(1) Gross global Scope 1 emissions, (2) percentage covered under emissions-limiting regulation, and (3) percentage covered under emissions-reporting regulation",
+    "IF0201-02": "Total landfill gas generated, percentage flared, percentage used for energy",
+    "IF0201-03": "Description of long-term and short-term strategy or plan to manage Scope 1 emissions, emission-reduction targets, and an analysis of performance against those targets",
+    "IF0201-04": "Air emissions of the following pollutants: NOx (excluding N2O), SOx, non-methane volatile organic compounds (NMVOCs), and hazardous air pollutants (HAPs)",
+    "IF0201-05": "Number of facilities in or near areas of dense population",
+    "IF0201-06": "Number of incidents of non-compliance associated with air emissions",
+    "IF0201-07": "Fleet fuel consumed, percentage renewable",
+    "IF0201-08": "Percentage of alternative energy vehicles in fleet",
+    "IF0201-09": "Total Toxic Release Inventory (TRI) releases, percentage released to water",
+    "IF0201-10": "Number of corrective actions implemented for landfill releases",
+    "IF0201-11": "Number of incidents of non-compliance associated with environmental impacts",
+    "IF0201-12": "(1) Total recordable injury rate (TRIR), (2) fatality rate, and (3) near miss frequency rate (NMFR) for (a) direct employees and (b) contract employees",
+    "IF0201-13": "Safety Measurement System BASIC percentiles for: (1) Unsafe Driving, (2) Hours-of-Service Compliance, (3) Driver Fitness, (4) Controlled Substances/Alcohol, (5) Vehicle Maintenance, and (6) Hazardous Materials Compliance",
+    "IF0201-14": "Number of vehicle accidents and incidents",
+    "IF0201-15": "Percentage of active workforce covered under collective bargaining agreements",
+    "IF0201-16": "Number and duration of strikes and lockouts",
+    "IF0201-17": "Amount of waste incinerated, percentage hazardous, percentage used for energy recovery",
+    "IF0201-18": "Percentage of customers receiving (1) recycling and (2) composting services, by customer type",
+    "IF0201-19": "Amount of material (1) recycled and (2) composted",
+    "IF0201-20": "Amount of electronic waste collected, percentage recovered through recycling",
+    "IF0301-01": "Number of incidents of non-compliance with environmental permits, standards, and regulations",
+    "IF0301-02": "Discussion of processes to assess and manage environmental risks associated with project design, siting, and construction",
+    "IF0301-03": "Amount of defect- and safety-related rework expenses",
+    "IF0301-04": "Amount of legal and regulatory fines and settlements associated with defect- and safety-related incidents",
+    "IF0301-05": "(1) Total recordable injury rate (TRIR) and (2) fatality rate for (a) direct employees and (b) contract employees",
+    "IF0301-06": "Backlog for (1) hydrocarbon-related projects and (2) renewable energy projects",
+    "IF0301-07": "Amount of backlog cancellations associated with hydrocarbon-related projects",
+    "IF0301-08": "Backlog for non-energy projects associated with climate change mitigation",
+    "IF0301-09": "Number of (1) commissioned projects certified to a multi-attribute sustainability standard and (2) active projects seeking such certification",
+    "IF0301-10": "Description of process to incorporate operational-phase energy and water efficiency considerations into project planning and design",
+    "IF0301-11": "(1) Number of active projects and (2) backlog in countries that have the 20 lowest rankings in Transparency International's Corruption Perception Index",
+    "IF0301-12": "Amount of legal and regulatory fines and settlements associated with charges of (1) bribery or corruption and (2) anti-competitive practices",
+    "IF0301-13": "Description of policies and practices for prevention of        (1) corruption and bribery and (2) anti-competitive behavior in the project bidding processes",
+    "IF0401-01": "Number of (1) lots and (2) homes delivered on redevelopment sites",
+    "IF0401-02": "Number of (1) lots and (2) homes delivered in regions with High or Extremely High Baseline Water Stress",
+    "IF0401-03": "Amount of legal and regulatory fines and settlements associated with environmental regulations",
+    "IF0401-04": "Description of process to integrate environmental considerations into site selection, site design, and site development and construction",
+    "IF0401-05": "(1) Total recordable injury rate (TRIR) and (2) fatality rate for (a) direct employees and (b) contract employees",
+    "IF0401-06": "(1) Number of homes that obtained a certified HERS&reg; Index Score and (2) average score",
+    "IF0401-07": "Percentage of installed water fixtures certified to EPA WaterSense&reg; specifications",
+    "IF0401-08": "Number of homes delivered certified to a multi-attribute green building standard",
+    "IF0401-09": "Discussion of risks and opportunities related to incorporating resource efficiency into home design and description of how benefits are communicated to customers",
+    "IF0401-10": "Discussion of how proximity and access to infrastructure and community services affect site selection and development decisions",
+    "IF0401-11": "Number of (1) lots and (2) homes delivered on infill sites",
+    "IF0401-12": "(1) Number of homes delivered in compact developments and (2) average density",
+    "IF0401-13": "Number of lots located in FEMA Special Flood Hazard Areas or foreign equivalent",
+    "IF0401-14": "Description of climate change risk exposure analysis, degree of systematic portfolio exposure, and strategies for mitigating risks",
+    "IF0402-01": "Energy consumption data coverage as a percentage of floor area, by property subsector",
+    "IF0402-02": "Total energy consumed by portfolio area with data coverage, percentage grid electricity, and percentage renewable, each by property subsector",
+    "IF0402-03": "Like-for-like change in energy consumption of portfolio area with data coverage, by property subsector",
+    "IF0402-04": "Percentage of eligible portfolio that (1) has obtained an energy rating and (2) is certified to ENERGY STAR&reg;, by property subsector",
+    "IF0402-05": "Description of how building energy management considerations are integrated into property investment analysis and operational strategy",
+    "IF0402-06": "Water withdrawal data coverage as a percentage of total floor area and percentage in regions with High or Extremely High Baseline Water Stress, each by property subsector",
+    "IF0402-07": "Total water withdrawn by portfolio area with data coverage and percentage in regions with High or Extremely High Baseline Water Stress, each by property subsector",
+    "IF0402-08": "Like-for-like change in water withdrawn for portfolio area with data coverage, by property subsector",
+    "IF0402-09": "Discussion of water management risks and description of strategies and practices to mitigate those risks",
+    "IF0402-10": "Percentage of new leases that contain a cost recovery clause for resource efficiency-related capital improvements and associated leased floor area, by property subsector",
+    "IF0402-11": "Percentage of tenants that are separately metered or submetered for (1) grid electricity consumption and (2) water withdrawals, by property subsector",
+    "IF0402-12": "Description of approach to measuring, incentivizing, and improving sustainability impacts of tenants",
+    "IF0402-13": "Area of properties located in FEMA Special Flood Hazard Areas or foreign equivalent, by property subsector",
+    "IF0402-14": "Description of climate change risk exposure analysis, degree of systematic portfolio exposure, and strategies for mitigating risks",
+    "IF0403-01": "Revenue from energy and sustainability services",
+    "IF0403-02": "(1) Floor area and (2) number of buildings under management provided with energy and sustainability services",
+    "IF0403-03": "(1) Floor area and (2) number of buildings under management that obtained an energy rating",
+    "IF0403-04": "Brokerage revenue from dual agency transactions",
+    "IF0403-05": "Revenue from transactions associated with appraisal services",
+    "IF0403-06": "Amount of legal and regulatory fines and settlements associated with professional integrity or duty of care"
+
+
+
+},
+        "evidence": {
+
+ 
+        "Real Estate Services": {   
+"Sustainability Services":{   
+
+    "hm_score": "79%",
+    "iwg_score": "82%",
+    "ei": "Medium",
+    "rev_cost": true,
+    "asset_lib": true,
+    "cost_capital": false,
+    "efi": "High",
+    "prob_mag": true,
+    "ext": true,
+    "fli": "Yes"
+
+  
+},
+
+  "Transparent Information & Management of Conflict of Interest":{  
+   "hm_score": "75%",
+    "iwg_score": "91%",
+    "ei": "High",
+    "rev_cost": true,
+    "asset_lib": true,
+    "cost_capital": true,
+    "efi": "High",
+    "prob_mag": false,
+    "ext": true,
+    "fli": "Yes" 
+
+}
+
+},
+
+    "Real Estate Owners, Developers and Investment Trusts": {  
+
+ "Management of Tenant Sustainability Impacts":{ 
+  "hm_score": "33%",
+    "iwg_score": "-",
+    "ei": "Medium",
+    "rev_cost": true,
+    "asset_lib": true,
+    "cost_capital": false,
+    "efi": "High",
+    "prob_mag": true,
+    "ext": true,
+    "fli": "Yes"  
+
+},
+"Energy Management":{   
+     "hm_score": "78%",
+    "iwg_score": "81%",
+    "ei": "High",
+    "rev_cost": true,
+    "asset_lib": true,
+    "cost_capital": true,
+    "efi": "High",
+    "prob_mag": true,
+    "ext": true,
+    "fli": "Yes"
+},
+
+ "Water Management":{ 
+ "hm_score": "33%",
+    "iwg_score": "-",
+    "ei": "Medium",
+    "rev_cost": true,
+    "asset_lib": true,
+    "cost_capital": true,
+    "efi": "Medium",
+    "prob_mag": true,
+    "ext": true,
+    "fli": "Yes"  
+},
+
+
+ "Climate Change Adaptation":{ 
+  "hm_score": "42%",
+    "iwg_score": "74%",
+    "ei": "Medium",
+    "rev_cost": true,
+    "asset_lib": true,
+    "cost_capital": true,
+    "efi": "Medium",
+    "prob_mag": true,
+    "ext": false,
+    "fli": "Yes"  
+}
+
+},
+
+  
+     "Home Builders": { 
+"Land Use & Ecological Impacts":{   
+     "hm_score": "57%",
+    "iwg_score": "90%",
+    "ei": "Medium",
+    "rev_cost": true,
+    "asset_lib": true,
+    "cost_capital": true,
+    "efi": "High",
+    "prob_mag": true,
+    "ext": false,
+    "fli": "Yes"
+
+},
+ "Workforce Health & Safety":{   
+ "hm_score": "63%",
+    "iwg_score": "90%",
+    "ei": "High",
+    "rev_cost": true,
+    "asset_lib": true,
+    "cost_capital": false,
+    "efi": "Medium",
+    "prob_mag": false,
+    "ext": false,
+    "fli": "No"
+},
+
+"Design for Resource Efficiency":{   
+      "hm_score": "71%",
+    "iwg_score": "100%",
+    "ei": "High",
+    "rev_cost": true,
+    "asset_lib": true,
+    "cost_capital": false,
+    "efi": "High",
+    "prob_mag": true,
+    "ext": true,
+    "fli": "Yes"
+}, 
+"Community Impacts of New Developments":{   
+  "hm_score": "-",
+    "iwg_score": "80%",
+    "ei": "High",
+    "rev_cost": true,
+    "asset_lib": true,
+    "cost_capital": true,
+    "efi": "High",
+    "prob_mag": true,
+    "ext": true,
+    "fli": "Yes"
+},
+
+"Climate Change Adaptation":{   
+    "hm_score": "63%",
+    "iwg_score": "-",
+    "ei": "High",
+    "rev_cost": true,
+    "asset_lib": true,
+    "cost_capital": true,
+    "efi": "Medium",
+    "prob_mag": true,
+    "ext": true,
+    "fli": "Yes"
+}                  
+},
+ 
+  
+     "Engineering and Construction Services": { 
+
+
+"Environmental Impacts of Project Development":{  
+
+"hm_score": "88%",
+    "iwg_score": "90%",
+    "ei": "High",
+    "rev_cost": true,
+    "asset_lib": true,
+    "cost_capital": true,
+    "efi": "High",
+    "prob_mag": false,
+    "ext": true,
+    "fli": "Yes" 
+
+},
+"Structural Integrity & Safety":{   
+ "hm_score": "25%",
+    "iwg_score": "95%",
+    "ei": "High",
+    "rev_cost": true,
+    "asset_lib": true,
+    "cost_capital": true,
+    "efi": "High",
+    "prob_mag": true,
+    "ext": true,
+    "fli": "Yes"
+
+},
+ "Workforce Health & Safety":{   
+     "hm_score": "69%",
+    "iwg_score": "95%",
+    "ei": "High",
+    "rev_cost": true,
+    "asset_lib": true,
+    "cost_capital": false,
+    "efi": "Medium",
+    "prob_mag": false,
+    "ext": false,
+    "fli": "No"
+
+},
+   "Climate Impacts of Business Mix":{  
+     "hm_score": "19%",
+    "iwg_score": "75%",
+    "ei": "Medium",
+    "rev_cost": true,
+    "asset_lib": false,
+    "cost_capital": true,
+    "efi": "Medium",
+    "prob_mag": true,
+    "ext": false,
+      "fli": "Yes" 
+},
+  "Lifecycle Impacts of Buildings & Infrastructure":{   
+
+    "hm_score": "96%",
+    "iwg_score": "90%",
+    "ei": "High",
+    "rev_cost": true,
+    "asset_lib": true,
+    "cost_capital": false,
+    "efi": "Medium",
+    "prob_mag": true,
+    "ext": true,
+    "fli": "Yes"
+},
+ "Business Ethics & Bidding Integrity":{   
+    "hm_score": "69%",
+    "iwg_score": "88%",
+    "ei": "High",
+    "rev_cost": true,
+    "asset_lib": true,
+    "cost_capital": true,
+    "efi": "High",
+    "prob_mag": false,
+    "ext": false,
+    "fli": "No"  
+
+                  
+}},
+  
+  
+     "Waste Management": { 
+
+
+  "Greenhouse Gas Emissions":{   
+
+    "hm_score": "42%",
+    "iwg_score": "72%",
+    "ei": "Medium",
+    "rev_cost": true,
+    "asset_lib": false,
+    "cost_capital": false,
+    "efi": "Medium",
+    "prob_mag": true,
+    "ext": true,
+    "fli": "Yes"
+
+},
+"Air Quality":{ 
+  "hm_score": "42%",
+    "iwg_score": "-",
+    "ei": "High",
+    "rev_cost": true,
+    "asset_lib": true,
+    "cost_capital": false,
+    "efi": "Medium",
+    "prob_mag": true,
+    "ext": true,
+    "fli": "Yes"
+
+},
+
+ "Fleet Fuel Management":{   
+
+     "hm_score": "33%",
+    "iwg_score": "78%",
+    "ei": "Medium",
+    "rev_cost": true,
+    "asset_lib": false,
+    "cost_capital": true,
+    "efi": "Medium",
+    "prob_mag": false,
+    "ext": false,
+    "fli": "No"
+},
+ "Management of Leachate & Hazardous Waste":{   
+
+     "hm_score": "100%",
+    "iwg_score": "89%",
+    "ei": "High",
+    "rev_cost": true,
+    "asset_lib": true,
+    "cost_capital": true,
+    "efi": "High",
+    "prob_mag": false,
+    "ext": true,
+    "fli": "Yes"
+
+},
+ "Workforce Health & Safety":{
+
+     "hm_score": "25%",
+    "iwg_score": "83%",
+    "ei": "High",
+    "rev_cost": true,
+    "asset_lib": true,
+    "cost_capital": false,
+    "efi": "Medium",
+    "prob_mag": false,
+    "ext": false,
+    "fli": "No"
+},
+ "Labor Relations":{  
+   "hm_score": "25%",
+    "iwg_score": "90%",
+    "ei": "High",
+    "rev_cost": true,
+    "asset_lib": false,
+    "cost_capital": false,
+    "efi": "High",
+    "prob_mag": false,
+    "ext": false,
+    "fli": "No" 
+
+},
+"Recycling & Resource Recovery":{   
+       "hm_score": "75%",
+    "iwg_score": "78%",
+    "ei": "Medium",
+    "rev_cost": true,
+    "asset_lib": false,
+    "cost_capital": false,
+    "efi": "Medium",
+    "prob_mag": true,
+    "ext": true,
+    "fli": "Yes"
+
+}                  
+},
+  
+     "Water Utilities": {   
+
+
+"Energy Management":{   
+
+  "hm_score": "88%",
+    "iwg_score": "94%",
+    "ei": "High",
+    "rev_cost": true,
+    "asset_lib": false,
+    "cost_capital": true,
+    "efi": "High",
+    "prob_mag": true,
+    "ext": false,
+    "fli": "Yes"
+
+},
+ 
+ "Effluent Quality Management":{   
+      "hm_score": "100%",
+    "iwg_score": "88%",
+    "ei": "High",
+    "rev_cost": true,
+    "asset_lib": true,
+    "cost_capital": false,
+    "efi": "Medium",
+    "prob_mag": false,
+    "ext": false,
+    "fli": "No"
+
+},  "Water Scarcity":{   
+     "hm_score": "100%",
+    "iwg_score": "94%",
+    "ei": "High",
+    "rev_cost": true,
+    "asset_lib": false,
+    "cost_capital": true,
+    "efi": "High",
+    "prob_mag": true,
+    "ext": true,
+    "fli": "Yes"
+
+},
+
+  "Drinking Water Quality":{   
+      "hm_score": "58%",
+    "iwg_score": "88%",
+    "ei": "High",
+    "rev_cost": true,
+    "asset_lib": true,
+    "cost_capital": true,
+    "efi": "High",
+    "prob_mag": false,
+    "ext": true,
+    "fli": "Yes"
+
+},
+  "Fair Pricing & Access":{   
+    "hm_score": "25%",
+    "iwg_score": "94%",
+    "ei": "Medium",
+    "rev_cost": true,
+    "asset_lib": true,
+    "cost_capital": true,
+    "efi": "High",
+    "prob_mag": false,
+    "ext": true,
+    "fli": "Yes"
+
+},
+
+"End-Use Efficiency":{   
+"hm_score": "50%",
+    "iwg_score": "82%",
+    "ei": "Medium",
+    "rev_cost": true,
+    "asset_lib": false,
+    "cost_capital": true,
+    "efi": "Medium",
+    "prob_mag": true,
+    "ext": true,
+    "fli": "Yes"
+
+},
+ "Distribution Network Efficiency":{   
+
+    "hm_score": "100%",
+    "iwg_score": "82%",
+    "ei": "High",
+    "rev_cost": true,
+    "asset_lib": false,
+    "cost_capital": false,
+    "efi": "High",
+    "prob_mag": true,
+    "ext": false,
+    "fli": "Yes"
+  
+  
+},
+  "Network Resiliency & Impacts of Climate Change":{   
+  
+    "hm_score": "50%",
+    "iwg_score": "71%",
+    "ei": "Medium",
+    "rev_cost": true,
+    "asset_lib": true,
+    "cost_capital": true,
+    "efi": "High",
+    "prob_mag": true,
+    "ext": false,
+    "fli": "Yes"
+  
+}
+},
+  
+  
+     "Gas Utilities": { 
+      
+"End-Use Efficiency":{   
+
+     "hm_score": "63%",
+    "iwg_score": "67%",
+    "ei": "Medium",
+    "rev_cost": true,
+    "asset_lib": false,
+    "cost_capital": true,
+    "efi": "Medium",
+    "prob_mag": true,
+    "ext": true,
+    "fli": "Yes"
+
+
+},
+ "Operational Safety, Emergency Preparedness, and Response":{   
+  "hm_score": "71%",
+    "iwg_score": "75%",
+    "ei": "High",
+    "rev_cost": true,
+    "asset_lib": true,
+    "cost_capital": true,
+    "efi": "High",
+    "prob_mag": true,
+    "ext": false,
+    "fli": "Yes"
+
+
+}
+},
+ 
+  
+  
+     "Electric Utilities": { 
+
+
+      "Greenhouse Gas Emissions & Energy Resource Planning":{  
+    "hm_score": "94%",
+    "iwg_score": "98%",
+    "ei": "High",
+    "rev_cost": true,
+    "asset_lib": true,
+    "cost_capital": true,
+    "efi": "High",
+    "prob_mag": true,
+    "ext": true,
+    "fli": "Yes"
+  
+
+},
+   "Air Quality":{   
+
+  
+    "hm_score": "94%",
+    "iwg_score": "91%",
+    "ei": "High",
+    "rev_cost": true,
+    "asset_lib": true,
+    "cost_capital": false,
+    "efi": "High",
+    "prob_mag": true,
+    "ext": true,
+    "fli": "Yes"
+  
+    
+
+},
+
+   "Water Management":{   
+    "hm_score": "63%",
+    "iwg_score": "91%",
+    "ei": "High",
+    "rev_cost": true,
+    "asset_lib": true,
+    "cost_capital": true,
+    "efi": "High",
+    "prob_mag": true,
+    "ext": true,
+    "fli": "Yes"
+  
+
+},
+  "Coal Ash Management":{   
+        "hm_score": "75%",
+    "iwg_score": "86%",
+    "ei": "High",
+    "rev_cost": true,
+    "asset_lib": true,
+    "cost_capital": false,
+    "efi": "Medium",
+    "prob_mag": false,
+    "ext": true,
+    "fli": "Yes"
+
+
+},
+
+   "Community Impacts of Project Siting":{   
+        "hm_score": "46%",
+    "iwg_score": "77%",
+    "ei": "Medium",
+    "rev_cost": true,
+    "asset_lib": true,
+    "cost_capital": true,
+    "efi": "Medium",
+    "prob_mag": true,
+    "ext": false,
+    "fli": "Yes"
+
+
+},
+  "Workforce Health & Safety":{   
+
+    "hm_score": "50%",
+    "iwg_score": "-",
+    "ei": "High",
+    "rev_cost": true,
+    "asset_lib": true,
+    "cost_capital": false,
+    "efi": "Medium",
+    "prob_mag": false,
+    "ext": false,
+    "fli": "No"
+
+
+
+},
+ "End-Use Efficiency & Demand":{   
+
+
+        "hm_score": "96%",
+    "iwg_score": "77%",
+    "ei": "High",
+    "rev_cost": true,
+    "asset_lib": false,
+    "cost_capital": true,
+    "efi": "Medium",
+    "prob_mag": true,
+    "ext": true,
+    "fli": "Yes"
+
+
+},
+ "Nuclear Safety & Emergency Management":{   
+
+    "hm_score": "67%",
+    "iwg_score": "-",
+    "ei": "High",
+    "rev_cost": true,
+    "asset_lib": true,
+    "cost_capital": true,
+    "efi": "High",
+    "prob_mag": false,
+    "ext": true,
+    "fli": "Yes"
+
+},
+  "Grid Resiliency":{   
+    "hm_score": "63%",
+    "iwg_score": "89%",
+    "ei": "High",
+    "rev_cost": true,
+    "asset_lib": true,
+    "cost_capital": true,
+    "efi": "High",
+    "prob_mag": true,
+    "ext": true,
+    "fli": "Yes"
+
+},
+ "Management of the Legal & Regulatory Environment":{   
+    "hm_score": "75%",
+    "iwg_score": "84%",
+    "ei": "High",
+    "rev_cost": true,
+    "asset_lib": true,
+    "cost_capital": true,
+    "efi": "High",
+    "prob_mag": true,
+    "ext": true,
+    "fli": "Yes"
+
+                  
+            }
+  
+        }
+
+    }
+}
