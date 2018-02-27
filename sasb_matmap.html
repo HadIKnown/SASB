@@ -53,6 +53,7 @@
 
     #issuesContainer {
                       display: inline-block;
+                      float: left;
                      }
 
     #allContainer {
@@ -114,8 +115,7 @@
      <div id = 'popTopic'></div>
      <div id = 'popMetric'></div>
     </div>
-    <div id = 'allContainer'>
-     <div id = 'issuesContainer'>
+    <div id = 'issuesContainer'>
       <div style="height: 40px; text-align: center">Issues</div>
       <table>
        <table>
@@ -125,6 +125,8 @@
        </table>
       </table>
      </div>
+    <div id = 'allContainer'>
+     <!-- Take issuesContainer out of allContainer to not scroll issues -->
     </div>
 <script>
  
